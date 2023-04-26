@@ -147,7 +147,7 @@ tools:
 $(ELF): $(O_FILES) $(LDSCRIPT)
 	@echo Linking ELF $@
 	$(QUIET) @echo $(O_FILES) > build/o_files
-	$(QUIET) $(LD) $(LDFLAGS) -o $@ -lcf $(LDSCRIPT) @build/o_files
+	$(LD) $(LDFLAGS) -o $@ -lcf $(LDSCRIPT) @build/o_files
 
 %.d.unix: %.d $(TRANSFORM_DEP)
 	@echo Processing $<

@@ -51,14 +51,14 @@ header = (
     "DOL = $BUILD_DIR/main.dol\n"
     "ELF = $BUILD_DIR/main.elf\n"
     "MAP = $BUILD_DIR/ttyd_us.map\n"
-    "LDSCRIPT_DOL = $BUILD_DIR/ldscript.lcf\n"
-    "LDSCRIPT_REL = $BUILD_DIR/partial.lcf\n"
+    "LDSCRIPT_DOL = ldscript.lcf\n"
+    "LDSCRIPT_REL = partial.lcf\n"
     "OPTFLAGS = -O4,p\n"
     "DOL = $BUILD_DIR/main.dol\n"
     "MWCC_VERSION = GC/1.3.2\n"
     "MWLD_VERSION = GC/1.3.2\n"
-    "CC = ${WIBO} tools/mwcc_compiler/$MWCC_VERSION/mwcceppc.exe\n"
-    "LD = ${WIBO} tools/mwcc_compiler/$MWLD_VERSION/mwldeppc.exe\n"
+    "CC = wine tools/mwcc_compiler/$MWCC_VERSION/mwcceppc.exe\n"
+    "LD = wine tools/mwcc_compiler/$MWLD_VERSION/mwldeppc.exe\n"
     "ELF2DOL = tools/elf2dol\n"
     "SHA1SUM = sha1sum\n"
     "INCLUDES = -i include/\n"
@@ -66,7 +66,7 @@ header = (
     "ASFLAGS = -mgekko $ASM_INCLUDES\n"
     "MAPGEN = -map $MAP\n"
     "LDFLAGS = $MAPGEN -fp hard -nodefaults\n"
-    "CFLAGS = -Cpp_exceptions off -proc gekko -fp hard -O4,p -nodefaults -sdata 48 -sdata2 8 -inline all,deferred -use_lmw_stmw on -enum int -rostr $INCLUDES\n"
+    "CFLAGS = -Cpp_exceptions off -proc gekko -fp hard $OPTFLAGS -nodefaults -sdata 48 -sdata2 8 -inline all,deferred -use_lmw_stmw on -enum int -rostr $INCLUDES\n"
 )
 
 # Create a Ninja build file object
@@ -83,19 +83,19 @@ ninja_file.rule('gen_ldscript',
 
 # Define a new rule
 ninja_file.rule('s_files',
-                 command = "$AS $ASFLAGS -o $in $out",
+                 command = "$AS $ASFLAGS -o $out $in",
                  description = "Assembling .s file",
                  deps = "msvc")
 
 # Define a new rule
 ninja_file.rule('make_elf',
-                 command = "$LD $LDFLAGS -o $in -lcf $LDSCRIPT $out",
-                 description = "O Files to ELF",
+                 command = "$LD $LDFLAGS -o $out -lcf $LDSCRIPT_DOL $in",
+                 description = ".o Files to ELF",
                  deps = "msvc")
 
 # Define a new rule
 ninja_file.rule('make_dol',
-                 command = "($ELF2DOL $out $in) && ($SHA1SUM -c ttyd.us.sha1)",
+                 command = "($ELF2DOL $in $out) && ($SHA1SUM -c ttyd.us.sha1)",
                  description = "Converting ELF to DOL",
                  deps = "msvc")
 

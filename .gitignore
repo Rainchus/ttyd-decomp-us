@@ -1,0 +1,10 @@
+build/
+.ninja_deps
+.ninja_log
+build.ninja
+main.dol
+tools/mwcc_compiler/
+tools/elf2rel
+tools/elf2dol
+tools/dadosod.exe
+tools/relInfoPrint

@@ -148,6 +148,12 @@ ninja_file.rule('make_pre_rel',
                  description = "ELF to pre REL",
                  deps = "msvc")
 
+# Define a new rule
+ninja_file.rule('make_pre_rel2',
+                 command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out) && (python3 ./tools/ppcdis/elf2rel.py build/rels/aaa/aaa.rel build/ttyd_us.elf)",
+                 description = "ELF to pre REL",
+                 deps = "msvc")
+
 # # Define a new rule
 # ninja_file.rule('make_aaa_rel',
 #                  command = "$ELF2REL $in $ELF -i 1 -o 0x0 -l 0x2D -c 15 $out",
@@ -171,7 +177,7 @@ with open('build.ninja', 'a') as file:
     for aaa_s_file in aaa_s_files:
         file.write("build build/" + os.path.splitext(aaa_s_file)[0] + ".s.o: " + "s_files " + s_file + "\n")
     
-    file.write("build build/rels/aaa/aaa.rel: make_pre_rel " + " ".join(aaa_o_files) + " build/ttyd_us.elf" "\n")
+    file.write("build build/rels/aaa/aaa.rel: make_pre_rel2 " + " ".join(aaa_o_files) + " build/ttyd_us.elf" "\n")
 
 
 # # Generate a build statement that uses the new rule

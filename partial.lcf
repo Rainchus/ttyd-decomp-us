@@ -1,3 +1,7 @@
+MEMORY {
+    text : origin = 0x805BA9A0
+}
+
 SECTIONS
 {
     GROUP :

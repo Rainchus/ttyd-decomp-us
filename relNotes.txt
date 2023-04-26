@@ -1,0 +1,56 @@
+START OF REL HEADER ===================================
+    /* 0x00 */ 00000001 - moduleID
+    /* 0x04 */ 00000000 - nextModule
+    /* 0x08 */ 00000000 - prevModule
+    /* 0x0C */ 0000000E - sectionCount
+    /* 0x10 */ 00000048 - sectionTableOffset
+    /* 0x14 */ 00000000 - moduleNameOffset
+    /* 0x18 */ 0000002F - moduleNameSize
+    /* 0x1C */ 00000002 - formatVersion
+    /* 0x20 */ 0000005C - bssSize
+    /* 0x24 */ 00005C9D - relocationTableOffset
+    /* 0x28 */ 00007A4D - importTableOffset
+    /* 0x2C */ 00000010 - importTableSize
+    /* 0x30 */ 01       - prologSection
+    /* 0x31 */ 01       - epilogSection
+    /* 0x32 */ 0000     - unresolvedSection
+    /* 0x34 */ 00000000 - prologOffset
+    /* 0x38 */ 00000054 - epilogOffset
+    /* 0x3C */ 00000000 - unresolvedOffset
+    /* 0x40 */ 00000020 - align
+    /* 0x44 */ 00000008 - bssAlign
+    /* 0x48 */ 00002BAC - fixSize
+
+START OF SECTION TABLE ===============================
+    /* 0x4C */ 00000000 always0Offset
+    /* 0x50 */ 00000000 always0Size
+    /* 0x54 */ 000000B9 .textOffset (bit 1 being on means executable)
+    /* 0x58 */ 000029C8 .textSize
+    /* 0x5C */ 00002A80 .ctorsOffset
+    /* 0x60 */ 00000004 .ctorsSize
+    /* 0x64 */ 00002A84 .dtorsOffset
+    /* 0x68 */ 00000004 .dtorsSize
+    /* 0x6C */ 00002A88 .rodataOffset
+    /* 0x70 */ 000000DC .rodataSize
+    /* 0x74 */ 00002B80 .dataOffset
+    /* 0x78 */ 0000311D .dataSize
+    /* 0x7C */ 00000000 .bssOffset
+    /* 0x80 */ 0000005C .bssSize
+
+    //all sections below this are blank
+    /* 0x84 */ 00000000 unk_84_Offset
+    /* 0x88 */ 00000000 unk_84_Size
+    /* 0x8C */ 00000000 unk_8C_Offset
+    /* 0x90 */ 00000000 unk_8C_Size
+    /* 0x94 */ 00000000 unk_94_Offset
+    /* 0x98 */ 00000000 unk_94_Size
+    /* 0x9C */ 00000000 unk_9C_Offset
+    /* 0xA0 */ 00000000 unk_9C_Size
+    /* 0xA4 */ 00000000 unk_A4_Offset
+    /* 0xA8 */ 00000000 unk_A4_Size
+    /* 0xAC */ 00000000 unk_AC_Offset
+    /* 0xB0 */ 00000000 unk_AC_Size
+    /* 0xB4 */ 00000000 unk_B4_Offset
+    /* 0xB8 */ 00000000 unk_B4_Size
+START OF .TEXT SECTION =============================
+    /* 0xBC */ 

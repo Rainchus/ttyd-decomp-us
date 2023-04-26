@@ -1,0 +1,14 @@
+# Project
+ninja_syntax
+prettytable
+requests
+
+# ppcdis
+-r ./tools/ppcdis/requirements.txt
+
+# asm-differ
+colorama
+ansiwrap
+watchdog
+levenshtein
+cxxfilt

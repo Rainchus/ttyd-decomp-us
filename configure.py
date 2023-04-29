@@ -127,18 +127,18 @@ def is_bash():
 if is_bash():
     # Define a new rule
     ninja_file.rule('make_dol',
-                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c ttyd.us.sha1 > /dev/null; "
+                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c sha1/ttyd.us.sha1 > /dev/null; "
                             "if [ $$? -eq 0 ]; then "
                             "printf '\\033[32mDOL Checksum matches\\033[0m\\n'; "
                             "else "
-                            "printf '\\033[31mDOLChecksum does not match\\033[0m\\n'; "
+                            "printf '\\033[31mDOL Checksum does not match\\033[0m\\n'; "
                             "fi)",
                     description = "Converting ELF to DOL",
                     deps = "msvc")
 else:
     # Define a new rule
     ninja_file.rule('make_dol',
-                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c ttyd.us.sha1)",
+                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c sha1/ttyd.us.sha1 > /dev/null; )",
                     description = "Converting ELF to DOL",
                     deps = "msvc")
                     
@@ -150,8 +150,14 @@ ninja_file.rule('make_pre_rel',
 
 # Define a new rule
 ninja_file.rule('make_pre_rel2',
-                 command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out) && (python3 ./tools/ppcdis/elf2rel.py build/rels/aaa/aaa.rel build/ttyd_us.elf)",
+                 command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out)",
                  description = "ELF to pre REL",
+                 deps = "msvc")
+
+# Define a new rule
+ninja_file.rule('make_rel_ok',
+                 command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 1 -v 3 --name-size 2D build/rels/aaa/aaa.rel build/ttyd_us.elf) && ($SHA1SUM -c sha1/aaa.rel.sha1)",
+                 description = "Checkum check",
                  deps = "msvc")
 
 # # Define a new rule
@@ -173,11 +179,13 @@ with open('build.ninja', 'a') as file:
 
     #aaa_rel
     for aaa_c_file in aaa_c_files:
-        file.write("build build/" + os.path.splitext(aaa_c_file)[0] + ".c.o: " + "c_files " + c_file + "\n")
+        file.write("build build/" + os.path.splitext(aaa_c_file)[0] + ".c.o: " + "c_files " + aaa_c_file + "\n")
     for aaa_s_file in aaa_s_files:
-        file.write("build build/" + os.path.splitext(aaa_s_file)[0] + ".s.o: " + "s_files " + s_file + "\n")
+        file.write("build build/" + os.path.splitext(aaa_s_file)[0] + ".s.o: " + "s_files " + aaa_s_file + "\n")
     
     file.write("build build/rels/aaa/aaa.rel: make_pre_rel2 " + " ".join(aaa_o_files) + " build/ttyd_us.elf" "\n")
+    file.write("build build/rels/aaa/aaa.rel.ok: make_rel_ok build/rels/aaa/aaa.rel\n")
+    # make_rel_ok
 
 
 # # Generate a build statement that uses the new rule

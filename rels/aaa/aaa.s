@@ -286,7 +286,7 @@ lbl_00000458:
 
 # 4
 .section .rodata
-.balign 16
+.balign 8
 lbl_00000460:
     # 0x460
     .4byte 0x6161615F
@@ -3086,5 +3086,7 @@ lbl_00002A7C:
 
 # 6
 .section .bss
+.balign 8
 lbl_10000000:
     .skip 0x4
+    

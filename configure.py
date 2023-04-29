@@ -49,8 +49,8 @@ for root, dirs, files in os.walk(aaa_rel_path):
         if file.endswith('.s'):
             aaa_s_files.append(os.path.join(root, file))
 
-def append_extension(filename):
-    return filename + '.o'
+def append_extension(filename, extension='.o'):
+    return filename + extension
 
 # Combine the lists and change file extensions
 o_files = []
@@ -86,6 +86,7 @@ header = (
     "MAPGEN = -map $MAP\n"
     "LDFLAGS = $MAPGEN -fp hard -nodefaults\n"
     "CFLAGS = -Cpp_exceptions off -proc gekko -fp hard $OPTFLAGS -nodefaults -sdata 48 -sdata2 8 -inline all,deferred -use_lmw_stmw on -enum int -rostr $INCLUDES\n"
+    "NAME = ttyd_us\n"
     #"LD_REL = $LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out\n"
 )
 
@@ -141,12 +142,6 @@ else:
                     command = "($ELF2DOL $in $out) && ($SHA1SUM -c sha1/ttyd.us.sha1 > /dev/null; )",
                     description = "Converting ELF to DOL",
                     deps = "msvc")
-                    
-# Define a new rule
-ninja_file.rule('make_pre_rel',
-                 command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out) && ($ELF2REL $out $ELF -i 1 -o 0x0 -l 0x2D -c 15 $out)",
-                 description = "ELF to pre REL",
-                 deps = "msvc")
 
 # Define a new rule
 ninja_file.rule('make_pre_rel2',
@@ -155,45 +150,35 @@ ninja_file.rule('make_pre_rel2',
                  deps = "msvc")
 
 # Define a new rule
-ninja_file.rule('make_rel_ok',
-                 command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 1 -v 3 --name-size 2D build/rels/aaa/aaa.rel build/ttyd_us.elf) && ($SHA1SUM -c sha1/aaa.rel.sha1)",
+ninja_file.rule('aaa_elf_to_rel',
+                 command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 1 -v 3 --name-size 2D $in build/ttyd_us.elf) && ($SHA1SUM -c sha1/aaa.rel.sha1)",
+                 description = "aaa.rel.rel building...",
+                 deps = "msvc")
+
+# Define a new rule
+ninja_file.rule('aji_elf_to_rel',
+                 command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 2 -v 3 --name-size 2D $in build/ttyd_us.elf) && ($SHA1SUM -c sha1/aji.rel.sha1)",
                  description = "Checkum check",
                  deps = "msvc")
 
-# # Define a new rule
-# ninja_file.rule('make_aaa_rel',
-#                  command = "$ELF2REL $in $ELF -i 1 -o 0x0 -l 0x2D -c 15 $out",
-#                  description = "Pre REL to ELF",
-#                  deps = "msvc")
+for c_file in c_files:
+    ninja_file.build("build/" + append_extension(c_file), "c_files", c_file)
+for s_file in s_files:
+    ninja_file.build("build/" + append_extension(s_file), "s_files", s_file)
 
+ninja_file.build("build/ttyd_us.elf", "make_elf ", o_files)
+ninja_file.build("build/ttyd_us.dol", "make_dol ", "build/ttyd_us.elf")
 
-ninja_file.close()
+for aaa_c_file in aaa_c_files:
+    ninja_file.build("build/" + append_extension(aaa_c_file), "c_files", aaa_c_file)
+for aaa_s_file in aaa_s_files:
+    ninja_file.build("build/" + append_extension(aaa_s_file), "s_files", aaa_s_file)
 
-with open('build.ninja', 'a') as file:
-    for c_file in c_files:
-        file.write("build build/" + os.path.splitext(c_file)[0] + ".c.o: " + "c_files " + c_file + "\n")
-    for s_file in s_files:
-        file.write("build build/" + os.path.splitext(s_file)[0] + ".s.o: " + "s_files " + s_file + "\n")
-    file.write("build build/ttyd_us.elf: make_elf " + " ".join(o_files) + "\n")
-    file.write("build build/ttyd_us.dol: make_dol build/ttyd_us.elf\n")
+ninja_file.build("build/rels/aaa/aaa.rel", "make_pre_rel2",  aaa_o_files, "build/ttyd_us.elf")
+ninja_file.build("build build/rels/aaa/aaa.rel.ok", "aaa_elf_to_rel",  "build/rels/aaa/aaa.rel")
 
-    #aaa_rel
-    for aaa_c_file in aaa_c_files:
-        file.write("build build/" + os.path.splitext(aaa_c_file)[0] + ".c.o: " + "c_files " + aaa_c_file + "\n")
-    for aaa_s_file in aaa_s_files:
-        file.write("build build/" + os.path.splitext(aaa_s_file)[0] + ".s.o: " + "s_files " + aaa_s_file + "\n")
-    
-    file.write("build build/rels/aaa/aaa.rel: make_pre_rel2 " + " ".join(aaa_o_files) + " build/ttyd_us.elf" "\n")
-    file.write("build build/rels/aaa/aaa.rel.ok: make_rel_ok build/rels/aaa/aaa.rel\n")
-    # make_rel_ok
-
-
-# # Generate a build statement that uses the new rule
-# ninja_file.build('LDSCRIPT_DOL', 'gen_ldscript')
-# ninja_file.build('LDSCRIPT_DOL', 's_files')
-
-# Close the Ninja build file object
-ninja_file = ninja_syntax.Writer(open('build.ninja', 'a'))
+# ninja_file.build("build/rels/aji/aja.rel", "make_pre_rel2",  aji_o_files, "build/ttyd_us.elf")
+# ninja_file.build("build build/rels/aji/aji.rel.ok", "aji_elf_to_rel",  "build/rels/aji/aji.rel")
 
 print ("build.ninja generated")
 ninja_file.close()

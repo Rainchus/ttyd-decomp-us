@@ -1,1 +1,1 @@
-python3 configure.py "$@"
+python3 ./tools/configure.py "$@"

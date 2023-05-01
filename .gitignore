@@ -7,3 +7,4 @@ tools/mwcc_compiler/
 tools/relInfoPrint
 rels/bin/
 disasm_stuff/
+asm/

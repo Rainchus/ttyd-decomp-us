@@ -1,3 +1,1 @@
-gcc -O3 -Wall -s -o tools/elf2dol tools/elf2dol.c
-gcc -O3 -Wall -s -o tools/elf2rel tools/elf2rel.c
 python3 configure.py "$@"

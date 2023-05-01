@@ -39,12 +39,16 @@ for root, dirs, files in os.walk(asm_path):
 
 aaa_c_files = []
 for root, dirs, files in os.walk(aaa_rel_path):
+    if 'rels/bin' in root: #skip rel binaries
+        continue  # skip this directory
     for file in files:
         if file.endswith('.c'):
             aaa_c_files.append(os.path.join(root, file))
 
 aaa_s_files = []
 for root, dirs, files in os.walk(aaa_rel_path):
+    if 'rels/bin' in root: #skip rel binaries
+        continue  # skip this directory
     for file in files:
         if file.endswith('.s'):
             aaa_s_files.append(os.path.join(root, file))
@@ -77,7 +81,7 @@ header = (
     "MWLD_VERSION = GC/1.3.2\n"
     "CC = $$WIBO tools/mwcc_compiler/$MWCC_VERSION/mwcceppc.exe\n"
     "LD = $$WIBO tools/mwcc_compiler/$MWLD_VERSION/mwldeppc.exe\n"
-    "ELF2DOL = tools/elf2dol\n"
+    "ELF2DOL = ./tools/ppcdis/elf2dol.py\n"
     "ELF2REL = tools/elf2rel\n"
     "SHA1SUM = sha1sum\n"
     "INCLUDES = -i include/\n"
@@ -102,60 +106,36 @@ ninja_file.rule('gen_ldscript',
                  depfile = "$out.d",
                  deps = "msvc")
 
-# Define a new rule
 ninja_file.rule('c_files',
                  command = "$CC $CFLAGS -c -o $in $out",
                  description = "Compiling .c file",
                  deps = "msvc")
 
-# Define a new rule
 ninja_file.rule('s_files',
                  command = "$AS $ASFLAGS -o $out $in",
                  description = "Assembling .s file",
                  deps = "msvc")
 
-# Define a new rule
 ninja_file.rule('make_elf',
                  command = "$LD $LDFLAGS -o $out -lcf $LDSCRIPT_DOL $in",
                  description = ".o Files to ELF",
                  deps = "msvc")
 
-def is_bash():
-    shell = os.environ.get('SHELL')
-    return 'bash' in shell if shell else False
-
-#if using bash, use fancy colored text when DOL matches
-if is_bash():
-    # Define a new rule
-    ninja_file.rule('make_dol',
-                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c sha1/ttyd.us.sha1 > /dev/null; "
-                            "if [ $$? -eq 0 ]; then "
-                            "printf '\\033[32mDOL Checksum matches\\033[0m\\n'; "
-                            "else "
-                            "printf '\\033[31mDOL Checksum does not match\\033[0m\\n'; "
-                            "fi)",
-                    description = "Converting ELF to DOL",
-                    deps = "msvc")
-else:
-    # Define a new rule
-    ninja_file.rule('make_dol',
-                    command = "($ELF2DOL $in $out) && ($SHA1SUM -c sha1/ttyd.us.sha1 > /dev/null; )",
-                    description = "Converting ELF to DOL",
-                    deps = "msvc")
-
-# Define a new rule
+ninja_file.rule('make_dol',
+                command = "(python3 $ELF2DOL $in -o $out) && ($SHA1SUM -c sha1/ttyd.us.sha1)",
+                description = "Converting ELF to DOL",
+                deps = "msvc")
+        
 ninja_file.rule('make_pre_rel2',
                  command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out)",
                  description = "ELF to pre REL",
                  deps = "msvc")
 
-# Define a new rule
 ninja_file.rule('aaa_elf_to_rel',
                  command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 1 -v 3 --name-size 2D $in build/ttyd_us.elf) && ($SHA1SUM -c sha1/aaa.rel.sha1)",
                  description = "aaa.rel.rel building...",
                  deps = "msvc")
 
-# Define a new rule
 ninja_file.rule('aji_elf_to_rel',
                  command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 2 -v 3 --name-size 2D $in build/ttyd_us.elf) && ($SHA1SUM -c sha1/aji.rel.sha1)",
                  description = "Checkum check",
@@ -169,13 +149,13 @@ for s_file in s_files:
 ninja_file.build("build/ttyd_us.elf", "make_elf ", o_files)
 ninja_file.build("build/ttyd_us.dol", "make_dol ", "build/ttyd_us.elf")
 
-for aaa_c_file in aaa_c_files:
-    ninja_file.build("build/" + append_extension(aaa_c_file), "c_files", aaa_c_file)
-for aaa_s_file in aaa_s_files:
-    ninja_file.build("build/" + append_extension(aaa_s_file), "s_files", aaa_s_file)
+# for aaa_c_file in aaa_c_files:
+#     ninja_file.build("build/" + append_extension(aaa_c_file), "c_files", aaa_c_file)
+# for aaa_s_file in aaa_s_files:
+#     ninja_file.build("build/" + append_extension(aaa_s_file), "s_files", aaa_s_file)
 
-ninja_file.build("build/rels/aaa/aaa.rel", "make_pre_rel2",  aaa_o_files, "build/ttyd_us.elf")
-ninja_file.build("build build/rels/aaa/aaa.rel.ok", "aaa_elf_to_rel",  "build/rels/aaa/aaa.rel")
+# ninja_file.build("build/rels/aaa/aaa.rel", "make_pre_rel2",  aaa_o_files, "build/ttyd_us.elf")
+# ninja_file.build("build build/rels/aaa/aaa.rel.ok", "aaa_elf_to_rel",  "build/rels/aaa/aaa.rel")
 
 # ninja_file.build("build/rels/aji/aja.rel", "make_pre_rel2",  aji_o_files, "build/ttyd_us.elf")
 # ninja_file.build("build build/rels/aji/aji.rel.ok", "aji_elf_to_rel",  "build/rels/aji/aji.rel")

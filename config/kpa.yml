@@ -1,0 +1,4 @@
+path: rels/bin/kpa.rel
+bss_address: 0x803C9700
+address: 0x80BA71D0
+dol: config/dol.yml

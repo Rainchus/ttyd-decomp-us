@@ -1,0 +1,4 @@
+path: rels/bin/end.rel
+bss_address: 0x803C9218
+address: 0x809F19EC
+dol: config/dol.yml

@@ -1,0 +1,4 @@
+path: rels/bin/jin.rel
+bss_address: 0x803C8BB8
+address: 0x8083E3C4
+dol: config/dol.yml

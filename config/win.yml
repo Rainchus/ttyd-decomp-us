@@ -1,0 +1,4 @@
+path: rels/bin/win.rel
+bss_address: 0x803C9AD8
+address: 0x80C9C9EC
+dol: config/dol.yml

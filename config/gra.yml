@@ -1,0 +1,4 @@
+path: rels/bin/gra.rel
+bss_address: 0x803C9900
+address: 0x80C2C9F8
+dol: config/dol.yml

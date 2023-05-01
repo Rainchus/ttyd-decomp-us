@@ -1,0 +1,4 @@
+path: rels/bin/dou.rel
+bss_address: 0x803C9658
+address: 0x80B27978
+dol: config/dol.yml

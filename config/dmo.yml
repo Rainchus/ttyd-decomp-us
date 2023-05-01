@@ -1,0 +1,4 @@
+path: rels/bin/dmo.rel
+bss_address: 0x803C8FF0
+address: 0x80915770
+dol: config/dol.yml

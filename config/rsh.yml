@@ -1,4 +1,4 @@
 path: rels/bin/rsh.rel
-bss_address: 0x803C96B8
-address: 0x80B5ABC4
+bss_address: 0x803C9750
+address: 0x80B5AC60
 dol: config/dol.yml

@@ -1,4 +1,4 @@
 path: rels/bin/sys.rel
-bss_address: 0x803C944C
-address: 0x80A7DD44
+bss_address: 0x803C94D0
+address: 0x80A7DDD0
 dol: config/dol.yml

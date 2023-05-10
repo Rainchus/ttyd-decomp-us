@@ -1,4 +1,4 @@
 path: rels/bin/bom.rel
-bss_address: 0x803C84BC
-address: 0x805CF7D4
+bss_address: 0x803C84D0
+address: 0x805CF7E0
 dol: config/dol.yml

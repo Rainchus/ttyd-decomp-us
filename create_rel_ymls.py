@@ -39,6 +39,8 @@ for filename in os.listdir("rels/bin"):
 
             # Calculate the BSS address based on the offset and the previous BSS address
             bss_address += bss_offset
+            #align to 8
+            bss_address += (0x10 - bss_address) % 0x10
 
             # Generate the output dictionary
             size = os.path.getsize(filepath)
@@ -57,3 +59,5 @@ for filename in os.listdir("rels/bin"):
 
             # Update start address for next rel file
             START_ADDRESS += size
+            #align to 8
+            START_ADDRESS += (0x10 - START_ADDRESS) % 0x10

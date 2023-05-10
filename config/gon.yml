@@ -1,4 +1,4 @@
 path: rels/bin/gon.rel
-bss_address: 0x803C9398
-address: 0x80A1C2DC
+bss_address: 0x803C9410
+address: 0x80A1C360
 dol: config/dol.yml

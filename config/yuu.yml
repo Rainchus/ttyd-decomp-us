@@ -1,4 +1,4 @@
 path: rels/bin/yuu.rel
-bss_address: 0x803C8B70
-address: 0x807F6960
+bss_address: 0x803C8BA0
+address: 0x807F6990
 dol: config/dol.yml

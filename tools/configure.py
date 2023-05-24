@@ -56,6 +56,9 @@ for root, dirs, files in os.walk(aaa_rel_path):
 def append_extension(filename, extension='.o'):
     return filename + extension
 
+def append_prefix(filename, extension):
+    return extension + filename
+
 # Combine the lists and change file extensions
 o_files = []
 for file in c_files + s_files:

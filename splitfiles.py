@@ -8,6 +8,10 @@ import argparse
 if not os.path.exists("asm"):
     os.makedirs("asm")
 
+# Create 'asm/aaa' directory if it doesn't exist
+if not os.path.exists("asm/aaa"):
+    os.makedirs("asm/aaa")
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--rels", action="store_true", help="Disassemble rels")
 args = parser.parse_args()
@@ -21,7 +25,7 @@ subprocess.run(["python3", "./tools/ppcdis/relextern.py", "asm/relextern_out_fil
 
 # Run analyser.py on aaa.yml
 print("Running analyser.py...")
-subprocess.run(["python3", "./tools/ppcdis/analyser.py", "config/aaa.yml", "asm/label_aaa_out.txt", "asm/relocs_aaa_out.txt", "-l", "asm/relextern_out_file"])
+subprocess.run(["python3", "./tools/ppcdis/analyser.py", "config/aaa.yml", "asm/aaa/label_aaa_out.txt", "asm/aaa/relocs_aaa_out.txt", "-l", "asm/relextern_out_file"])
 
 # Run analyser.py on dol.yml
 print("Running analyser.py...")
@@ -36,4 +40,4 @@ subprocess.run(["python3", "./tools/csv_to_yaml_symbols.py"])
 subprocess.run(["python3", "./tools/ppcdis/disassembler.py", "-m", "config/symbols.yml", "config/dol.yml", "asm/labels_out.txt", "asm/relocs_out.txt", "asm/disasm.s"])
 
 # Run disassembler.py on aaa.rel
-subprocess.run(["python3", "./tools/ppcdis/disassembler.py", "-m", "config/symbols.yml", "config/aaa.yml", "asm/label_aaa_out.txt", "asm/relocs_aaa_out.txt", "asm/aaa.s"])
+subprocess.run(["python3", "./tools/ppcdis/disassembler.py", "-m", "config/symbols.yml", "config/aaa.yml", "asm/aaa/label_aaa_out.txt", "asm/aaa/relocs_aaa_out.txt", "asm/aaa/aaa.s"])

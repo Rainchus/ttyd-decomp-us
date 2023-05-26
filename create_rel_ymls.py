@@ -15,7 +15,7 @@ yaml.add_representer(int, CustomRepresenter.represent_hex)
 DOL_FILE = "config/dol.yml"
 START_ADDRESS = 0x805BA9A0
 
-bss_address = 0x803C8460
+bss_address = 0x80700000
 
 # Parse command line arguments
 if len(sys.argv) != 2:

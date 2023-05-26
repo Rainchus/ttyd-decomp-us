@@ -1,4 +1,4 @@
 path: rels/bin/pik.rel
-bss_address: 0x803C8BA0
+bss_address: 0x80700740
 address: 0x808227F0
 dol: config/dol.yml

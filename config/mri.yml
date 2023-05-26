@@ -1,4 +1,4 @@
 path: rels/bin/mri.rel
-bss_address: 0x803C9230
+bss_address: 0x80700DD0
 address: 0x8096A030
 dol: config/dol.yml

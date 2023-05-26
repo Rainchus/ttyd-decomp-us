@@ -6,7 +6,7 @@ dir_path = 'src/'
 asm_path = 'asm/'
 rels_path = 'rels/'
 
-aaa_rel_path = 'rels/aaa/'
+aaa_folder_path = 'asm/aaa/'
 
 #if DEVKITPPC isn't found, throw an error
 if os.getenv('DEVKITPPC') is None:
@@ -30,15 +30,13 @@ for root, dirs, files in os.walk(dir_path):
             c_files.append(os.path.join(root, file))
 
 s_files = []
-for root, dirs, files in os.walk(asm_path):
-    if rels_path in root: #skip DLL rels
-        continue  # skip this directory
-    for file in files:
-        if file.endswith('.s'):
-            s_files.append(os.path.join(root, file))
+for file in os.listdir(asm_path):
+    file_path = os.path.join(asm_path, file)
+    if os.path.isfile(file_path) and file.endswith('.s'):
+        s_files.append(file_path)
 
 aaa_c_files = []
-for root, dirs, files in os.walk(aaa_rel_path):
+for root, dirs, files in os.walk(aaa_folder_path):
     if 'rels/bin' in root: #skip rel binaries
         continue  # skip this directory
     for file in files:
@@ -46,7 +44,7 @@ for root, dirs, files in os.walk(aaa_rel_path):
             aaa_c_files.append(os.path.join(root, file))
 
 aaa_s_files = []
-for root, dirs, files in os.walk(aaa_rel_path):
+for root, dirs, files in os.walk(aaa_folder_path):
     if 'rels/bin' in root: #skip rel binaries
         continue  # skip this directory
     for file in files:
@@ -77,7 +75,7 @@ header = (
     "ELF = $BUILD_DIR/ttyd_us.elf\n"
     "MAP = $BUILD_DIR/ttyd_us.map\n"
     "LDSCRIPT_DOL = ldscript.lcf\n"
-    "LDSCRIPT_REL = partial.lcf\n"
+    "LDSCRIPT_REL = config/partial.lcf\n"
     "OPTFLAGS = -O4,p\n"
     "DOL = $BUILD_DIR/main.dol\n"
     "MWCC_VERSION = GC/1.3.2\n"
@@ -129,14 +127,14 @@ ninja_file.rule('make_dol',
                 description = "Converting ELF to DOL",
                 deps = "msvc")
         
-ninja_file.rule('make_pre_rel2',
+ninja_file.rule('make_rel_elf',
                  command = "($LD -lcf partial.lcf -nodefaults -fp hard -r1 -m _prolog -g $in $MAPGEN -o $out)",
-                 description = "ELF to pre REL",
+                 description = "Creating elf of rel",
                  deps = "msvc")
 
 ninja_file.rule('aaa_elf_to_rel',
                  command = "(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 1 -v 3 --name-size 2D $in build/ttyd_us.elf) && ($SHA1SUM -c sha1/aaa.rel.sha1)",
-                 description = "aaa.rel.rel building...",
+                 description = "aaa.elf.rel building",
                  deps = "msvc")
 
 ninja_file.rule('aji_elf_to_rel',
@@ -152,15 +150,17 @@ for s_file in s_files:
 ninja_file.build("build/ttyd_us.elf", "make_elf ", o_files)
 ninja_file.build("build/ttyd_us.dol", "make_dol ", "build/ttyd_us.elf")
 
-# for aaa_c_file in aaa_c_files:
-#     ninja_file.build("build/" + append_extension(aaa_c_file), "c_files", aaa_c_file)
-# for aaa_s_file in aaa_s_files:
-#     ninja_file.build("build/" + append_extension(aaa_s_file), "s_files", aaa_s_file)
+for aaa_c_file in aaa_c_files:
+    ninja_file.build("build/" + append_extension(aaa_c_file), "c_files", aaa_c_file)
+for aaa_s_file in aaa_s_files:
+    ninja_file.build("build/" + append_extension(aaa_s_file), "s_files", aaa_s_file)
 
-# ninja_file.build("build/rels/aaa/aaa.rel", "make_pre_rel2",  aaa_o_files, "build/ttyd_us.elf")
-# ninja_file.build("build build/rels/aaa/aaa.rel.ok", "aaa_elf_to_rel",  "build/rels/aaa/aaa.rel")
+print(aaa_s_files)
 
-# ninja_file.build("build/rels/aji/aja.rel", "make_pre_rel2",  aji_o_files, "build/ttyd_us.elf")
+ninja_file.build("build/rels/aaa/aaa.elf", "make_rel_elf",  aaa_o_files, "build/ttyd_us.elf")
+ninja_file.build("build/rels/aaa/aaa.rel.ok", "aaa_elf_to_rel",  "build/rels/aaa/aaa.elf")
+
+# ninja_file.build("build/rels/aji/aji.rel", "make_rel_elf",  aji_o_files, "build/ttyd_us.elf")
 # ninja_file.build("build build/rels/aji/aji.rel.ok", "aji_elf_to_rel",  "build/rels/aji/aji.rel")
 
 print ("build.ninja generated")

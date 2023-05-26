@@ -1,4 +1,4 @@
 path: rels/bin/eki.rel
-bss_address: 0x803C94C0
+bss_address: 0x80701060
 address: 0x80A516E0
 dol: config/dol.yml

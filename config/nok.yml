@@ -1,4 +1,4 @@
 path: rels/bin/nok.rel
-bss_address: 0x803C9100
+bss_address: 0x80700CA0
 address: 0x80958A30
 dol: config/dol.yml

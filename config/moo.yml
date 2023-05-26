@@ -1,4 +1,4 @@
 path: rels/bin/moo.rel
-bss_address: 0x803C8480
+bss_address: 0x80700020
 address: 0x805BA9A0
 dol: config/dol.yml

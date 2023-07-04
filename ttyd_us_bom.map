@@ -1,0 +1,2869 @@
+Link map of _prolog
+  1] _prolog (func,global) found in _bom.s.o 
+   2] lbl_805d5a34 (notype,global) found in _bom.s.o 
+    3] .ctors (section,local) found in _bom.s.o 
+   2] lbl_805d5a40 (object,global) found in _bom.s.o 
+    3] lbl_805d5a48 (object,global) found in _bom.s.o 
+    3] lbl_805d5a50 (object,global) found in _bom.s.o 
+    3] lbl_805d5a58 (object,global) found in _bom.s.o 
+    3] lbl_805d5a60 (object,global) found in _bom.s.o 
+    3] lbl_805d5a68 (object,global) found in _bom.s.o 
+    3] lbl_805d5a6c (object,global) found in _bom.s.o 
+    3] lbl_805d5a70 (object,global) found in _bom.s.o 
+    3] lbl_805d5a74 (object,global) found in _bom.s.o 
+    3] lbl_805d5a78 (object,global) found in _bom.s.o 
+    3] lbl_805d5a88 (object,global) found in _bom.s.o 
+    3] lbl_805d5a90 (object,global) found in _bom.s.o 
+    3] lbl_805d5a98 (object,global) found in _bom.s.o 
+    3] lbl_805d5aa0 (object,global) found in _bom.s.o 
+    3] lbl_805d5aa8 (object,global) found in _bom.s.o 
+    3] lbl_805d5ab0 (object,global) found in _bom.s.o 
+    3] lbl_805d5ab8 (object,global) found in _bom.s.o 
+    3] lbl_805d5ac0 (object,global) found in _bom.s.o 
+    3] lbl_805d5ac8 (object,global) found in _bom.s.o 
+    3] lbl_805d5ad0 (object,global) found in _bom.s.o 
+    3] lbl_805d5ad8 (object,global) found in _bom.s.o 
+    3] lbl_805d5ae0 (object,global) found in _bom.s.o 
+    3] lbl_805d5aec (object,global) found in _bom.s.o 
+    3] lbl_805d5af4 (object,global) found in _bom.s.o 
+    3] lbl_805d5afc (object,global) found in _bom.s.o 
+    3] lbl_805d5b04 (object,global) found in _bom.s.o 
+    3] lbl_805d5b10 (object,global) found in _bom.s.o 
+    3] lbl_805d5b20 (object,global) found in _bom.s.o 
+    3] lbl_805d5b30 (object,global) found in _bom.s.o 
+    3] lbl_805d5b40 (object,global) found in _bom.s.o 
+    3] lbl_805d5b50 (object,global) found in _bom.s.o 
+    3] lbl_805d5b5c (object,global) found in _bom.s.o 
+    3] lbl_805d5b68 (object,global) found in _bom.s.o 
+    3] lbl_805d5b6c (object,global) found in _bom.s.o 
+    3] lbl_805d5b78 (object,global) found in _bom.s.o 
+    3] lbl_805d5b84 (object,global) found in _bom.s.o 
+    3] lbl_805d5b88 (object,global) found in _bom.s.o 
+    3] lbl_805d5b8c (object,global) found in _bom.s.o 
+    3] lbl_805d5b98 (object,global) found in _bom.s.o 
+    3] lbl_805d5ba4 (object,global) found in _bom.s.o 
+    3] lbl_805d5bb0 (object,global) found in _bom.s.o 
+    3] lbl_805d5bbc (object,global) found in _bom.s.o 
+    3] lbl_805d5bc8 (object,global) found in _bom.s.o 
+    3] lbl_805d5bd4 (object,global) found in _bom.s.o 
+    3] lbl_805d5be0 (object,global) found in _bom.s.o 
+    3] lbl_805d5bec (object,global) found in _bom.s.o 
+    3] lbl_805d5bf8 (object,global) found in _bom.s.o 
+    3] lbl_805d5c08 (object,global) found in _bom.s.o 
+    3] lbl_805d5c14 (object,global) found in _bom.s.o 
+    3] lbl_805d5c20 (object,global) found in _bom.s.o 
+    3] lbl_805d5c2c (object,global) found in _bom.s.o 
+    3] lbl_805d5c38 (object,global) found in _bom.s.o 
+    3] lbl_805d5c40 (object,global) found in _bom.s.o 
+    3] lbl_805d5c48 (object,global) found in _bom.s.o 
+    3] lbl_805d5c50 (object,global) found in _bom.s.o 
+    3] lbl_805d5c58 (object,global) found in _bom.s.o 
+    3] lbl_805d5c60 (object,global) found in _bom.s.o 
+    3] lbl_805d5c74 (object,global) found in _bom.s.o 
+    3] lbl_805d5c84 (object,global) found in _bom.s.o 
+    3] lbl_805d5c9c (object,global) found in _bom.s.o 
+    3] lbl_805d5ca4 (object,global) found in _bom.s.o 
+    3] lbl_805d5cb0 (object,global) found in _bom.s.o 
+    3] lbl_805d5cbc (object,global) found in _bom.s.o 
+    3] lbl_805d5cc8 (object,global) found in _bom.s.o 
+    3] lbl_805d5cd4 (object,global) found in _bom.s.o 
+    3] lbl_805d5ce0 (object,global) found in _bom.s.o 
+    3] lbl_805d5cec (object,global) found in _bom.s.o 
+    3] lbl_805d5cf4 (object,global) found in _bom.s.o 
+    3] lbl_805d5d00 (object,global) found in _bom.s.o 
+    3] lbl_805d5d1c (object,global) found in _bom.s.o 
+    3] lbl_805d5d24 (object,global) found in _bom.s.o 
+    3] lbl_805d5d2c (object,global) found in _bom.s.o 
+    3] lbl_805d5d38 (object,global) found in _bom.s.o 
+    3] lbl_805d5d40 (object,global) found in _bom.s.o 
+    3] lbl_805d5d4c (object,global) found in _bom.s.o 
+    3] lbl_805d5d58 (object,global) found in _bom.s.o 
+    3] lbl_805d5d5c (object,global) found in _bom.s.o 
+    3] lbl_805d5d64 (object,global) found in _bom.s.o 
+    3] lbl_805d5d6c (object,global) found in _bom.s.o 
+    3] lbl_805d5d70 (object,global) found in _bom.s.o 
+    3] lbl_805d5d78 (object,global) found in _bom.s.o 
+    3] lbl_805d5d80 (object,global) found in _bom.s.o 
+    3] lbl_805d5d88 (object,global) found in _bom.s.o 
+    3] lbl_805d5d90 (object,global) found in _bom.s.o 
+    3] lbl_805d5da8 (object,global) found in _bom.s.o 
+    3] lbl_805d5db0 (object,global) found in _bom.s.o 
+    3] lbl_805d5dc0 (object,global) found in _bom.s.o 
+    3] lbl_805d5dd0 (object,global) found in _bom.s.o 
+    3] lbl_805d5de0 (object,global) found in _bom.s.o 
+    3] lbl_805d5dec (object,global) found in _bom.s.o 
+    3] lbl_805d5dfc (object,global) found in _bom.s.o 
+    3] lbl_805d5e08 (object,global) found in _bom.s.o 
+    3] lbl_805d5e0c (object,global) found in _bom.s.o 
+    3] lbl_805d5e18 (object,global) found in _bom.s.o 
+    3] lbl_805d5e24 (object,global) found in _bom.s.o 
+    3] lbl_805d5e2c (object,global) found in _bom.s.o 
+    3] lbl_805d5e34 (object,global) found in _bom.s.o 
+    3] lbl_805d5e50 (object,global) found in _bom.s.o 
+    3] lbl_805d5e58 (object,global) found in _bom.s.o 
+    3] lbl_805d5e70 (object,global) found in _bom.s.o 
+    3] lbl_805d5e80 (object,global) found in _bom.s.o 
+    3] lbl_805d5e90 (object,global) found in _bom.s.o 
+    3] lbl_805d5ea8 (object,global) found in _bom.s.o 
+    3] lbl_805d5ebc (object,global) found in _bom.s.o 
+    3] lbl_805d5ec4 (object,global) found in _bom.s.o 
+    3] lbl_805d5ed0 (object,global) found in _bom.s.o 
+    3] lbl_805d5ee0 (object,global) found in _bom.s.o 
+    3] lbl_805d5eec (object,global) found in _bom.s.o 
+    3] lbl_805d5ef8 (object,global) found in _bom.s.o 
+    3] lbl_805d5f04 (object,global) found in _bom.s.o 
+    3] lbl_805d5f10 (object,global) found in _bom.s.o 
+    3] lbl_805d5f2c (object,global) found in _bom.s.o 
+    3] lbl_805d5f48 (object,global) found in _bom.s.o 
+    3] lbl_805d5f50 (object,global) found in _bom.s.o 
+    3] lbl_805d5f5c (object,global) found in _bom.s.o 
+    3] lbl_805d5f68 (object,global) found in _bom.s.o 
+    3] lbl_805d5f74 (object,global) found in _bom.s.o 
+    3] lbl_805d5f8c (object,global) found in _bom.s.o 
+    3] lbl_805d5f98 (object,global) found in _bom.s.o 
+    3] lbl_805d5fa4 (object,global) found in _bom.s.o 
+    3] lbl_805d5fbc (object,global) found in _bom.s.o 
+    3] lbl_805d5fd4 (object,global) found in _bom.s.o 
+    3] lbl_805d5fec (object,global) found in _bom.s.o 
+    3] lbl_805d5ff4 (object,global) found in _bom.s.o 
+    3] lbl_805d6000 (object,global) found in _bom.s.o 
+    3] lbl_805d6018 (object,global) found in _bom.s.o 
+    3] lbl_805d6028 (object,global) found in _bom.s.o 
+    3] lbl_805d6038 (object,global) found in _bom.s.o 
+    3] lbl_805d6050 (object,global) found in _bom.s.o 
+    3] lbl_805d605c (object,global) found in _bom.s.o 
+    3] lbl_805d606c (object,global) found in _bom.s.o 
+    3] lbl_805d607c (object,global) found in _bom.s.o 
+    3] lbl_805d608c (object,global) found in _bom.s.o 
+    3] lbl_805d609c (object,global) found in _bom.s.o 
+    3] lbl_805d60ac (object,global) found in _bom.s.o 
+    3] lbl_805d60bc (object,global) found in _bom.s.o 
+    3] lbl_805d60cc (object,global) found in _bom.s.o 
+    3] lbl_805d60dc (object,global) found in _bom.s.o 
+    3] lbl_805d60e8 (object,global) found in _bom.s.o 
+    3] lbl_805d60fc (object,global) found in _bom.s.o 
+    3] lbl_805d6108 (object,global) found in _bom.s.o 
+    3] lbl_805d6120 (object,global) found in _bom.s.o 
+    3] lbl_805d612c (object,global) found in _bom.s.o 
+    3] lbl_805d6144 (object,global) found in _bom.s.o 
+    3] lbl_805d615c (object,global) found in _bom.s.o 
+    3] lbl_805d6168 (object,global) found in _bom.s.o 
+    3] lbl_805d6170 (object,global) found in _bom.s.o 
+    3] lbl_805d617c (object,global) found in _bom.s.o 
+    3] lbl_805d6188 (object,global) found in _bom.s.o 
+    3] lbl_805d61a0 (object,global) found in _bom.s.o 
+    3] lbl_805d61a8 (object,global) found in _bom.s.o 
+    3] lbl_805d61b4 (object,global) found in _bom.s.o 
+    3] lbl_805d61bc (object,global) found in _bom.s.o 
+    3] lbl_805d61d4 (object,global) found in _bom.s.o 
+    3] lbl_805d61e0 (object,global) found in _bom.s.o 
+    3] lbl_805d61fc (object,global) found in _bom.s.o 
+    3] lbl_805d620c (object,global) found in _bom.s.o 
+    3] lbl_805d621c (object,global) found in _bom.s.o 
+    3] lbl_805d622c (object,global) found in _bom.s.o 
+    3] lbl_805d6244 (object,global) found in _bom.s.o 
+    3] lbl_805d6254 (object,global) found in _bom.s.o 
+    3] lbl_805d6264 (object,global) found in _bom.s.o 
+    3] lbl_805d6274 (object,global) found in _bom.s.o 
+    3] lbl_805d6280 (object,global) found in _bom.s.o 
+    3] lbl_805d628c (object,global) found in _bom.s.o 
+    3] lbl_805d6294 (object,global) found in _bom.s.o 
+    3] lbl_805d62b0 (object,global) found in _bom.s.o 
+    3] lbl_805d62c8 (object,global) found in _bom.s.o 
+    3] lbl_805d62dc (object,global) found in _bom.s.o 
+    3] lbl_805d62f4 (object,global) found in _bom.s.o 
+    3] lbl_805d6304 (object,global) found in _bom.s.o 
+    3] lbl_805d6310 (object,global) found in _bom.s.o 
+    3] lbl_805d631c (object,global) found in _bom.s.o 
+    3] lbl_805d6328 (object,global) found in _bom.s.o 
+    3] lbl_805d6334 (object,global) found in _bom.s.o 
+    3] lbl_805d633c (object,global) found in _bom.s.o 
+    3] lbl_805d6350 (object,global) found in _bom.s.o 
+    3] lbl_805d6364 (object,global) found in _bom.s.o 
+    3] lbl_805d6374 (object,global) found in _bom.s.o 
+    3] lbl_805d6380 (object,global) found in _bom.s.o 
+    3] lbl_805d6390 (object,global) found in _bom.s.o 
+    3] lbl_805d639c (object,global) found in _bom.s.o 
+    3] lbl_805d63ac (object,global) found in _bom.s.o 
+    3] lbl_805d63bc (object,global) found in _bom.s.o 
+    3] lbl_805d63c8 (object,global) found in _bom.s.o 
+    3] lbl_805d63d8 (object,global) found in _bom.s.o 
+    3] lbl_805d63e4 (object,global) found in _bom.s.o 
+    3] lbl_805d63f4 (object,global) found in _bom.s.o 
+    3] lbl_805d6404 (object,global) found in _bom.s.o 
+    3] lbl_805d6410 (object,global) found in _bom.s.o 
+    3] lbl_805d6420 (object,global) found in _bom.s.o 
+    3] lbl_805d642c (object,global) found in _bom.s.o 
+    3] lbl_805d643c (object,global) found in _bom.s.o 
+    3] lbl_805d644c (object,global) found in _bom.s.o 
+    3] lbl_805d6458 (object,global) found in _bom.s.o 
+    3] lbl_805d6468 (object,global) found in _bom.s.o 
+    3] lbl_805d6474 (object,global) found in _bom.s.o 
+    3] lbl_805d6484 (object,global) found in _bom.s.o 
+    3] lbl_805d6494 (object,global) found in _bom.s.o 
+    3] lbl_805d64a0 (object,global) found in _bom.s.o 
+    3] lbl_805d64ac (object,global) found in _bom.s.o 
+    3] lbl_805d64bc (object,global) found in _bom.s.o 
+    3] lbl_805d64c8 (object,global) found in _bom.s.o 
+    3] lbl_805d64d4 (object,global) found in _bom.s.o 
+    3] lbl_805d64e4 (object,global) found in _bom.s.o 
+    3] lbl_805d64f0 (object,global) found in _bom.s.o 
+    3] lbl_805d64fc (object,global) found in _bom.s.o 
+    3] lbl_805d650c (object,global) found in _bom.s.o 
+    3] lbl_805d6518 (object,global) found in _bom.s.o 
+    3] lbl_805d6524 (object,global) found in _bom.s.o 
+    3] lbl_805d6534 (object,global) found in _bom.s.o 
+    3] lbl_805d6540 (object,global) found in _bom.s.o 
+    3] lbl_805d654c (object,global) found in _bom.s.o 
+    3] lbl_805d655c (object,global) found in _bom.s.o 
+    3] lbl_805d656c (object,global) found in _bom.s.o 
+    3] lbl_805d657c (object,global) found in _bom.s.o 
+    3] lbl_805d658c (object,global) found in _bom.s.o 
+    3] lbl_805d65a0 (object,global) found in _bom.s.o 
+    3] lbl_805d65ac (object,global) found in _bom.s.o 
+    3] lbl_805d65c0 (object,global) found in _bom.s.o 
+    3] lbl_805d65cc (object,global) found in _bom.s.o 
+    3] lbl_805d65e0 (object,global) found in _bom.s.o 
+    3] lbl_805d65ec (object,global) found in _bom.s.o 
+    3] lbl_805d6600 (object,global) found in _bom.s.o 
+    3] lbl_805d6614 (object,global) found in _bom.s.o 
+    3] lbl_805d6628 (object,global) found in _bom.s.o 
+    3] lbl_805d663c (object,global) found in _bom.s.o 
+    3] lbl_805d6650 (object,global) found in _bom.s.o 
+    3] lbl_805d6664 (object,global) found in _bom.s.o 
+    3] lbl_805d6670 (object,global) found in _bom.s.o 
+    3] lbl_805d6678 (object,global) found in _bom.s.o 
+    3] lbl_805d6684 (object,global) found in _bom.s.o 
+    3] lbl_805d6694 (object,global) found in _bom.s.o 
+    3] lbl_805d66a0 (object,global) found in _bom.s.o 
+    3] lbl_805d66ac (object,global) found in _bom.s.o 
+    3] lbl_805d66b8 (object,global) found in _bom.s.o 
+    3] lbl_805d66c4 (object,global) found in _bom.s.o 
+    3] lbl_805d66d0 (object,global) found in _bom.s.o 
+    3] lbl_805d66dc (object,global) found in _bom.s.o 
+    3] lbl_805d66e8 (object,global) found in _bom.s.o 
+    3] lbl_805d66f0 (object,global) found in _bom.s.o 
+    3] lbl_805d66fc (object,global) found in _bom.s.o 
+    3] lbl_805d670c (object,global) found in _bom.s.o 
+    3] lbl_805d671c (object,global) found in _bom.s.o 
+    3] lbl_805d672c (object,global) found in _bom.s.o 
+    3] lbl_805d673c (object,global) found in _bom.s.o 
+    3] lbl_805d674c (object,global) found in _bom.s.o 
+    3] lbl_805d675c (object,global) found in _bom.s.o 
+    3] lbl_805d676c (object,global) found in _bom.s.o 
+    3] lbl_805d6774 (object,global) found in _bom.s.o 
+    3] lbl_805d6780 (object,global) found in _bom.s.o 
+    3] lbl_805d6790 (object,global) found in _bom.s.o 
+    3] lbl_805d67a4 (object,global) found in _bom.s.o 
+    3] lbl_805d67b4 (object,global) found in _bom.s.o 
+    3] lbl_805d67c4 (object,global) found in _bom.s.o 
+    3] lbl_805d67cc (object,global) found in _bom.s.o 
+    3] lbl_805d67d4 (object,global) found in _bom.s.o 
+    3] lbl_805d67dc (object,global) found in _bom.s.o 
+    3] lbl_805d67e4 (object,global) found in _bom.s.o 
+    3] lbl_805d67ec (object,global) found in _bom.s.o 
+    3] lbl_805d67f4 (object,global) found in _bom.s.o 
+    3] lbl_805d67fc (object,global) found in _bom.s.o 
+    3] lbl_805d6804 (object,global) found in _bom.s.o 
+    3] lbl_805d6808 (object,global) found in _bom.s.o 
+    3] lbl_805d680c (object,global) found in _bom.s.o 
+    3] lbl_805d6810 (object,global) found in _bom.s.o 
+    3] lbl_805d6814 (object,global) found in _bom.s.o 
+    3] lbl_805d6818 (object,global) found in _bom.s.o 
+    3] lbl_805d681c (object,global) found in _bom.s.o 
+    3] lbl_805d6838 (object,global) found in _bom.s.o 
+    3] lbl_805d6840 (object,global) found in _bom.s.o 
+    3] lbl_805d6844 (object,global) found in _bom.s.o 
+    3] lbl_805d6848 (object,global) found in _bom.s.o 
+    3] lbl_805d684c (object,global) found in _bom.s.o 
+    3] lbl_805d6850 (object,global) found in _bom.s.o 
+    3] lbl_805d6854 (object,global) found in _bom.s.o 
+    3] lbl_805d6858 (object,global) found in _bom.s.o 
+    3] lbl_805d6864 (object,global) found in _bom.s.o 
+    3] lbl_805d6868 (object,global) found in _bom.s.o 
+    3] lbl_805d686c (object,global) found in _bom.s.o 
+    3] lbl_805d6870 (object,global) found in _bom.s.o 
+    3] lbl_805d6874 (object,global) found in _bom.s.o 
+    3] lbl_805d6878 (object,global) found in _bom.s.o 
+    3] lbl_805d687c (object,global) found in _bom.s.o 
+    3] lbl_805d6880 (object,global) found in _bom.s.o 
+    3] lbl_805d6884 (object,global) found in _bom.s.o 
+    3] lbl_805d6888 (object,global) found in _bom.s.o 
+    3] lbl_805d6890 (object,global) found in _bom.s.o 
+    3] lbl_805d6898 (object,global) found in _bom.s.o 
+    3] lbl_805d68ac (object,global) found in _bom.s.o 
+    3] lbl_805d68b0 (object,global) found in _bom.s.o 
+    3] lbl_805d68b4 (object,global) found in _bom.s.o 
+    3] lbl_805d68b8 (object,global) found in _bom.s.o 
+    3] lbl_805d68bc (object,global) found in _bom.s.o 
+    3] lbl_805d68c0 (object,global) found in _bom.s.o 
+    3] lbl_805d68c4 (object,global) found in _bom.s.o 
+    3] lbl_805d68c8 (object,global) found in _bom.s.o 
+    3] lbl_805d68cc (object,global) found in _bom.s.o 
+    3] lbl_805d68d0 (object,global) found in _bom.s.o 
+    3] lbl_805d68d4 (object,global) found in _bom.s.o 
+    3] lbl_805d68d8 (object,global) found in _bom.s.o 
+    3] lbl_805d68dc (object,global) found in _bom.s.o 
+    3] lbl_805d68e0 (object,global) found in _bom.s.o 
+    3] lbl_805d68e4 (object,global) found in _bom.s.o 
+    3] lbl_805d68e8 (object,global) found in _bom.s.o 
+    3] lbl_805d68f0 (object,global) found in _bom.s.o 
+    3] lbl_805d68f4 (object,global) found in _bom.s.o 
+    3] lbl_805d68f8 (object,global) found in _bom.s.o 
+    3] lbl_805d68fc (object,global) found in _bom.s.o 
+    3] lbl_805d6900 (object,global) found in _bom.s.o 
+    3] lbl_805d6904 (object,global) found in _bom.s.o 
+    3] lbl_805d6908 (object,global) found in _bom.s.o 
+    3] lbl_805d690c (object,global) found in _bom.s.o 
+    3] lbl_805d6910 (object,global) found in _bom.s.o 
+    3] lbl_805d6918 (object,global) found in _bom.s.o 
+    3] lbl_805d6924 (object,global) found in _bom.s.o 
+    3] lbl_805d6928 (object,global) found in _bom.s.o 
+    3] lbl_805d692c (object,global) found in _bom.s.o 
+    3] lbl_805d6930 (object,global) found in _bom.s.o 
+    3] lbl_805d6934 (object,global) found in _bom.s.o 
+    3] lbl_805d6938 (object,global) found in _bom.s.o 
+    3] lbl_805d693c (object,global) found in _bom.s.o 
+    3] lbl_805d6940 (object,global) found in _bom.s.o 
+    3] lbl_805d6944 (object,global) found in _bom.s.o 
+    3] lbl_805d6948 (object,global) found in _bom.s.o 
+    3] lbl_805d694c (object,global) found in _bom.s.o 
+    3] lbl_805d6950 (object,global) found in _bom.s.o 
+    3] lbl_805d6954 (object,global) found in _bom.s.o 
+    3] lbl_805d6958 (object,global) found in _bom.s.o 
+    3] lbl_805d695c (object,global) found in _bom.s.o 
+    3] lbl_805d6960 (object,global) found in _bom.s.o 
+    3] lbl_805d6964 (object,global) found in _bom.s.o 
+    3] lbl_805d6968 (object,global) found in _bom.s.o 
+    3] lbl_805d696c (object,global) found in _bom.s.o 
+    3] lbl_805d6970 (object,global) found in _bom.s.o 
+    3] lbl_805d6974 (object,global) found in _bom.s.o 
+    3] lbl_805d6978 (object,global) found in _bom.s.o 
+    3] lbl_805d6984 (object,global) found in _bom.s.o 
+    3] lbl_805d6990 (object,global) found in _bom.s.o 
+    3] lbl_805d6998 (object,global) found in _bom.s.o 
+    3] lbl_805d69a4 (object,global) found in _bom.s.o 
+    3] lbl_805d69b4 (object,global) found in _bom.s.o 
+    3] lbl_805d69c0 (object,global) found in _bom.s.o 
+    3] lbl_805d69cc (object,global) found in _bom.s.o 
+    3] lbl_805d69d8 (object,global) found in _bom.s.o 
+    3] lbl_805d69e4 (object,global) found in _bom.s.o 
+    3] lbl_805d69ec (object,global) found in _bom.s.o 
+    3] lbl_805d69fc (object,global) found in _bom.s.o 
+    3] lbl_805d6a0c (object,global) found in _bom.s.o 
+    3] lbl_805d6a18 (object,global) found in _bom.s.o 
+    3] lbl_805d6a24 (object,global) found in _bom.s.o 
+    3] lbl_805d6a30 (object,global) found in _bom.s.o 
+    3] lbl_805d6a3c (object,global) found in _bom.s.o 
+    3] lbl_805d6a48 (object,global) found in _bom.s.o 
+    3] lbl_805d6a54 (object,global) found in _bom.s.o 
+    3] lbl_805d6a5c (object,global) found in _bom.s.o 
+    3] lbl_805d6a6c (object,global) found in _bom.s.o 
+    3] lbl_805d6a78 (object,global) found in _bom.s.o 
+    3] lbl_805d6a84 (object,global) found in _bom.s.o 
+    3] lbl_805d6a90 (object,global) found in _bom.s.o 
+    3] lbl_805d6a98 (object,global) found in _bom.s.o 
+    3] lbl_805d6aa0 (object,global) found in _bom.s.o 
+    3] lbl_805d6aa8 (object,global) found in _bom.s.o 
+    3] lbl_805d6ab0 (object,global) found in _bom.s.o 
+    3] lbl_805d6ab8 (object,global) found in _bom.s.o 
+    3] lbl_805d6abc (object,global) found in _bom.s.o 
+    3] lbl_805d6ac4 (object,global) found in _bom.s.o 
+    3] lbl_805d6acc (object,global) found in _bom.s.o 
+    3] lbl_805d6ad4 (object,global) found in _bom.s.o 
+    3] lbl_805d6adc (object,global) found in _bom.s.o 
+    3] lbl_805d6ae0 (object,global) found in _bom.s.o 
+    3] lbl_805d6ae8 (object,global) found in _bom.s.o 
+    3] lbl_805d6af4 (object,global) found in _bom.s.o 
+    3] lbl_805d6b10 (object,global) found in _bom.s.o 
+    3] lbl_805d6b18 (object,global) found in _bom.s.o 
+    3] lbl_805d6b20 (object,global) found in _bom.s.o 
+    3] lbl_805d6b30 (object,global) found in _bom.s.o 
+    3] lbl_805d6b3c (object,global) found in _bom.s.o 
+    3] lbl_805d6b48 (object,global) found in _bom.s.o 
+    3] lbl_805d6b58 (object,global) found in _bom.s.o 
+    3] lbl_805d6b64 (object,global) found in _bom.s.o 
+    3] lbl_805d6b70 (object,global) found in _bom.s.o 
+    3] lbl_805d6b74 (object,global) found in _bom.s.o 
+    3] lbl_805d6b7c (object,global) found in _bom.s.o 
+    3] lbl_805d6b88 (object,global) found in _bom.s.o 
+    3] lbl_805d6b98 (object,global) found in _bom.s.o 
+    3] lbl_805d6ba8 (object,global) found in _bom.s.o 
+    3] lbl_805d6bb4 (object,global) found in _bom.s.o 
+    3] lbl_805d6bc0 (object,global) found in _bom.s.o 
+    3] lbl_805d6bd0 (object,global) found in _bom.s.o 
+    3] lbl_805d6bdc (object,global) found in _bom.s.o 
+    3] lbl_805d6be8 (object,global) found in _bom.s.o 
+    3] lbl_805d6bf4 (object,global) found in _bom.s.o 
+    3] lbl_805d6bfc (object,global) found in _bom.s.o 
+    3] lbl_805d6c08 (object,global) found in _bom.s.o 
+    3] lbl_805d6c14 (object,global) found in _bom.s.o 
+    3] lbl_805d6c20 (object,global) found in _bom.s.o 
+    3] lbl_805d6c2c (object,global) found in _bom.s.o 
+    3] lbl_805d6c38 (object,global) found in _bom.s.o 
+    3] lbl_805d6c44 (object,global) found in _bom.s.o 
+    3] lbl_805d6c50 (object,global) found in _bom.s.o 
+    3] lbl_805d6c5c (object,global) found in _bom.s.o 
+    3] lbl_805d6c6c (object,global) found in _bom.s.o 
+    3] lbl_805d6c84 (object,global) found in _bom.s.o 
+    3] lbl_805d6c90 (object,global) found in _bom.s.o 
+    3] lbl_805d6c9c (object,global) found in _bom.s.o 
+    3] lbl_805d6cac (object,global) found in _bom.s.o 
+    3] lbl_805d6cb8 (object,global) found in _bom.s.o 
+    3] lbl_805d6cc4 (object,global) found in _bom.s.o 
+    3] lbl_805d6cd4 (object,global) found in _bom.s.o 
+    3] lbl_805d6ce4 (object,global) found in _bom.s.o 
+    3] lbl_805d6cf0 (object,global) found in _bom.s.o 
+    3] lbl_805d6cfc (object,global) found in _bom.s.o 
+    3] lbl_805d6d08 (object,global) found in _bom.s.o 
+    3] lbl_805d6d14 (object,global) found in _bom.s.o 
+    3] lbl_805d6d24 (object,global) found in _bom.s.o 
+    3] lbl_805d6d28 (object,global) found in _bom.s.o 
+    3] lbl_805d6d38 (object,global) found in _bom.s.o 
+    3] lbl_805d6d40 (object,global) found in _bom.s.o 
+    3] lbl_805d6d4c (object,global) found in _bom.s.o 
+    3] lbl_805d6d60 (object,global) found in _bom.s.o 
+    3] lbl_805d6d70 (object,global) found in _bom.s.o 
+    3] lbl_805d6d7c (object,global) found in _bom.s.o 
+    3] lbl_805d6d8c (object,global) found in _bom.s.o 
+    3] lbl_805d6d98 (object,global) found in _bom.s.o 
+    3] lbl_805d6da8 (object,global) found in _bom.s.o 
+    3] lbl_805d6db8 (object,global) found in _bom.s.o 
+    3] lbl_805d6dc4 (object,global) found in _bom.s.o 
+    3] lbl_805d6dd4 (object,global) found in _bom.s.o 
+    3] lbl_805d6de0 (object,global) found in _bom.s.o 
+    3] lbl_805d6df0 (object,global) found in _bom.s.o 
+    3] lbl_805d6dfc (object,global) found in _bom.s.o 
+    3] lbl_805d6e08 (object,global) found in _bom.s.o 
+    3] lbl_805d6e18 (object,global) found in _bom.s.o 
+    3] lbl_805d6e24 (object,global) found in _bom.s.o 
+    3] lbl_805d6e34 (object,global) found in _bom.s.o 
+    3] lbl_805d6e40 (object,global) found in _bom.s.o 
+    3] lbl_805d6e50 (object,global) found in _bom.s.o 
+    3] lbl_805d6e5c (object,global) found in _bom.s.o 
+    3] lbl_805d6e6c (object,global) found in _bom.s.o 
+    3] lbl_805d6e78 (object,global) found in _bom.s.o 
+    3] lbl_805d6e88 (object,global) found in _bom.s.o 
+    3] lbl_805d6e94 (object,global) found in _bom.s.o 
+    3] lbl_805d6ea4 (object,global) found in _bom.s.o 
+    3] lbl_805d6eb0 (object,global) found in _bom.s.o 
+    3] lbl_805d6ebc (object,global) found in _bom.s.o 
+    3] lbl_805d6ec8 (object,global) found in _bom.s.o 
+    3] lbl_805d6ed8 (object,global) found in _bom.s.o 
+    3] lbl_805d6ee4 (object,global) found in _bom.s.o 
+    3] lbl_805d6ef4 (object,global) found in _bom.s.o 
+    3] lbl_805d6f00 (object,global) found in _bom.s.o 
+    3] lbl_805d6f10 (object,global) found in _bom.s.o 
+    3] lbl_805d6f20 (object,global) found in _bom.s.o 
+    3] lbl_805d6f2c (object,global) found in _bom.s.o 
+    3] lbl_805d6f3c (object,global) found in _bom.s.o 
+    3] lbl_805d6f48 (object,global) found in _bom.s.o 
+    3] lbl_805d6f58 (object,global) found in _bom.s.o 
+    3] lbl_805d6f74 (object,global) found in _bom.s.o 
+    3] lbl_805d6f7c (object,global) found in _bom.s.o 
+    3] lbl_805d6f88 (object,global) found in _bom.s.o 
+    3] lbl_805d6fa0 (object,global) found in _bom.s.o 
+    3] lbl_805d6fb8 (object,global) found in _bom.s.o 
+    3] lbl_805d6fd4 (object,global) found in _bom.s.o 
+    3] lbl_805d6fec (object,global) found in _bom.s.o 
+    3] lbl_805d7008 (object,global) found in _bom.s.o 
+    3] lbl_805d7014 (object,global) found in _bom.s.o 
+    3] lbl_805d7020 (object,global) found in _bom.s.o 
+    3] lbl_805d702c (object,global) found in _bom.s.o 
+    3] lbl_805d703c (object,global) found in _bom.s.o 
+    3] lbl_805d7048 (object,global) found in _bom.s.o 
+    3] lbl_805d7054 (object,global) found in _bom.s.o 
+    3] lbl_805d7060 (object,global) found in _bom.s.o 
+    3] lbl_805d706c (object,global) found in _bom.s.o 
+    3] lbl_805d7078 (object,global) found in _bom.s.o 
+    3] lbl_805d7084 (object,global) found in _bom.s.o 
+    3] lbl_805d7090 (object,global) found in _bom.s.o 
+    3] lbl_805d709c (object,global) found in _bom.s.o 
+    3] lbl_805d70a8 (object,global) found in _bom.s.o 
+    3] lbl_805d70b4 (object,global) found in _bom.s.o 
+    3] lbl_805d70c0 (object,global) found in _bom.s.o 
+    3] lbl_805d70cc (object,global) found in _bom.s.o 
+    3] lbl_805d70d0 (object,global) found in _bom.s.o 
+    3] lbl_805d70e8 (object,global) found in _bom.s.o 
+    3] lbl_805d70ec (object,global) found in _bom.s.o 
+    3] lbl_805d70f0 (object,global) found in _bom.s.o 
+    3] lbl_805d70fc (object,global) found in _bom.s.o 
+    3] lbl_805d7108 (object,global) found in _bom.s.o 
+    3] lbl_805d7114 (object,global) found in _bom.s.o 
+    3] lbl_805d7120 (object,global) found in _bom.s.o 
+    3] lbl_805d7130 (object,global) found in _bom.s.o 
+    3] lbl_805d713c (object,global) found in _bom.s.o 
+    3] lbl_805d714c (object,global) found in _bom.s.o 
+    3] lbl_805d7158 (object,global) found in _bom.s.o 
+    3] lbl_805d7168 (object,global) found in _bom.s.o 
+    3] lbl_805d7174 (object,global) found in _bom.s.o 
+    3] lbl_805d7184 (object,global) found in _bom.s.o 
+    3] lbl_805d7190 (object,global) found in _bom.s.o 
+    3] lbl_805d71a0 (object,global) found in _bom.s.o 
+    3] lbl_805d71ac (object,global) found in _bom.s.o 
+    3] lbl_805d71bc (object,global) found in _bom.s.o 
+    3] lbl_805d71c8 (object,global) found in _bom.s.o 
+    3] lbl_805d71d8 (object,global) found in _bom.s.o 
+    3] lbl_805d71e4 (object,global) found in _bom.s.o 
+    3] lbl_805d71f4 (object,global) found in _bom.s.o 
+    3] lbl_805d7200 (object,global) found in _bom.s.o 
+    3] lbl_805d7210 (object,global) found in _bom.s.o 
+    3] lbl_805d721c (object,global) found in _bom.s.o 
+    3] lbl_805d722c (object,global) found in _bom.s.o 
+    3] lbl_805d7238 (object,global) found in _bom.s.o 
+    3] lbl_805d7248 (object,global) found in _bom.s.o 
+    3] lbl_805d7254 (object,global) found in _bom.s.o 
+    3] lbl_805d7260 (object,global) found in _bom.s.o 
+    3] lbl_805d726c (object,global) found in _bom.s.o 
+    3] lbl_805d7288 (object,global) found in _bom.s.o 
+    3] lbl_805d7294 (object,global) found in _bom.s.o 
+    3] lbl_805d729c (object,global) found in _bom.s.o 
+    3] lbl_805d72a8 (object,global) found in _bom.s.o 
+    3] lbl_805d72b4 (object,global) found in _bom.s.o 
+    3] lbl_805d72c4 (object,global) found in _bom.s.o 
+    3] lbl_805d72d4 (object,global) found in _bom.s.o 
+    3] lbl_805d72e4 (object,global) found in _bom.s.o 
+    3] lbl_805d72f0 (object,global) found in _bom.s.o 
+    3] lbl_805d72f8 (object,global) found in _bom.s.o 
+    3] lbl_805d7300 (object,global) found in _bom.s.o 
+    3] lbl_805d730c (object,global) found in _bom.s.o 
+    3] lbl_805d7318 (object,global) found in _bom.s.o 
+    3] lbl_805d7324 (object,global) found in _bom.s.o 
+    3] lbl_805d7330 (object,global) found in _bom.s.o 
+    3] lbl_805d733c (object,global) found in _bom.s.o 
+    3] lbl_805d7348 (object,global) found in _bom.s.o 
+    3] lbl_805d7354 (object,global) found in _bom.s.o 
+    3] lbl_805d7360 (object,global) found in _bom.s.o 
+    3] lbl_805d736c (object,global) found in _bom.s.o 
+    3] lbl_805d7378 (object,global) found in _bom.s.o 
+    3] lbl_805d7384 (object,global) found in _bom.s.o 
+    3] lbl_805d7390 (object,global) found in _bom.s.o 
+    3] lbl_805d739c (object,global) found in _bom.s.o 
+    3] lbl_805d73a8 (object,global) found in _bom.s.o 
+    3] lbl_805d73b4 (object,global) found in _bom.s.o 
+    3] lbl_805d73c0 (object,global) found in _bom.s.o 
+    3] lbl_805d73c8 (object,global) found in _bom.s.o 
+    3] lbl_805d73d0 (object,global) found in _bom.s.o 
+    3] lbl_805d73d8 (object,global) found in _bom.s.o 
+    3] lbl_805d73e0 (object,global) found in _bom.s.o 
+    3] lbl_805d73e8 (object,global) found in _bom.s.o 
+    3] lbl_805d73f0 (object,global) found in _bom.s.o 
+    3] lbl_805d73f8 (object,global) found in _bom.s.o 
+    3] lbl_805d7400 (object,global) found in _bom.s.o 
+    3] lbl_805d7408 (object,global) found in _bom.s.o 
+    3] lbl_805d7410 (object,global) found in _bom.s.o 
+    3] lbl_805d7418 (object,global) found in _bom.s.o 
+    3] lbl_805d7420 (object,global) found in _bom.s.o 
+    3] lbl_805d7428 (object,global) found in _bom.s.o 
+    3] lbl_805d7430 (object,global) found in _bom.s.o 
+    3] lbl_805d7438 (object,global) found in _bom.s.o 
+    3] lbl_805d7440 (object,global) found in _bom.s.o 
+    3] lbl_805d7448 (object,global) found in _bom.s.o 
+    3] lbl_805d7450 (object,global) found in _bom.s.o 
+    3] lbl_805d7458 (object,global) found in _bom.s.o 
+    3] lbl_805d7460 (object,global) found in _bom.s.o 
+    3] lbl_805d7468 (object,global) found in _bom.s.o 
+    3] lbl_805d7470 (object,global) found in _bom.s.o 
+    3] lbl_805d7478 (object,global) found in _bom.s.o 
+    3] lbl_805d7480 (object,global) found in _bom.s.o 
+    3] lbl_805d7488 (object,global) found in _bom.s.o 
+    3] lbl_805d7490 (object,global) found in _bom.s.o 
+    3] lbl_805d7498 (object,global) found in _bom.s.o 
+    3] lbl_805d74a0 (object,global) found in _bom.s.o 
+    3] lbl_805d74a8 (object,global) found in _bom.s.o 
+    3] lbl_805d74b0 (object,global) found in _bom.s.o 
+    3] lbl_805d74b8 (object,global) found in _bom.s.o 
+    3] lbl_805d74c0 (object,global) found in _bom.s.o 
+    3] lbl_805d74c8 (object,global) found in _bom.s.o 
+    3] lbl_805d74d0 (object,global) found in _bom.s.o 
+    3] lbl_805d74d8 (object,global) found in _bom.s.o 
+    3] lbl_805d74e4 (object,global) found in _bom.s.o 
+    3] lbl_805d74f0 (object,global) found in _bom.s.o 
+    3] lbl_805d74fc (object,global) found in _bom.s.o 
+    3] lbl_805d7504 (object,global) found in _bom.s.o 
+    3] lbl_805d7514 (object,global) found in _bom.s.o 
+    3] lbl_805d7524 (object,global) found in _bom.s.o 
+    3] lbl_805d752c (object,global) found in _bom.s.o 
+    3] lbl_805d7538 (object,global) found in _bom.s.o 
+    3] lbl_805d7544 (object,global) found in _bom.s.o 
+    3] lbl_805d7554 (object,global) found in _bom.s.o 
+    3] lbl_805d7564 (object,global) found in _bom.s.o 
+    3] lbl_805d7570 (object,global) found in _bom.s.o 
+    3] lbl_805d7578 (object,global) found in _bom.s.o 
+    3] lbl_805d7580 (object,global) found in _bom.s.o 
+    3] lbl_805d7588 (object,global) found in _bom.s.o 
+    3] lbl_805d7590 (object,global) found in _bom.s.o 
+    3] lbl_805d7598 (object,global) found in _bom.s.o 
+    3] lbl_805d75a0 (object,global) found in _bom.s.o 
+    3] lbl_805d75a8 (object,global) found in _bom.s.o 
+    3] lbl_805d75b0 (object,global) found in _bom.s.o 
+    3] lbl_805d75b8 (object,global) found in _bom.s.o 
+    3] lbl_805d75c0 (object,global) found in _bom.s.o 
+    3] lbl_805d75c8 (object,global) found in _bom.s.o 
+    3] lbl_805d75d0 (object,global) found in _bom.s.o 
+    3] lbl_805d75d8 (object,global) found in _bom.s.o 
+    3] lbl_805d75e0 (object,global) found in _bom.s.o 
+    3] lbl_805d75f4 (object,global) found in _bom.s.o 
+    3] lbl_805d7604 (object,global) found in _bom.s.o 
+    3] lbl_805d7614 (object,global) found in _bom.s.o 
+    3] lbl_805d7624 (object,global) found in _bom.s.o 
+    3] lbl_805d7634 (object,global) found in _bom.s.o 
+    3] lbl_805d7644 (object,global) found in _bom.s.o 
+    3] lbl_805d764c (object,global) found in _bom.s.o 
+    3] lbl_805d7658 (object,global) found in _bom.s.o 
+    3] lbl_805d7664 (object,global) found in _bom.s.o 
+    3] lbl_805d766c (object,global) found in _bom.s.o 
+    3] lbl_805d7674 (object,global) found in _bom.s.o 
+    3] lbl_805d767c (object,global) found in _bom.s.o 
+    3] lbl_805d7680 (object,global) found in _bom.s.o 
+    3] lbl_805d7684 (object,global) found in _bom.s.o 
+    3] lbl_805d7688 (object,global) found in _bom.s.o 
+    3] lbl_805d768c (object,global) found in _bom.s.o 
+    3] lbl_805d7690 (object,global) found in _bom.s.o 
+    3] lbl_805d7694 (object,global) found in _bom.s.o 
+    3] lbl_805d7698 (object,global) found in _bom.s.o 
+    3] lbl_805d76a0 (object,global) found in _bom.s.o 
+    3] lbl_805d76a8 (object,global) found in _bom.s.o 
+    3] lbl_805d76b0 (object,global) found in _bom.s.o 
+    3] lbl_805d76b8 (object,global) found in _bom.s.o 
+    3] lbl_805d76c0 (object,global) found in _bom.s.o 
+    3] lbl_805d76c8 (object,global) found in _bom.s.o 
+    3] lbl_805d76d0 (object,global) found in _bom.s.o 
+    3] lbl_805d76d8 (object,global) found in _bom.s.o 
+    3] lbl_805d76e0 (object,global) found in _bom.s.o 
+    3] lbl_805d76e8 (object,global) found in _bom.s.o 
+    3] lbl_805d76f0 (object,global) found in _bom.s.o 
+    3] lbl_805d76f8 (object,global) found in _bom.s.o 
+    3] lbl_805d7700 (object,global) found in _bom.s.o 
+    3] lbl_805d7708 (object,global) found in _bom.s.o 
+    3] lbl_805d7710 (object,global) found in _bom.s.o 
+    3] lbl_805d7720 (object,global) found in _bom.s.o 
+    3] lbl_805d7730 (object,global) found in _bom.s.o 
+    3] lbl_805d7738 (object,global) found in _bom.s.o 
+    3] lbl_805d7748 (object,global) found in _bom.s.o 
+    3] lbl_805d7758 (object,global) found in _bom.s.o 
+    3] lbl_805d7760 (object,global) found in _bom.s.o 
+    3] lbl_805d7768 (object,global) found in _bom.s.o 
+    3] lbl_805d7770 (object,global) found in _bom.s.o 
+    3] lbl_805d7778 (object,global) found in _bom.s.o 
+    3] lbl_805d7780 (object,global) found in _bom.s.o 
+    3] lbl_805d7788 (object,global) found in _bom.s.o 
+    3] lbl_805d7790 (object,global) found in _bom.s.o 
+    3] lbl_805d7798 (object,global) found in _bom.s.o 
+    3] lbl_805d77a0 (object,global) found in _bom.s.o 
+    3] lbl_805d77a8 (object,global) found in _bom.s.o 
+    3] lbl_805d77b0 (object,global) found in _bom.s.o 
+    3] lbl_805d77b8 (object,global) found in _bom.s.o 
+    3] lbl_805d77c0 (object,global) found in _bom.s.o 
+    3] lbl_805d77c8 (object,global) found in _bom.s.o 
+    3] lbl_805d77d8 (object,global) found in _bom.s.o 
+    3] lbl_805d77e8 (object,global) found in _bom.s.o 
+    3] lbl_805d77f0 (object,global) found in _bom.s.o 
+    3] lbl_805d77f8 (object,global) found in _bom.s.o 
+    3] lbl_805d7804 (object,global) found in _bom.s.o 
+    3] lbl_805d7810 (object,global) found in _bom.s.o 
+    3] lbl_805d7818 (object,global) found in _bom.s.o 
+    3] lbl_805d7820 (object,global) found in _bom.s.o 
+    3] lbl_805d7828 (object,global) found in _bom.s.o 
+    3] lbl_805d7830 (object,global) found in _bom.s.o 
+    3] lbl_805d7838 (object,global) found in _bom.s.o 
+    3] lbl_805d7840 (object,global) found in _bom.s.o 
+    3] lbl_805d7848 (object,global) found in _bom.s.o 
+    3] lbl_805d784c (object,global) found in _bom.s.o 
+    3] lbl_805d7850 (object,global) found in _bom.s.o 
+    3] lbl_805d7858 (object,global) found in _bom.s.o 
+    3] lbl_805d7864 (object,global) found in _bom.s.o 
+    3] lbl_805d7874 (object,global) found in _bom.s.o 
+    3] lbl_805d7888 (object,global) found in _bom.s.o 
+    3] lbl_805d7898 (object,global) found in _bom.s.o 
+    3] lbl_805d78ac (object,global) found in _bom.s.o 
+    3] lbl_805d78c0 (object,global) found in _bom.s.o 
+    3] lbl_805d78d0 (object,global) found in _bom.s.o 
+    3] lbl_805d78e0 (object,global) found in _bom.s.o 
+    3] lbl_805d78f0 (object,global) found in _bom.s.o 
+    3] lbl_805d7900 (object,global) found in _bom.s.o 
+    3] lbl_805d7910 (object,global) found in _bom.s.o 
+    3] lbl_805d7920 (object,global) found in _bom.s.o 
+    3] lbl_805d7930 (object,global) found in _bom.s.o 
+    3] lbl_805d7940 (object,global) found in _bom.s.o 
+    3] lbl_805d7950 (object,global) found in _bom.s.o 
+    3] lbl_805d7968 (object,global) found in _bom.s.o 
+    3] lbl_805d7980 (object,global) found in _bom.s.o 
+    3] lbl_805d7994 (object,global) found in _bom.s.o 
+    3] lbl_805d79b0 (object,global) found in _bom.s.o 
+    3] lbl_805d79b8 (object,global) found in _bom.s.o 
+    3] lbl_805d79c0 (object,global) found in _bom.s.o 
+    3] lbl_805d79c8 (object,global) found in _bom.s.o 
+    3] lbl_805d79d0 (object,global) found in _bom.s.o 
+    3] lbl_805d79d8 (object,global) found in _bom.s.o 
+    3] lbl_805d79e0 (object,global) found in _bom.s.o 
+    3] lbl_805d79e8 (object,global) found in _bom.s.o 
+    3] lbl_805d79f0 (object,global) found in _bom.s.o 
+    3] lbl_805d79f8 (object,global) found in _bom.s.o 
+    3] lbl_805d7a00 (object,global) found in _bom.s.o 
+    3] lbl_805d7a08 (object,global) found in _bom.s.o 
+    3] lbl_805d7a10 (object,global) found in _bom.s.o 
+    3] lbl_805d7a18 (object,global) found in _bom.s.o 
+    3] lbl_805d7a24 (object,global) found in _bom.s.o 
+    3] lbl_805d7a38 (object,global) found in _bom.s.o 
+    3] lbl_805d7a4c (object,global) found in _bom.s.o 
+    3] lbl_805d7a60 (object,global) found in _bom.s.o 
+    3] lbl_805d7a78 (object,global) found in _bom.s.o 
+    3] lbl_805d7a90 (object,global) found in _bom.s.o 
+    3] lbl_805d7a98 (object,global) found in _bom.s.o 
+    3] lbl_805d7aa8 (object,global) found in _bom.s.o 
+    3] lbl_805d7ac0 (object,global) found in _bom.s.o 
+    3] lbl_805d7ad8 (object,global) found in _bom.s.o 
+    3] lbl_805d7aec (object,global) found in _bom.s.o 
+    3] lbl_805d7b08 (object,global) found in _bom.s.o 
+    3] lbl_805d7b14 (object,global) found in _bom.s.o 
+    3] lbl_805d7b18 (object,global) found in _bom.s.o 
+    3] lbl_805d7b2c (object,global) found in _bom.s.o 
+    3] lbl_805d7b48 (object,global) found in _bom.s.o 
+    3] lbl_805d7b50 (object,global) found in _bom.s.o 
+    3] lbl_805d7b74 (object,global) found in _bom.s.o 
+    3] lbl_805d7b78 (object,global) found in _bom.s.o 
+    3] lbl_805d7b88 (object,global) found in _bom.s.o 
+    3] lbl_805d7b90 (object,global) found in _bom.s.o 
+    3] lbl_805d7b98 (object,global) found in _bom.s.o 
+    3] lbl_805d7b9c (object,global) found in _bom.s.o 
+    3] lbl_805d7ba0 (object,global) found in _bom.s.o 
+    3] lbl_805d7ba4 (object,global) found in _bom.s.o 
+    3] lbl_805d7ba8 (object,global) found in _bom.s.o 
+    3] lbl_805d7bac (object,global) found in _bom.s.o 
+    3] lbl_805d7bb0 (object,global) found in _bom.s.o 
+    3] lbl_805d7bb4 (object,global) found in _bom.s.o 
+    3] lbl_805d7bb8 (object,global) found in _bom.s.o 
+    3] lbl_805d7bbc (object,global) found in _bom.s.o 
+    3] lbl_805d7bc0 (object,global) found in _bom.s.o 
+    3] lbl_805d7bd4 (object,global) found in _bom.s.o 
+    3] lbl_805d7be8 (object,global) found in _bom.s.o 
+    3] lbl_805d7bfc (object,global) found in _bom.s.o 
+    3] lbl_805d7c14 (object,global) found in _bom.s.o 
+    3] lbl_805d7c1c (object,global) found in _bom.s.o 
+    3] lbl_805d7c30 (object,global) found in _bom.s.o 
+    3] lbl_805d7c38 (object,global) found in _bom.s.o 
+    3] lbl_805d7c3c (object,global) found in _bom.s.o 
+    3] lbl_805d7c40 (object,global) found in _bom.s.o 
+    3] lbl_805d7c44 (object,global) found in _bom.s.o 
+    3] lbl_805d7c48 (object,global) found in _bom.s.o 
+    3] lbl_805d7c5c (object,global) found in _bom.s.o 
+    3] lbl_805d7c74 (object,global) found in _bom.s.o 
+    3] lbl_805d7c8c (object,global) found in _bom.s.o 
+    3] lbl_805d7ca0 (object,global) found in _bom.s.o 
+    3] lbl_805d7cbc (object,global) found in _bom.s.o 
+    3] lbl_805d7cc8 (object,global) found in _bom.s.o 
+    3] lbl_805d7cd0 (object,global) found in _bom.s.o 
+    3] lbl_805d7cd8 (object,global) found in _bom.s.o 
+    3] lbl_805d7ce0 (object,global) found in _bom.s.o 
+    3] lbl_805d7ce8 (object,global) found in _bom.s.o 
+    3] lbl_805d7cf0 (object,global) found in _bom.s.o 
+    3] lbl_805d7cf8 (object,global) found in _bom.s.o 
+    3] lbl_805d7d00 (object,global) found in _bom.s.o 
+    3] lbl_805d7d08 (object,global) found in _bom.s.o 
+    3] lbl_805d7d14 (object,global) found in _bom.s.o 
+    3] lbl_805d7d1c (object,global) found in _bom.s.o 
+    3] lbl_805d7d24 (object,global) found in _bom.s.o 
+    3] lbl_805d7d2c (object,global) found in _bom.s.o 
+    3] lbl_805d7d34 (object,global) found in _bom.s.o 
+    3] lbl_805d7d3c (object,global) found in _bom.s.o 
+    3] lbl_805d7d44 (object,global) found in _bom.s.o 
+    3] lbl_805d7d4c (object,global) found in _bom.s.o 
+    3] lbl_805d7d54 (object,global) found in _bom.s.o 
+    3] lbl_805d7d5c (object,global) found in _bom.s.o 
+    3] lbl_805d7d64 (object,global) found in _bom.s.o 
+    3] lbl_805d7d68 (object,global) found in _bom.s.o 
+    3] lbl_805d7d74 (object,global) found in _bom.s.o 
+    3] lbl_805d7d8c (object,global) found in _bom.s.o 
+    3] lbl_805d7d94 (object,global) found in _bom.s.o 
+    3] lbl_805d7dac (object,global) found in _bom.s.o 
+    3] lbl_805d7db4 (object,global) found in _bom.s.o 
+    3] lbl_805d7dbc (object,global) found in _bom.s.o 
+    3] lbl_805d7dc4 (object,global) found in _bom.s.o 
+    3] lbl_805d7dd0 (object,global) found in _bom.s.o 
+    3] lbl_805d7de8 (object,global) found in _bom.s.o 
+    3] lbl_805d7df4 (object,global) found in _bom.s.o 
+    3] lbl_805d7df8 (object,global) found in _bom.s.o 
+    3] .rodata (section,local) found in _bom.s.o 
+   2] lbl_805d842c (object,global) found in _bom.s.o 
+    3] lbl_805d8034 (object,global) found in _bom.s.o 
+     4] lbl_805d7fa4 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mario_dispflag_onoff
+>>> SYMBOL NOT FOUND: evt_party_dispflg_onoff
+      5] lbl_805d7e00 (object,global) found in _bom.s.o 
+      5] lbl_805d7e60 (object,global) found in _bom.s.o 
+      5] lbl_805d7e80 (object,global) found in _bom.s.o 
+       6] func_805cf9d8 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: marioGetPtr
+>>> SYMBOL NOT FOUND: partyGetPtr
+>>> SYMBOL NOT FOUND: npcGetWorkPtr
+>>> SYMBOL NOT FOUND: lbl_8041e808
+>>> SYMBOL NOT FOUND: _mapAlloc
+>>> SYMBOL NOT FOUND: memset
+>>> SYMBOL NOT FOUND: marioChkSts
+>>> SYMBOL NOT FOUND: vivianGetStatus
+>>> SYMBOL NOT FOUND: effMistEntry
+>>> SYMBOL NOT FOUND: irand
+>>> SYMBOL NOT FOUND: animPoseGetAnimPosePtr
+        7] _unresolved (func,global) found in _bom.s.o 
+        7] _epilog (func,global) found in _bom.s.o 
+         8] lbl_805d5a38 (notype,global) found in _bom.s.o 
+          9] .dtors (section,local) found in _bom.s.o 
+        7] lbl_805cf8c8 (notype,local) found in _bom.s.o 
+        7] lbl_805cf8d4 (notype,local) found in _bom.s.o 
+        7] lbl_805cf914 (notype,local) found in _bom.s.o 
+        7] lbl_805cf920 (notype,local) found in _bom.s.o 
+        7] lbl_805cfa5c (notype,local) found in _bom.s.o 
+        7] lbl_805cfa74 (notype,local) found in _bom.s.o 
+        7] lbl_805cfa88 (notype,local) found in _bom.s.o 
+        7] lbl_805cfa9c (notype,local) found in _bom.s.o 
+        7] lbl_805cfaa8 (notype,local) found in _bom.s.o 
+        7] lbl_805cfabc (notype,local) found in _bom.s.o 
+        7] lbl_805cfac4 (notype,local) found in _bom.s.o 
+        7] lbl_805cfb64 (notype,local) found in _bom.s.o 
+        7] lbl_805cfc0c (notype,local) found in _bom.s.o 
+        7] lbl_805cfc30 (notype,local) found in _bom.s.o 
+        7] lbl_805cfc40 (notype,local) found in _bom.s.o 
+        7] lbl_805cfcb4 (notype,local) found in _bom.s.o 
+        7] lbl_805cfcc0 (notype,local) found in _bom.s.o 
+        7] func_805cfce4 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evtGetValue
+>>> SYMBOL NOT FOUND: evtGetFloat
+>>> SYMBOL NOT FOUND: effNameToPtr
+        7] func_805cfd48 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: _savefpr_29
+>>> SYMBOL NOT FOUND: _restfpr_29
+        7] func_805cfde4 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: effStarStoneEntry
+>>> SYMBOL NOT FOUND: effSetName
+        7] func_805cfe94 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: npcNameToPtr_NoAssert
+>>> SYMBOL NOT FOUND: animPoseSetMaterialFlagOn
+        7] lbl_805cfee0 (notype,local) found in _bom.s.o 
+        7] lbl_805cfef0 (notype,local) found in _bom.s.o 
+        7] func_805cff04 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: C_MTXLookAt
+>>> SYMBOL NOT FOUND: envSetYamiView
+        7] func_805cffc8 (func,global) found in _bom.s.o 
+         8] lbl_80700070 (object,global) found in _bom.s.o 
+          9] lbl_80700074 (object,global) found in _bom.s.o 
+          9] lbl_807000b4 (object,global) found in _bom.s.o 
+          9] .bss (section,local) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: rand
+>>> SYMBOL NOT FOUND: extGetPosePtr
+>>> SYMBOL NOT FOUND: psndSFXOn_3D
+        7] lbl_805d01b0 (notype,local) found in _bom.s.o 
+        7] func_805d01c8 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evtSetValue
+>>> SYMBOL NOT FOUND: evtSetFloat
+        7] lbl_805d021c (notype,local) found in _bom.s.o 
+        7] lbl_805d0224 (notype,local) found in _bom.s.o 
+        7] func_805d02c4 (func,global) found in _bom.s.o 
+         8] func_805d0304 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: extLoadRenderMode
+>>> SYMBOL NOT FOUND: extLoadVertex
+>>> SYMBOL NOT FOUND: extLoadTexture
+>>> SYMBOL NOT FOUND: extLoadTev
+>>> SYMBOL NOT FOUND: envSetYami
+>>> SYMBOL NOT FOUND: GXSetNumTexGens
+>>> SYMBOL NOT FOUND: GXSetNumTevStages
+>>> SYMBOL NOT FOUND: GXSetNumIndStages
+>>> SYMBOL NOT FOUND: extPoseDraw
+>>> SYMBOL NOT FOUND: extGetPoseNum
+>>> SYMBOL NOT FOUND: extLoadTextureExit
+>>> SYMBOL NOT FOUND: dispEntry
+        7] lbl_805d0338 (notype,local) found in _bom.s.o 
+        7] lbl_805d0394 (notype,local) found in _bom.s.o 
+        7] func_805d03b8 (func,global) found in _bom.s.o 
+        7] lbl_805d0568 (notype,local) found in _bom.s.o 
+        7] func_805d0584 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: smartAlloc
+         8] lbl_805d8bac (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: strcpy
+>>> SYMBOL NOT FOUND: strcmp
+>>> SYMBOL NOT FOUND: PSMTXIdentity
+>>> SYMBOL NOT FOUND: lbl_80415fd0
+        7] lbl_805d061c (notype,local) found in _bom.s.o 
+        7] lbl_805d064c (notype,local) found in _bom.s.o 
+        7] lbl_805d0708 (notype,local) found in _bom.s.o 
+        7] lbl_805d07e0 (notype,local) found in _bom.s.o 
+        7] lbl_805d07fc (notype,local) found in _bom.s.o 
+        7] lbl_805d0808 (notype,local) found in _bom.s.o 
+        7] lbl_805d0858 (notype,local) found in _bom.s.o 
+        7] lbl_805d0864 (notype,local) found in _bom.s.o 
+        7] func_805d089c (func,global) found in _bom.s.o 
+        7] lbl_805d08f8 (notype,local) found in _bom.s.o 
+        7] lbl_805d0968 (notype,local) found in _bom.s.o 
+        7] func_805d09c0 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: sprintf
+        7] func_805d0a28 (func,global) found in _bom.s.o 
+         8] func_805d0a6c (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: camGetPtr
+>>> SYMBOL NOT FOUND: GXGetTexBufferSize
+>>> SYMBOL NOT FOUND: GXSetTexCopySrc
+>>> SYMBOL NOT FOUND: GXSetTexCopyDst
+>>> SYMBOL NOT FOUND: GXCopyTex
+>>> SYMBOL NOT FOUND: GXPixModeSync
+>>> SYMBOL NOT FOUND: GXInitTexObj
+>>> SYMBOL NOT FOUND: GXInitTexObjLOD
+>>> SYMBOL NOT FOUND: GXLoadTexObj
+>>> SYMBOL NOT FOUND: GXSetBlendMode
+>>> SYMBOL NOT FOUND: GXSetZCompLoc
+>>> SYMBOL NOT FOUND: GXSetAlphaCompare
+>>> SYMBOL NOT FOUND: GXSetZMode
+>>> SYMBOL NOT FOUND: GXSetNumChans
+>>> SYMBOL NOT FOUND: GXSetChanCtrl
+>>> SYMBOL NOT FOUND: PSMTXTrans
+>>> SYMBOL NOT FOUND: GXLoadTexMtxImm
+>>> SYMBOL NOT FOUND: GXSetTexCoordGen2
+>>> SYMBOL NOT FOUND: GXSetTevKColorSel
+>>> SYMBOL NOT FOUND: GXSetTevKAlphaSel
+>>> SYMBOL NOT FOUND: GXSetTevOrder
+>>> SYMBOL NOT FOUND: GXSetTevColorOp
+>>> SYMBOL NOT FOUND: GXSetTevAlphaOp
+>>> SYMBOL NOT FOUND: GXSetTevColorIn
+>>> SYMBOL NOT FOUND: GXSetTevAlphaIn
+>>> SYMBOL NOT FOUND: GXSetTevSwapMode
+>>> SYMBOL NOT FOUND: GXLoadPosMtxImm
+>>> SYMBOL NOT FOUND: GXSetCurrentMtx
+>>> SYMBOL NOT FOUND: GXSetCullMode
+>>> SYMBOL NOT FOUND: GXClearVtxDesc
+>>> SYMBOL NOT FOUND: GXSetVtxDesc
+>>> SYMBOL NOT FOUND: GXSetVtxAttrFmt
+>>> SYMBOL NOT FOUND: GXBegin
+>>> SYMBOL NOT FOUND: sysWaitDrawSync
+        7] lbl_805d0cd4 (notype,local) found in _bom.s.o 
+        7] lbl_805d0d28 (notype,local) found in _bom.s.o 
+        7] lbl_805d0d44 (notype,local) found in _bom.s.o 
+        7] lbl_805d0d78 (notype,local) found in _bom.s.o 
+        7] lbl_805d0d9c (notype,local) found in _bom.s.o 
+        7] lbl_805d0dd0 (notype,local) found in _bom.s.o 
+        7] lbl_805d0dec (notype,local) found in _bom.s.o 
+        7] lbl_805d0e1c (notype,local) found in _bom.s.o 
+        7] lbl_805d0e38 (notype,local) found in _bom.s.o 
+        7] lbl_805d0efc (notype,local) found in _bom.s.o 
+        7] lbl_805d0f30 (notype,local) found in _bom.s.o 
+        7] func_805d1098 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: cos
+>>> SYMBOL NOT FOUND: sin
+>>> SYMBOL NOT FOUND: angleABf
+>>> SYMBOL NOT FOUND: effKemuTestSetRxRz
+>>> SYMBOL NOT FOUND: effRippleN64SetRxRz
+        7] func_805d1184 (func,global) found in _bom.s.o 
+         8] func_805d28c4 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: extDraw
+        7] lbl_805d11d0 (notype,local) found in _bom.s.o 
+        7] func_805d11e0 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: PSVECDistance
+>>> SYMBOL NOT FOUND: PSVECSubtract
+>>> SYMBOL NOT FOUND: PSVECNormalize
+>>> SYMBOL NOT FOUND: PSVECScale
+>>> SYMBOL NOT FOUND: PSVECAdd
+>>> SYMBOL NOT FOUND: distABf
+>>> SYMBOL NOT FOUND: PSMTXRotRad
+>>> SYMBOL NOT FOUND: PSMTXConcat
+>>> SYMBOL NOT FOUND: __div2u
+>>> SYMBOL NOT FOUND: __cvt_ull_flt
+        7] lbl_805d1278 (notype,local) found in _bom.s.o 
+        7] lbl_805d1328 (notype,local) found in _bom.s.o 
+        7] lbl_805d1334 (notype,local) found in _bom.s.o 
+        7] lbl_805d134c (notype,local) found in _bom.s.o 
+        7] lbl_805d13f0 (notype,local) found in _bom.s.o 
+        7] lbl_805d1400 (notype,local) found in _bom.s.o 
+        7] lbl_805d1574 (notype,local) found in _bom.s.o 
+        7] lbl_805d1590 (notype,local) found in _bom.s.o 
+        7] lbl_805d15b8 (notype,local) found in _bom.s.o 
+        7] lbl_805d15d4 (notype,local) found in _bom.s.o 
+        7] lbl_805d1630 (notype,local) found in _bom.s.o 
+        7] lbl_805d164c (notype,local) found in _bom.s.o 
+        7] lbl_805d1678 (notype,local) found in _bom.s.o 
+        7] lbl_805d169c (notype,local) found in _bom.s.o 
+        7] lbl_805d186c (notype,local) found in _bom.s.o 
+        7] lbl_805d19e0 (notype,local) found in _bom.s.o 
+        7] lbl_805d19fc (notype,local) found in _bom.s.o 
+        7] lbl_805d1a24 (notype,local) found in _bom.s.o 
+        7] lbl_805d1a40 (notype,local) found in _bom.s.o 
+        7] lbl_805d1a9c (notype,local) found in _bom.s.o 
+        7] lbl_805d1ab8 (notype,local) found in _bom.s.o 
+        7] lbl_805d1ae4 (notype,local) found in _bom.s.o 
+        7] lbl_805d1b08 (notype,local) found in _bom.s.o 
+        7] lbl_805d1cd8 (notype,local) found in _bom.s.o 
+        7] lbl_805d1dc8 (notype,local) found in _bom.s.o 
+        7] lbl_805d1de4 (notype,local) found in _bom.s.o 
+        7] lbl_805d1e0c (notype,local) found in _bom.s.o 
+        7] lbl_805d1e28 (notype,local) found in _bom.s.o 
+        7] lbl_805d1e84 (notype,local) found in _bom.s.o 
+        7] lbl_805d1ea0 (notype,local) found in _bom.s.o 
+        7] lbl_805d1ecc (notype,local) found in _bom.s.o 
+        7] lbl_805d1ef0 (notype,local) found in _bom.s.o 
+        7] lbl_805d2134 (notype,local) found in _bom.s.o 
+        7] lbl_805d2140 (notype,local) found in _bom.s.o 
+        7] lbl_805d21dc (notype,local) found in _bom.s.o 
+        7] lbl_805d21f8 (notype,local) found in _bom.s.o 
+        7] lbl_805d2224 (notype,local) found in _bom.s.o 
+        7] lbl_805d2248 (notype,local) found in _bom.s.o 
+        7] lbl_805d22ac (notype,local) found in _bom.s.o 
+        7] lbl_805d22c8 (notype,local) found in _bom.s.o 
+        7] lbl_805d22f0 (notype,local) found in _bom.s.o 
+        7] lbl_805d230c (notype,local) found in _bom.s.o 
+        7] lbl_805d2368 (notype,local) found in _bom.s.o 
+        7] lbl_805d24f8 (notype,local) found in _bom.s.o 
+        7] lbl_805d2508 (notype,local) found in _bom.s.o 
+        7] lbl_805d2568 (notype,local) found in _bom.s.o 
+        7] lbl_805d25e0 (notype,local) found in _bom.s.o 
+        7] lbl_805d2624 (notype,local) found in _bom.s.o 
+        7] func_805d2674 (func,global) found in _bom.s.o 
+        7] lbl_805d2888 (notype,local) found in _bom.s.o 
+        7] func_805d28f8 (func,global) found in _bom.s.o 
+        7] lbl_805d29d0 (notype,local) found in _bom.s.o 
+        7] lbl_805d2a00 (notype,local) found in _bom.s.o 
+        7] lbl_805d2b20 (notype,local) found in _bom.s.o 
+        7] lbl_805d2bc4 (notype,local) found in _bom.s.o 
+        7] lbl_805d2be0 (notype,local) found in _bom.s.o 
+        7] lbl_805d2c14 (notype,local) found in _bom.s.o 
+        7] lbl_805d2c38 (notype,local) found in _bom.s.o 
+        7] lbl_805d2c80 (notype,local) found in _bom.s.o 
+        7] lbl_805d2c9c (notype,local) found in _bom.s.o 
+        7] lbl_805d2ccc (notype,local) found in _bom.s.o 
+        7] lbl_805d2ce8 (notype,local) found in _bom.s.o 
+        7] lbl_805d2d08 (notype,local) found in _bom.s.o 
+        7] lbl_805d2d24 (notype,local) found in _bom.s.o 
+        7] lbl_805d2d30 (notype,local) found in _bom.s.o 
+        7] lbl_805d2d80 (notype,local) found in _bom.s.o 
+        7] lbl_805d2d8c (notype,local) found in _bom.s.o 
+        7] func_805d2e04 (func,global) found in _bom.s.o 
+        7] lbl_805d2e60 (notype,local) found in _bom.s.o 
+        7] lbl_805d2ed0 (notype,local) found in _bom.s.o 
+        7] func_805d2f28 (func,global) found in _bom.s.o 
+        7] lbl_805d2f5c (notype,local) found in _bom.s.o 
+        7] lbl_805d2f78 (notype,local) found in _bom.s.o 
+        7] lbl_805d2f84 (notype,local) found in _bom.s.o 
+        7] lbl_805d2fdc (notype,local) found in _bom.s.o 
+        7] func_805d2ff0 (func,global) found in _bom.s.o 
+        7] lbl_805d3074 (notype,local) found in _bom.s.o 
+        7] lbl_805d30ec (notype,local) found in _bom.s.o 
+        7] lbl_805d3130 (notype,local) found in _bom.s.o 
+        7] func_805d3170 (func,global) found in _bom.s.o 
+        7] lbl_805d31b8 (notype,local) found in _bom.s.o 
+        7] lbl_805d31e8 (notype,local) found in _bom.s.o 
+        7] func_805d326c (func,global) found in _bom.s.o 
+        7] lbl_805d3340 (notype,local) found in _bom.s.o 
+        7] lbl_805d33e0 (notype,local) found in _bom.s.o 
+        7] lbl_805d33fc (notype,local) found in _bom.s.o 
+        7] lbl_805d3408 (notype,local) found in _bom.s.o 
+        7] lbl_805d3458 (notype,local) found in _bom.s.o 
+        7] lbl_805d3464 (notype,local) found in _bom.s.o 
+        7] func_805d34c0 (func,global) found in _bom.s.o 
+        7] lbl_805d3518 (notype,local) found in _bom.s.o 
+        7] lbl_805d3524 (notype,local) found in _bom.s.o 
+        7] func_805d353c (func,global) found in _bom.s.o 
+        7] func_805d3578 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: getMarioStDvdRoot
+>>> SYMBOL NOT FOUND: fileAsyncf
+>>> SYMBOL NOT FOUND: fileAllocf
+>>> SYMBOL NOT FOUND: fileFree
+>>> SYMBOL NOT FOUND: _mapFree
+         8] func_805d3720 (func,global) found in _bom.s.o 
+          9] func_805d5040 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: TEXGetGXTexObjFromPalette
+>>> SYMBOL NOT FOUND: GXSetTevOp
+>>> SYMBOL NOT FOUND: PSMTXScale
+>>> SYMBOL NOT FOUND: GXGetTexObjWidth
+>>> SYMBOL NOT FOUND: GXGetTexObjHeight
+>>> SYMBOL NOT FOUND: winTexInit
+>>> SYMBOL NOT FOUND: winTexSet
+>>> SYMBOL NOT FOUND: __div2i
+>>> SYMBOL NOT FOUND: lbl_803e0138
+        7] lbl_805d35d0 (notype,local) found in _bom.s.o 
+        7] lbl_805d3618 (notype,local) found in _bom.s.o 
+        7] lbl_805d3668 (notype,local) found in _bom.s.o 
+        7] lbl_805d369c (notype,local) found in _bom.s.o 
+        7] lbl_805d36e0 (notype,local) found in _bom.s.o 
+        7] lbl_805d370c (notype,local) found in _bom.s.o 
+        7] lbl_805d3710 (notype,local) found in _bom.s.o 
+        7] lbl_805d3918 (notype,local) found in _bom.s.o 
+        7] lbl_805d3938 (notype,local) found in _bom.s.o 
+        7] lbl_805d3958 (notype,local) found in _bom.s.o 
+        7] lbl_805d396c (notype,local) found in _bom.s.o 
+        7] lbl_805d39f0 (notype,local) found in _bom.s.o 
+        7] lbl_805d3b14 (notype,local) found in _bom.s.o 
+        7] lbl_805d3c58 (notype,local) found in _bom.s.o 
+        7] lbl_805d3e28 (notype,local) found in _bom.s.o 
+        7] lbl_805d3ff8 (notype,local) found in _bom.s.o 
+        7] lbl_805d41c8 (notype,local) found in _bom.s.o 
+        7] lbl_805d4380 (notype,local) found in _bom.s.o 
+        7] lbl_805d4538 (notype,local) found in _bom.s.o 
+        7] lbl_805d46d0 (notype,local) found in _bom.s.o 
+        7] lbl_805d4728 (notype,local) found in _bom.s.o 
+        7] lbl_805d4764 (notype,local) found in _bom.s.o 
+        7] lbl_805d4784 (notype,local) found in _bom.s.o 
+        7] lbl_805d47a4 (notype,local) found in _bom.s.o 
+        7] lbl_805d47e8 (notype,local) found in _bom.s.o 
+        7] lbl_805d4808 (notype,local) found in _bom.s.o 
+        7] lbl_805d480c (notype,local) found in _bom.s.o 
+        7] lbl_805d481c (notype,local) found in _bom.s.o 
+        7] lbl_805d4860 (notype,local) found in _bom.s.o 
+        7] lbl_805d4880 (notype,local) found in _bom.s.o 
+        7] lbl_805d4884 (notype,local) found in _bom.s.o 
+        7] lbl_805d48cc (notype,local) found in _bom.s.o 
+        7] lbl_805d490c (notype,local) found in _bom.s.o 
+        7] lbl_805d4924 (notype,local) found in _bom.s.o 
+        7] lbl_805d4940 (notype,local) found in _bom.s.o 
+        7] lbl_805d495c (notype,local) found in _bom.s.o 
+        7] lbl_805d4968 (notype,local) found in _bom.s.o 
+        7] lbl_805d4994 (notype,local) found in _bom.s.o 
+        7] lbl_805d49c0 (notype,local) found in _bom.s.o 
+        7] lbl_805d4a20 (notype,local) found in _bom.s.o 
+        7] lbl_805d4a7c (notype,local) found in _bom.s.o 
+        7] lbl_805d4b20 (notype,local) found in _bom.s.o 
+        7] lbl_805d4cc8 (notype,local) found in _bom.s.o 
+        7] func_805d4e1c (func,global) found in _bom.s.o 
+        7] lbl_805d4eec (notype,local) found in _bom.s.o 
+        7] lbl_805d4ff4 (notype,local) found in _bom.s.o 
+        7] lbl_805d51a8 (notype,local) found in _bom.s.o 
+        7] func_805d534c (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: mobjNameToPtr
+        7] func_805d53ac (func,global) found in _bom.s.o 
+        7] lbl_805d53f8 (notype,local) found in _bom.s.o 
+        7] lbl_805d5408 (notype,local) found in _bom.s.o 
+        7] func_805d541c (func,global) found in _bom.s.o 
+        7] func_805d54e0 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: effSnowfallN64Entry
+        7] lbl_805d5500 (notype,local) found in _bom.s.o 
+        7] func_805d5514 (func,global) found in _bom.s.o 
+        7] lbl_805d55cc (notype,local) found in _bom.s.o 
+        7] lbl_805d55f8 (notype,local) found in _bom.s.o 
+        7] func_805d562c (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: BattleTransID
+>>> SYMBOL NOT FOUND: lbl_8041eb90
+>>> SYMBOL NOT FOUND: BattleGetUnitPtr
+>>> SYMBOL NOT FOUND: effDelete
+        7] lbl_805d5688 (notype,local) found in _bom.s.o 
+        7] func_805d56a0 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: effKumokumoN64Entry
+>>> SYMBOL NOT FOUND: BtlUnit_GetPos
+        7] lbl_805d5734 (notype,local) found in _bom.s.o 
+        7] func_805d57a4 (func,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: BtlUnit_GetPartsPtr
+>>> SYMBOL NOT FOUND: intplGetValue
+        7] lbl_805d5808 (notype,local) found in _bom.s.o 
+        7] lbl_805d5860 (notype,local) found in _bom.s.o 
+        7] lbl_805d586c (notype,local) found in _bom.s.o 
+        7] func_805d5880 (func,global) found in _bom.s.o 
+        7] lbl_805d58e4 (notype,local) found in _bom.s.o 
+        7] lbl_805d5940 (notype,local) found in _bom.s.o 
+        7] lbl_805d594c (notype,local) found in _bom.s.o 
+        7] func_805d5960 (func,global) found in _bom.s.o 
+        7] func_805d59d8 (func,global) found in _bom.s.o 
+        7] lbl_805d5a14 (notype,local) found in _bom.s.o 
+        7] lbl_805d5a20 (notype,local) found in _bom.s.o 
+        7] .text (section,local) found in _bom.s.o 
+      5] lbl_805d7ee0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_eff64
+      5] lbl_805d7f28 (object,global) found in _bom.s.o 
+      5] lbl_805d7f88 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_80306f78
+      5] lbl_805d80e8 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mario_key_onoff
+>>> SYMBOL NOT FOUND: evt_party_stop
+>>> SYMBOL NOT FOUND: evt_snd_bgm_scope
+>>> SYMBOL NOT FOUND: evt_cam_letter_box_onoff
+>>> SYMBOL NOT FOUND: evt_cam3d_evt_set
+>>> SYMBOL NOT FOUND: evt_seq_wait
+>>> SYMBOL NOT FOUND: evt_bero_exec_wait
+>>> SYMBOL NOT FOUND: evt_mario_mov_pos2
+>>> SYMBOL NOT FOUND: evt_mario_set_dir
+>>> SYMBOL NOT FOUND: evt_party_move_pos2
+>>> SYMBOL NOT FOUND: evt_party_set_dir
+>>> SYMBOL NOT FOUND: evt_msg_print_party
+>>> SYMBOL NOT FOUND: evt_cam3d_evt_off
+>>> SYMBOL NOT FOUND: evt_party_run
+      5] lbl_805d8298 (object,global) found in _bom.s.o 
+      5] lbl_805d8588 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mapobj_rotate
+      5] lbl_805d85b8 (object,global) found in _bom.s.o 
+      5] lbl_805d85e8 (object,global) found in _bom.s.o 
+      5] lbl_805d8618 (object,global) found in _bom.s.o 
+      5] lbl_805d8628 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_snd_envoff
+>>> SYMBOL NOT FOUND: evt_snd_env_lpf
+      5] lbl_805d864c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_snd_envon
+      5] lbl_805d8674 (object,global) found in _bom.s.o 
+      5] lbl_805d86bc (object,global) found in _bom.s.o 
+      5] lbl_805d8770 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_cam_letter_box_disable
+>>> SYMBOL NOT FOUND: evt_mario_set_pos
+>>> SYMBOL NOT FOUND: evt_party_set_pos
+>>> SYMBOL NOT FOUND: evt_telop_entry
+>>> SYMBOL NOT FOUND: evt_mario_normalize
+>>> SYMBOL NOT FOUND: evt_mario_get_pos
+>>> SYMBOL NOT FOUND: evt_snd_sfxon_3d
+>>> SYMBOL NOT FOUND: evt_mario_set_pose
+>>> SYMBOL NOT FOUND: N_evt_bero_set_mario_bottomless_respawn_pos_to_current_mario_pos
+>>> SYMBOL NOT FOUND: lbl_8030e8b4
+      5] lbl_805d89c0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mapobj_get_position
+>>> SYMBOL NOT FOUND: evt_sub_intpl_msec_init
+>>> SYMBOL NOT FOUND: evt_sub_intpl_msec_get_value
+>>> SYMBOL NOT FOUND: evt_sub_random
+      5] lbl_805d8d20 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_npc_entry
+>>> SYMBOL NOT FOUND: evt_ext_entry
+      5] lbl_805d8d5c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_cam_shake
+      5] lbl_805d8d7c (object,global) found in _bom.s.o 
+      5] lbl_805d8de4 (object,global) found in _bom.s.o 
+      5] lbl_805d8ebc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_snd_sfxon
+>>> SYMBOL NOT FOUND: evt_mapobj_trans
+>>> SYMBOL NOT FOUND: evt_eff
+      5] lbl_805d913c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_eff_delete
+      5] lbl_805d9168 (object,global) found in _bom.s.o 
+      5] lbl_805d91dc (object,global) found in _bom.s.o 
+      5] lbl_805d91ec (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_map_set_blend
+>>> SYMBOL NOT FOUND: evt_map_blend_off
+>>> SYMBOL NOT FOUND: evt_mapobj_flag_onoff
+      5] lbl_805d92ac (object,global) found in _bom.s.o 
+      5] lbl_805d937c (object,global) found in _bom.s.o 
+      5] lbl_805d944c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mario_get_party
+>>> SYMBOL NOT FOUND: evt_party_set_pose
+      5] lbl_805d951c (object,global) found in _bom.s.o 
+      5] lbl_805d966c (object,global) found in _bom.s.o 
+      5] lbl_805d97b8 (object,global) found in _bom.s.o 
+      5] lbl_805d97dc (object,global) found in _bom.s.o 
+      5] lbl_805d97fc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_snd_bgmoff
+>>> SYMBOL NOT FOUND: evt_msg_print
+>>> SYMBOL NOT FOUND: evt_npc_flag_onoff
+>>> SYMBOL NOT FOUND: evt_party_move_pos
+>>> SYMBOL NOT FOUND: evt_mario_mov_pos
+>>> SYMBOL NOT FOUND: evt_snd_sfxoff
+>>> SYMBOL NOT FOUND: evt_mario_cont_onoff
+>>> SYMBOL NOT FOUND: evt_party_cont_onoff
+>>> SYMBOL NOT FOUND: evt_snd_sfx_pos
+>>> SYMBOL NOT FOUND: evt_party_get_pos
+>>> SYMBOL NOT FOUND: L_evt_party_vivian_tail
+>>> SYMBOL NOT FOUND: evt_npc_status_onoff
+>>> SYMBOL NOT FOUND: evt_npc_move_position
+>>> SYMBOL NOT FOUND: evt_set_dir_to_target
+>>> SYMBOL NOT FOUND: evt_npc_set_ry
+>>> SYMBOL NOT FOUND: evt_npc_get_position
+>>> SYMBOL NOT FOUND: evt_npc_jump_position_nohit
+>>> SYMBOL NOT FOUND: lbl_8032fe60
+>>> SYMBOL NOT FOUND: evt_npc_reverse_ry
+>>> SYMBOL NOT FOUND: evt_map_playanim
+>>> SYMBOL NOT FOUND: evt_msg_toge
+>>> SYMBOL NOT FOUND: evt_snd_bgmon
+>>> SYMBOL NOT FOUND: evt_mapobj_scale
+>>> SYMBOL NOT FOUND: evt_sub_spline_init
+>>> SYMBOL NOT FOUND: evt_sub_spline_get_value
+>>> SYMBOL NOT FOUND: evt_ext_reset
+>>> SYMBOL NOT FOUND: evt_snd_bgmoff_f
+>>> SYMBOL NOT FOUND: evt_pouch_remove_item
+>>> SYMBOL NOT FOUND: evt_bero_mapchange
+      5] lbl_805dbe34 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_npc_set_position
+      5] lbl_805dbe68 (object,global) found in _bom.s.o 
+      5] lbl_805dbec8 (object,global) found in _bom.s.o 
+      5] lbl_805dbee8 (object,global) found in _bom.s.o 
+      5] lbl_805dbf98 (object,global) found in _bom.s.o 
+      5] lbl_805dbfb8 (object,global) found in _bom.s.o 
+      5] lbl_805dc068 (object,global) found in _bom.s.o 
+      5] lbl_805dc088 (object,global) found in _bom.s.o 
+      5] lbl_805dc138 (object,global) found in _bom.s.o 
+      5] lbl_805dc158 (object,global) found in _bom.s.o 
+      5] lbl_805dc4d8 (object,global) found in _bom.s.o 
+      5] lbl_805dc530 (object,global) found in _bom.s.o 
+      5] lbl_805dc5cc (object,global) found in _bom.s.o 
+      5] lbl_805dc6cc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_npc_set_tribe
+>>> SYMBOL NOT FOUND: evt_npc_change_interrupt
+      5] lbl_805dc734 (object,global) found in _bom.s.o 
+      5] lbl_805dc79c (object,global) found in _bom.s.o 
+      5] lbl_805dc804 (object,global) found in _bom.s.o 
+      5] lbl_805dca88 (object,global) found in _bom.s.o 
+      5] lbl_805dcadc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_map_set_tevcallback
+>>> SYMBOL NOT FOUND: evt_bg_set_color
+>>> SYMBOL NOT FOUND: evt_msg_pri
+>>> SYMBOL NOT FOUND: evt_npc_wait_pera
+>>> SYMBOL NOT FOUND: evt_fade_set_mapchange_type
+      5] lbl_805dd224 (object,global) found in _bom.s.o 
+      5] lbl_805dd25c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_bero_get_info
+>>> SYMBOL NOT FOUND: lbl_8030ec7c
+>>> SYMBOL NOT FOUND: lbl_8030e608
+>>> SYMBOL NOT FOUND: evt_bero_get_entername
+>>> SYMBOL NOT FOUND: evt_hitobj_onoff
+>>> SYMBOL NOT FOUND: evt_npc_setup
+>>> SYMBOL NOT FOUND: evt_run_case_evt
+>>> SYMBOL NOT FOUND: evt_item_entry
+>>> SYMBOL NOT FOUND: lbl_8030955c
+      5] lbl_805dd5a0 (object,global) found in _bom.s.o 
+      5] lbl_805dd5d0 (object,global) found in _bom.s.o 
+      5] lbl_805dd600 (object,global) found in _bom.s.o 
+      5] lbl_805dd608 (object,global) found in _bom.s.o 
+      5] lbl_805dd638 (object,global) found in _bom.s.o 
+      5] lbl_805dd670 (object,global) found in _bom.s.o 
+      5] lbl_805dd6b8 (object,global) found in _bom.s.o 
+      5] lbl_805dd6e8 (object,global) found in _bom.s.o 
+      5] lbl_805dd718 (object,global) found in _bom.s.o 
+      5] lbl_805dd720 (object,global) found in _bom.s.o 
+      5] lbl_805dd750 (object,global) found in _bom.s.o 
+      5] lbl_805dd788 (object,global) found in _bom.s.o 
+      5] lbl_805dd7d0 (object,global) found in _bom.s.o 
+      5] lbl_805dd800 (object,global) found in _bom.s.o 
+      5] lbl_805dd830 (object,global) found in _bom.s.o 
+      5] lbl_805dd860 (object,global) found in _bom.s.o 
+      5] lbl_805dd86c (object,global) found in _bom.s.o 
+      5] lbl_805dd89c (object,global) found in _bom.s.o 
+      5] lbl_805dd8d4 (object,global) found in _bom.s.o 
+      5] lbl_805dd8dc (object,global) found in _bom.s.o 
+      5] lbl_805dd924 (object,global) found in _bom.s.o 
+      5] lbl_805dd99c (object,global) found in _bom.s.o 
+      5] lbl_805dda6c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_party_set_breed_pose
+>>> SYMBOL NOT FOUND: evt_mario_set_dir_npc
+>>> SYMBOL NOT FOUND: evt_party_set_dir_npc
+      5] lbl_805ddd64 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_npc_set_anim
+>>> SYMBOL NOT FOUND: evt_msg_print_add
+      5] lbl_805de05c (object,global) found in _bom.s.o 
+      5] lbl_805de090 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_eff_fukidashi
+>>> SYMBOL NOT FOUND: evt_msg_select
+      5] lbl_805de724 (object,global) found in _bom.s.o 
+      5] lbl_805de72c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_msg_continue
+>>> SYMBOL NOT FOUND: evt_pouch_get_haveitemcnt
+>>> SYMBOL NOT FOUND: evt_pouch_check_item
+>>> SYMBOL NOT FOUND: evt_item_get_item
+>>> SYMBOL NOT FOUND: evt_item_get_item_end_wait
+      5] lbl_805deb90 (object,global) found in _bom.s.o 
+      5] lbl_805deb98 (object,global) found in _bom.s.o 
+      5] lbl_805dec48 (object,global) found in _bom.s.o 
+      5] lbl_805dec8c (object,global) found in _bom.s.o 
+      5] lbl_805dedd0 (object,global) found in _bom.s.o 
+      5] lbl_805dedd8 (object,global) found in _bom.s.o 
+      5] lbl_805dede0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_win_item_select
+>>> SYMBOL NOT FOUND: evt_sub_get_coin
+>>> SYMBOL NOT FOUND: evt_sub_save_playtime
+      5] lbl_805df03c (object,global) found in _bom.s.o 
+      5] lbl_805df044 (object,global) found in _bom.s.o 
+      5] lbl_805df0f4 (object,global) found in _bom.s.o 
+      5] lbl_805df114 (object,global) found in _bom.s.o 
+      5] lbl_805df11c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_npc_set_width
+      5] lbl_805df268 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mario_cam_keep_on
+>>> SYMBOL NOT FOUND: evt_mario_jump_pos
+>>> SYMBOL NOT FOUND: evt_mario_cam_keep_off
+      5] lbl_805df594 (object,global) found in _bom.s.o 
+      5] lbl_805df59c (object,global) found in _bom.s.o 
+      5] lbl_805df770 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_exit_case_evt
+      5] lbl_805dfd1c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_sub_get_dir
+>>> SYMBOL NOT FOUND: evt_mario_get_dispdir
+      5] lbl_805e0500 (object,global) found in _bom.s.o 
+      5] lbl_805e0570 (object,global) found in _bom.s.o 
+      5] lbl_805e05e8 (object,global) found in _bom.s.o 
+      5] lbl_805e0924 (object,global) found in _bom.s.o 
+      5] lbl_805e0954 (object,global) found in _bom.s.o 
+      5] lbl_805e0984 (object,global) found in _bom.s.o 
+      5] lbl_805e09ec (object,global) found in _bom.s.o 
+      5] lbl_805e0a84 (object,global) found in _bom.s.o 
+      5] lbl_805e11b0 (object,global) found in _bom.s.o 
+      5] lbl_805e148c (object,global) found in _bom.s.o 
+      5] lbl_805e1524 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_shop_setup
+>>> SYMBOL NOT FOUND: evt_kinopio_setup
+>>> SYMBOL NOT FOUND: lbl_8033156c
+>>> SYMBOL NOT FOUND: evt_mobj_powerupblk
+>>> SYMBOL NOT FOUND: evt_mobj_kururing_floor
+>>> SYMBOL NOT FOUND: evt_mobj_save_blk
+>>> SYMBOL NOT FOUND: evt_map_replace_mapobj
+      5] lbl_805e1a58 (object,global) found in _bom.s.o 
+      5] lbl_805e1ab8 (object,global) found in _bom.s.o 
+      5] lbl_805e1ad4 (object,global) found in _bom.s.o 
+      5] lbl_805e1b88 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mobj_badgeblk
+      5] lbl_805e1c98 (object,global) found in _bom.s.o 
+      5] lbl_805e1cf8 (object,global) found in _bom.s.o 
+      5] lbl_805e1d14 (object,global) found in _bom.s.o 
+      5] lbl_805e1dc8 (object,global) found in _bom.s.o 
+      5] lbl_805e1eb8 (object,global) found in _bom.s.o 
+      5] lbl_805e1fc0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: weaponGetPowerDefault
+       6] lbl_805e2aa8 (object,global) found in _bom.s.o 
+      5] lbl_805e2174 (object,global) found in _bom.s.o 
+       6] lbl_805e2b08 (object,global) found in _bom.s.o 
+        7] lbl_805e2c8c (object,global) found in _bom.s.o 
+        7] lbl_805e2ca4 (object,global) found in _bom.s.o 
+         8] lbl_805e2c7c (object,global) found in _bom.s.o 
+         8] lbl_805e2c84 (object,global) found in _bom.s.o 
+         8] lbl_805e2bcc (object,global) found in _bom.s.o 
+        7] lbl_805e2db0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventWait
+         8] lbl_805e3638 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_AnimeChangePoseFromTable
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventAttack
+         8] lbl_805e2e88 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_check_battleflag
+>>> SYMBOL NOT FOUND: btlevtcmd_GetFirstAttackTarget
+>>> SYMBOL NOT FOUND: btlevtcmd_GetEnemyBelong
+>>> SYMBOL NOT FOUND: btlevtcmd_SamplingEnemy
+          9] lbl_805e2cf0 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_ChoiceSamplingEnemy
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckToken
+>>> SYMBOL NOT FOUND: lbl_803532b0
+>>> SYMBOL NOT FOUND: btlevtcmd_EnemyItemUseCheck
+>>> SYMBOL NOT FOUND: btlevtcmd_StartWaitEvent
+>>> SYMBOL NOT FOUND: btlevtcmd_JumpSetting
+>>> SYMBOL NOT FOUND: evt_btl_camera_set_mode
+>>> SYMBOL NOT FOUND: evt_btl_camera_set_homing_unit
+>>> SYMBOL NOT FOUND: evt_btl_camera_set_moveSpeedLv
+>>> SYMBOL NOT FOUND: evt_btl_camera_set_zoom
+>>> SYMBOL NOT FOUND: btlevtcmd_WeaponAftereffect
+>>> SYMBOL NOT FOUND: btlevtcmd_AttackDeclare
+>>> SYMBOL NOT FOUND: btlevtcmd_WaitGuardMove
+>>> SYMBOL NOT FOUND: btlevtcmd_PayWeaponCost
+>>> SYMBOL NOT FOUND: btlevtcmd_AnimeChangePoseType
+>>> SYMBOL NOT FOUND: btlevtcmd_GetPos
+>>> SYMBOL NOT FOUND: btlevtcmd_FaceDirectionAdd
+>>> SYMBOL NOT FOUND: btlevtcmd_CalculateFaceDirection
+>>> SYMBOL NOT FOUND: btlevtcmd_ChangeFaceDirection
+>>> SYMBOL NOT FOUND: btlevtcmd_SetMoveSpeed
+>>> SYMBOL NOT FOUND: btlevtcmd_MovePosition
+>>> SYMBOL NOT FOUND: evt_btl_camera_nomove_y_onoff
+>>> SYMBOL NOT FOUND: btlevtcmd_GetPosFloat
+>>> SYMBOL NOT FOUND: btlevtcmd_SetRotate
+>>> SYMBOL NOT FOUND: btlevtcmd_GetHitPos
+>>> SYMBOL NOT FOUND: btlevtcmd_JumpPosition
+>>> SYMBOL NOT FOUND: btlevtcmd_PreCheckDamage
+>>> SYMBOL NOT FOUND: btlevtcmd_StartAvoid
+>>> SYMBOL NOT FOUND: btlevtcmd_JumpContinue
+>>> SYMBOL NOT FOUND: btlevtcmd_MoveDirectionAdd
+>>> SYMBOL NOT FOUND: evt_btl_camera_shake_h
+>>> SYMBOL NOT FOUND: evt_btl_camera_add_zoom
+>>> SYMBOL NOT FOUND: btlevtcmd_snd_se
+>>> SYMBOL NOT FOUND: btlevtcmd_ResultACDefence
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckDamage
+>>> SYMBOL NOT FOUND: btlevtcmd_FaceDirectionSub
+>>> SYMBOL NOT FOUND: btlevtcmd_SetMoveSoundDataWork
+>>> SYMBOL NOT FOUND: btlevtcmd_GetHomePos
+>>> SYMBOL NOT FOUND: btlevtcmd_ResetFaceDirection
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventDamage
+         8] lbl_805e2e58 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_8034cc60
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventConfusion
+>>> SYMBOL NOT FOUND: btlevtcmd_SetRunSound
+>>> SYMBOL NOT FOUND: btlevtcmd_SetWalkSound
+>>> SYMBOL NOT FOUND: btlevtcmd_SetJumpSound
+        7] lbl_805e2c6c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_80416b38
+>>> SYMBOL NOT FOUND: lbl_80417930
+      5] lbl_805e21a4 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_803702a0
+>>> SYMBOL NOT FOUND: lbl_80370f20
+      5] lbl_805e21c4 (object,global) found in _bom.s.o 
+       6] lbl_805e36a0 (object,global) found in _bom.s.o 
+        7] lbl_805e3774 (object,global) found in _bom.s.o 
+        7] lbl_805e378c (object,global) found in _bom.s.o 
+         8] lbl_805e3764 (object,global) found in _bom.s.o 
+         8] lbl_805e376c (object,global) found in _bom.s.o 
+         8] lbl_805e4010 (object,global) found in _bom.s.o 
+        7] lbl_805e40b0 (object,global) found in _bom.s.o 
+         8] lbl_805e4bdc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_SetScale
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventUnisonPhase
+         8] lbl_805e42bc (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckPhase
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckActStatus
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckPartsCounterAttribute
+>>> SYMBOL NOT FOUND: btlevtcmd_GetUnitWork
+>>> SYMBOL NOT FOUND: btlevtcmd_DivePosition
+>>> SYMBOL NOT FOUND: btlevtcmd_SetHomePos
+>>> SYMBOL NOT FOUND: btlevtcmd_OnPartsAttribute
+>>> SYMBOL NOT FOUND: btlevtcmd_SetUnitWork
+>>> SYMBOL NOT FOUND: btlevtcmd_OffPartsAttribute
+         8] lbl_805e3958 (object,global) found in _bom.s.o 
+          9] lbl_805e3898 (object,global) found in _bom.s.o 
+          9] lbl_805e3a6c (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_AttackDeclareAll
+>>> SYMBOL NOT FOUND: btlevtcmd_OffPartsCounterAttribute
+>>> SYMBOL NOT FOUND: btlevtcmd_GetSelectEnemy
+>>> SYMBOL NOT FOUND: btlevtcmd_AnimeChangePose
+>>> SYMBOL NOT FOUND: btlevtcmd_GetStatusMg
+>>> SYMBOL NOT FOUND: btlevtcmd_GetSelectNextEnemy
+          9] lbl_805e37d8 (object,global) found in _bom.s.o 
+          9] lbl_805e44ec (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_SetDispOffset
+>>> SYMBOL NOT FOUND: btlevtcmd_AddScale
+          9] lbl_805e4af4 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_OnPartsCounterAttribute
+         8] lbl_805e4224 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckDamageCode
+         8] lbl_805e4144 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_GetUnitId
+        7] lbl_805e4098 (object,global) found in _bom.s.o 
+         8] lbl_805e42b4 (object,global) found in _bom.s.o 
+         8] lbl_805e41d8 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_SetPos
+>>> SYMBOL NOT FOUND: btlevtcmd_WaitAttackEnd
+>>> SYMBOL NOT FOUND: lbl_8036fa58
+      5] lbl_805e2224 (object,global) found in _bom.s.o 
+      5] lbl_805e2244 (object,global) found in _bom.s.o 
+      5] lbl_805e22d4 (object,global) found in _bom.s.o 
+      5] lbl_805e22f4 (object,global) found in _bom.s.o 
+       6] lbl_805e4c60 (object,global) found in _bom.s.o 
+        7] lbl_805e4d34 (object,global) found in _bom.s.o 
+        7] lbl_805e4d4c (object,global) found in _bom.s.o 
+         8] lbl_805e4d24 (object,global) found in _bom.s.o 
+         8] lbl_805e4d2c (object,global) found in _bom.s.o 
+         8] lbl_805e4efc (object,global) found in _bom.s.o 
+        7] lbl_805e5094 (object,global) found in _bom.s.o 
+         8] lbl_805e5db4 (object,global) found in _bom.s.o 
+         8] lbl_805e4e58 (object,global) found in _bom.s.o 
+          9] lbl_805e4d98 (object,global) found in _bom.s.o 
+          9] lbl_805e58d8 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckAttribute
+>>> SYMBOL NOT FOUND: btlevtcmd_OnAttribute
+>>> SYMBOL NOT FOUND: btlevtcmd_SetHitOffset
+>>> SYMBOL NOT FOUND: btlevtcmd_OffAttribute
+           10] lbl_805e54d8 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_SetEventCeilFall
+>>> SYMBOL NOT FOUND: btlevtcmd_SetHitCursorOffset
+>>> SYMBOL NOT FOUND: btlevtcmd_SetStatusIconOffset
+>>> SYMBOL NOT FOUND: btlevtcmd_SetKissHitOffset
+>>> SYMBOL NOT FOUND: btlevtcmd_AnimeSetPoseTable
+            11] lbl_805e52cc (object,global) found in _bom.s.o 
+            11] lbl_805e4f8c (object,global) found in _bom.s.o 
+         8] lbl_805e522c (object,global) found in _bom.s.o 
+        7] lbl_805e501c (object,global) found in _bom.s.o 
+         8] lbl_805e5110 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: btlevtcmd_CheckStatus
+         8] lbl_805e5254 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_80417748
+      5] lbl_805e2354 (object,global) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: lbl_803711f0
+      5] lbl_805e2374 (object,global) found in _bom.s.o 
+      5] lbl_805e2404 (object,global) found in _bom.s.o 
+      5] lbl_805e2424 (object,global) found in _bom.s.o 
+      5] lbl_805e2484 (object,global) found in _bom.s.o 
+      5] lbl_805e24a4 (object,global) found in _bom.s.o 
+      5] lbl_805e2534 (object,global) found in _bom.s.o 
+      5] lbl_805e2554 (object,global) found in _bom.s.o 
+      5] lbl_805e25b4 (object,global) found in _bom.s.o 
+      5] lbl_805e25d4 (object,global) found in _bom.s.o 
+      5] lbl_805e2664 (object,global) found in _bom.s.o 
+      5] lbl_805e2684 (object,global) found in _bom.s.o 
+      5] lbl_805e2744 (object,global) found in _bom.s.o 
+      5] lbl_805e2764 (object,global) found in _bom.s.o 
+      5] lbl_805e277c (object,global) found in _bom.s.o 
+      5] lbl_805e27a0 (object,global) found in _bom.s.o 
+      5] lbl_805e27c4 (object,global) found in _bom.s.o 
+      5] lbl_805e27e8 (object,global) found in _bom.s.o 
+      5] lbl_805e280c (object,global) found in _bom.s.o 
+      5] lbl_805e2830 (object,global) found in _bom.s.o 
+      5] lbl_805e2848 (object,global) found in _bom.s.o 
+      5] lbl_805e2a68 (object,global) found in _bom.s.o 
+      5] .data (section,local) found in _bom.s.o 
+>>> SYMBOL NOT FOUND: evt_mobj_brick
+>>> SYMBOL NOT FOUND: relSetEvtAddr
+>>> SYMBOL NOT FOUND: relSetBtlAddr
+>>> SYMBOL NOT FOUND: evtEntryType
+
+
+.text section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 006190 00000000  1 .text 	_bom.s.o 
+  00000000 000004 00000000  4 _unresolved 	_bom.s.o 
+  00000004 00004c 00000004  4 _epilog 	_bom.s.o 
+  00000024 000000 00000024 lbl_805cf8c8 (entry of .text) 	_bom.s.o 
+  00000030 000000 00000030 lbl_805cf8d4 (entry of .text) 	_bom.s.o 
+  00000050 0000e4 00000050  4 _prolog 	_bom.s.o 
+  00000070 000000 00000070 lbl_805cf914 (entry of .text) 	_bom.s.o 
+  0000007c 000000 0000007c lbl_805cf920 (entry of .text) 	_bom.s.o 
+  00000134 00030c 00000134  4 func_805cf9d8 	_bom.s.o 
+  000001b8 000000 000001b8 lbl_805cfa5c (entry of .text) 	_bom.s.o 
+  000001d0 000000 000001d0 lbl_805cfa74 (entry of .text) 	_bom.s.o 
+  000001e4 000000 000001e4 lbl_805cfa88 (entry of .text) 	_bom.s.o 
+  000001f8 000000 000001f8 lbl_805cfa9c (entry of .text) 	_bom.s.o 
+  00000204 000000 00000204 lbl_805cfaa8 (entry of .text) 	_bom.s.o 
+  00000218 000000 00000218 lbl_805cfabc (entry of .text) 	_bom.s.o 
+  00000220 000000 00000220 lbl_805cfac4 (entry of .text) 	_bom.s.o 
+  000002c0 000000 000002c0 lbl_805cfb64 (entry of .text) 	_bom.s.o 
+  00000368 000000 00000368 lbl_805cfc0c (entry of .text) 	_bom.s.o 
+  0000038c 000000 0000038c lbl_805cfc30 (entry of .text) 	_bom.s.o 
+  0000039c 000000 0000039c lbl_805cfc40 (entry of .text) 	_bom.s.o 
+  00000410 000000 00000410 lbl_805cfcb4 (entry of .text) 	_bom.s.o 
+  0000041c 000000 0000041c lbl_805cfcc0 (entry of .text) 	_bom.s.o 
+  00000440 000064 00000440  4 func_805cfce4 	_bom.s.o 
+  000004a4 00009c 000004a4  4 func_805cfd48 	_bom.s.o 
+  00000540 0000b0 00000540  4 func_805cfde4 	_bom.s.o 
+  000005f0 000070 000005f0  4 func_805cfe94 	_bom.s.o 
+  0000063c 000000 0000063c lbl_805cfee0 (entry of .text) 	_bom.s.o 
+  0000064c 000000 0000064c lbl_805cfef0 (entry of .text) 	_bom.s.o 
+  00000660 0000c4 00000660  4 func_805cff04 	_bom.s.o 
+  00000724 000200 00000724  4 func_805cffc8 	_bom.s.o 
+  0000090c 000000 0000090c lbl_805d01b0 (entry of .text) 	_bom.s.o 
+  00000924 0000fc 00000924  4 func_805d01c8 	_bom.s.o 
+  00000978 000000 00000978 lbl_805d021c (entry of .text) 	_bom.s.o 
+  00000980 000000 00000980 lbl_805d0224 (entry of .text) 	_bom.s.o 
+  00000a20 000040 00000a20  4 func_805d02c4 	_bom.s.o 
+  00000a60 0000b4 00000a60  4 func_805d0304 	_bom.s.o 
+  00000a94 000000 00000a94 lbl_805d0338 (entry of .text) 	_bom.s.o 
+  00000af0 000000 00000af0 lbl_805d0394 (entry of .text) 	_bom.s.o 
+  00000b14 0001cc 00000b14  4 func_805d03b8 	_bom.s.o 
+  00000cc4 000000 00000cc4 lbl_805d0568 (entry of .text) 	_bom.s.o 
+  00000ce0 000318 00000ce0  4 func_805d0584 	_bom.s.o 
+  00000d78 000000 00000d78 lbl_805d061c (entry of .text) 	_bom.s.o 
+  00000da8 000000 00000da8 lbl_805d064c (entry of .text) 	_bom.s.o 
+  00000e64 000000 00000e64 lbl_805d0708 (entry of .text) 	_bom.s.o 
+  00000f3c 000000 00000f3c lbl_805d07e0 (entry of .text) 	_bom.s.o 
+  00000f58 000000 00000f58 lbl_805d07fc (entry of .text) 	_bom.s.o 
+  00000f64 000000 00000f64 lbl_805d0808 (entry of .text) 	_bom.s.o 
+  00000fb4 000000 00000fb4 lbl_805d0858 (entry of .text) 	_bom.s.o 
+  00000fc0 000000 00000fc0 lbl_805d0864 (entry of .text) 	_bom.s.o 
+  00000ff8 000124 00000ff8  4 func_805d089c 	_bom.s.o 
+  00001054 000000 00001054 lbl_805d08f8 (entry of .text) 	_bom.s.o 
+  000010c4 000000 000010c4 lbl_805d0968 (entry of .text) 	_bom.s.o 
+  0000111c 000068 0000111c  4 func_805d09c0 	_bom.s.o 
+  00001184 000044 00001184  4 func_805d0a28 	_bom.s.o 
+  000011c8 00062c 000011c8  4 func_805d0a6c 	_bom.s.o 
+  00001430 000000 00001430 lbl_805d0cd4 (entry of .text) 	_bom.s.o 
+  00001484 000000 00001484 lbl_805d0d28 (entry of .text) 	_bom.s.o 
+  000014a0 000000 000014a0 lbl_805d0d44 (entry of .text) 	_bom.s.o 
+  000014d4 000000 000014d4 lbl_805d0d78 (entry of .text) 	_bom.s.o 
+  000014f8 000000 000014f8 lbl_805d0d9c (entry of .text) 	_bom.s.o 
+  0000152c 000000 0000152c lbl_805d0dd0 (entry of .text) 	_bom.s.o 
+  00001548 000000 00001548 lbl_805d0dec (entry of .text) 	_bom.s.o 
+  00001578 000000 00001578 lbl_805d0e1c (entry of .text) 	_bom.s.o 
+  00001594 000000 00001594 lbl_805d0e38 (entry of .text) 	_bom.s.o 
+  00001658 000000 00001658 lbl_805d0efc (entry of .text) 	_bom.s.o 
+  0000168c 000000 0000168c lbl_805d0f30 (entry of .text) 	_bom.s.o 
+  000017f4 0000ec 000017f4  4 func_805d1098 	_bom.s.o 
+  000018e0 00005c 000018e0  4 func_805d1184 	_bom.s.o 
+  0000192c 000000 0000192c lbl_805d11d0 (entry of .text) 	_bom.s.o 
+  0000193c 001494 0000193c  4 func_805d11e0 	_bom.s.o 
+  000019d4 000000 000019d4 lbl_805d1278 (entry of .text) 	_bom.s.o 
+  00001a84 000000 00001a84 lbl_805d1328 (entry of .text) 	_bom.s.o 
+  00001a90 000000 00001a90 lbl_805d1334 (entry of .text) 	_bom.s.o 
+  00001aa8 000000 00001aa8 lbl_805d134c (entry of .text) 	_bom.s.o 
+  00001b4c 000000 00001b4c lbl_805d13f0 (entry of .text) 	_bom.s.o 
+  00001b5c 000000 00001b5c lbl_805d1400 (entry of .text) 	_bom.s.o 
+  00001cd0 000000 00001cd0 lbl_805d1574 (entry of .text) 	_bom.s.o 
+  00001cec 000000 00001cec lbl_805d1590 (entry of .text) 	_bom.s.o 
+  00001d14 000000 00001d14 lbl_805d15b8 (entry of .text) 	_bom.s.o 
+  00001d30 000000 00001d30 lbl_805d15d4 (entry of .text) 	_bom.s.o 
+  00001d8c 000000 00001d8c lbl_805d1630 (entry of .text) 	_bom.s.o 
+  00001da8 000000 00001da8 lbl_805d164c (entry of .text) 	_bom.s.o 
+  00001dd4 000000 00001dd4 lbl_805d1678 (entry of .text) 	_bom.s.o 
+  00001df8 000000 00001df8 lbl_805d169c (entry of .text) 	_bom.s.o 
+  00001fc8 000000 00001fc8 lbl_805d186c (entry of .text) 	_bom.s.o 
+  0000213c 000000 0000213c lbl_805d19e0 (entry of .text) 	_bom.s.o 
+  00002158 000000 00002158 lbl_805d19fc (entry of .text) 	_bom.s.o 
+  00002180 000000 00002180 lbl_805d1a24 (entry of .text) 	_bom.s.o 
+  0000219c 000000 0000219c lbl_805d1a40 (entry of .text) 	_bom.s.o 
+  000021f8 000000 000021f8 lbl_805d1a9c (entry of .text) 	_bom.s.o 
+  00002214 000000 00002214 lbl_805d1ab8 (entry of .text) 	_bom.s.o 
+  00002240 000000 00002240 lbl_805d1ae4 (entry of .text) 	_bom.s.o 
+  00002264 000000 00002264 lbl_805d1b08 (entry of .text) 	_bom.s.o 
+  00002434 000000 00002434 lbl_805d1cd8 (entry of .text) 	_bom.s.o 
+  00002524 000000 00002524 lbl_805d1dc8 (entry of .text) 	_bom.s.o 
+  00002540 000000 00002540 lbl_805d1de4 (entry of .text) 	_bom.s.o 
+  00002568 000000 00002568 lbl_805d1e0c (entry of .text) 	_bom.s.o 
+  00002584 000000 00002584 lbl_805d1e28 (entry of .text) 	_bom.s.o 
+  000025e0 000000 000025e0 lbl_805d1e84 (entry of .text) 	_bom.s.o 
+  000025fc 000000 000025fc lbl_805d1ea0 (entry of .text) 	_bom.s.o 
+  00002628 000000 00002628 lbl_805d1ecc (entry of .text) 	_bom.s.o 
+  0000264c 000000 0000264c lbl_805d1ef0 (entry of .text) 	_bom.s.o 
+  00002890 000000 00002890 lbl_805d2134 (entry of .text) 	_bom.s.o 
+  0000289c 000000 0000289c lbl_805d2140 (entry of .text) 	_bom.s.o 
+  00002938 000000 00002938 lbl_805d21dc (entry of .text) 	_bom.s.o 
+  00002954 000000 00002954 lbl_805d21f8 (entry of .text) 	_bom.s.o 
+  00002980 000000 00002980 lbl_805d2224 (entry of .text) 	_bom.s.o 
+  000029a4 000000 000029a4 lbl_805d2248 (entry of .text) 	_bom.s.o 
+  00002a08 000000 00002a08 lbl_805d22ac (entry of .text) 	_bom.s.o 
+  00002a24 000000 00002a24 lbl_805d22c8 (entry of .text) 	_bom.s.o 
+  00002a4c 000000 00002a4c lbl_805d22f0 (entry of .text) 	_bom.s.o 
+  00002a68 000000 00002a68 lbl_805d230c (entry of .text) 	_bom.s.o 
+  00002ac4 000000 00002ac4 lbl_805d2368 (entry of .text) 	_bom.s.o 
+  00002c54 000000 00002c54 lbl_805d24f8 (entry of .text) 	_bom.s.o 
+  00002c64 000000 00002c64 lbl_805d2508 (entry of .text) 	_bom.s.o 
+  00002cc4 000000 00002cc4 lbl_805d2568 (entry of .text) 	_bom.s.o 
+  00002d3c 000000 00002d3c lbl_805d25e0 (entry of .text) 	_bom.s.o 
+  00002d80 000000 00002d80 lbl_805d2624 (entry of .text) 	_bom.s.o 
+  00002dd0 000250 00002dd0  4 func_805d2674 	_bom.s.o 
+  00002fe4 000000 00002fe4 lbl_805d2888 (entry of .text) 	_bom.s.o 
+  00003020 000034 00003020  4 func_805d28c4 	_bom.s.o 
+  00003054 00050c 00003054  4 func_805d28f8 	_bom.s.o 
+  0000312c 000000 0000312c lbl_805d29d0 (entry of .text) 	_bom.s.o 
+  0000315c 000000 0000315c lbl_805d2a00 (entry of .text) 	_bom.s.o 
+  0000327c 000000 0000327c lbl_805d2b20 (entry of .text) 	_bom.s.o 
+  00003320 000000 00003320 lbl_805d2bc4 (entry of .text) 	_bom.s.o 
+  0000333c 000000 0000333c lbl_805d2be0 (entry of .text) 	_bom.s.o 
+  00003370 000000 00003370 lbl_805d2c14 (entry of .text) 	_bom.s.o 
+  00003394 000000 00003394 lbl_805d2c38 (entry of .text) 	_bom.s.o 
+  000033dc 000000 000033dc lbl_805d2c80 (entry of .text) 	_bom.s.o 
+  000033f8 000000 000033f8 lbl_805d2c9c (entry of .text) 	_bom.s.o 
+  00003428 000000 00003428 lbl_805d2ccc (entry of .text) 	_bom.s.o 
+  00003444 000000 00003444 lbl_805d2ce8 (entry of .text) 	_bom.s.o 
+  00003464 000000 00003464 lbl_805d2d08 (entry of .text) 	_bom.s.o 
+  00003480 000000 00003480 lbl_805d2d24 (entry of .text) 	_bom.s.o 
+  0000348c 000000 0000348c lbl_805d2d30 (entry of .text) 	_bom.s.o 
+  000034dc 000000 000034dc lbl_805d2d80 (entry of .text) 	_bom.s.o 
+  000034e8 000000 000034e8 lbl_805d2d8c (entry of .text) 	_bom.s.o 
+  00003560 000124 00003560  4 func_805d2e04 	_bom.s.o 
+  000035bc 000000 000035bc lbl_805d2e60 (entry of .text) 	_bom.s.o 
+  0000362c 000000 0000362c lbl_805d2ed0 (entry of .text) 	_bom.s.o 
+  00003684 0000c8 00003684  4 func_805d2f28 	_bom.s.o 
+  000036b8 000000 000036b8 lbl_805d2f5c (entry of .text) 	_bom.s.o 
+  000036d4 000000 000036d4 lbl_805d2f78 (entry of .text) 	_bom.s.o 
+  000036e0 000000 000036e0 lbl_805d2f84 (entry of .text) 	_bom.s.o 
+  00003738 000000 00003738 lbl_805d2fdc (entry of .text) 	_bom.s.o 
+  0000374c 000180 0000374c  4 func_805d2ff0 	_bom.s.o 
+  000037d0 000000 000037d0 lbl_805d3074 (entry of .text) 	_bom.s.o 
+  00003848 000000 00003848 lbl_805d30ec (entry of .text) 	_bom.s.o 
+  0000388c 000000 0000388c lbl_805d3130 (entry of .text) 	_bom.s.o 
+  000038cc 0000fc 000038cc  4 func_805d3170 	_bom.s.o 
+  00003914 000000 00003914 lbl_805d31b8 (entry of .text) 	_bom.s.o 
+  00003944 000000 00003944 lbl_805d31e8 (entry of .text) 	_bom.s.o 
+  000039c8 000254 000039c8  4 func_805d326c 	_bom.s.o 
+  00003a9c 000000 00003a9c lbl_805d3340 (entry of .text) 	_bom.s.o 
+  00003b3c 000000 00003b3c lbl_805d33e0 (entry of .text) 	_bom.s.o 
+  00003b58 000000 00003b58 lbl_805d33fc (entry of .text) 	_bom.s.o 
+  00003b64 000000 00003b64 lbl_805d3408 (entry of .text) 	_bom.s.o 
+  00003bb4 000000 00003bb4 lbl_805d3458 (entry of .text) 	_bom.s.o 
+  00003bc0 000000 00003bc0 lbl_805d3464 (entry of .text) 	_bom.s.o 
+  00003c1c 00007c 00003c1c  4 func_805d34c0 	_bom.s.o 
+  00003c74 000000 00003c74 lbl_805d3518 (entry of .text) 	_bom.s.o 
+  00003c80 000000 00003c80 lbl_805d3524 (entry of .text) 	_bom.s.o 
+  00003c98 00003c 00003c98  4 func_805d353c 	_bom.s.o 
+  00003cd4 0001a8 00003cd4  4 func_805d3578 	_bom.s.o 
+  00003d2c 000000 00003d2c lbl_805d35d0 (entry of .text) 	_bom.s.o 
+  00003d74 000000 00003d74 lbl_805d3618 (entry of .text) 	_bom.s.o 
+  00003dc4 000000 00003dc4 lbl_805d3668 (entry of .text) 	_bom.s.o 
+  00003df8 000000 00003df8 lbl_805d369c (entry of .text) 	_bom.s.o 
+  00003e3c 000000 00003e3c lbl_805d36e0 (entry of .text) 	_bom.s.o 
+  00003e68 000000 00003e68 lbl_805d370c (entry of .text) 	_bom.s.o 
+  00003e6c 000000 00003e6c lbl_805d3710 (entry of .text) 	_bom.s.o 
+  00003e7c 0016fc 00003e7c  4 func_805d3720 	_bom.s.o 
+  00004074 000000 00004074 lbl_805d3918 (entry of .text) 	_bom.s.o 
+  00004094 000000 00004094 lbl_805d3938 (entry of .text) 	_bom.s.o 
+  000040b4 000000 000040b4 lbl_805d3958 (entry of .text) 	_bom.s.o 
+  000040c8 000000 000040c8 lbl_805d396c (entry of .text) 	_bom.s.o 
+  0000414c 000000 0000414c lbl_805d39f0 (entry of .text) 	_bom.s.o 
+  00004270 000000 00004270 lbl_805d3b14 (entry of .text) 	_bom.s.o 
+  000043b4 000000 000043b4 lbl_805d3c58 (entry of .text) 	_bom.s.o 
+  00004584 000000 00004584 lbl_805d3e28 (entry of .text) 	_bom.s.o 
+  00004754 000000 00004754 lbl_805d3ff8 (entry of .text) 	_bom.s.o 
+  00004924 000000 00004924 lbl_805d41c8 (entry of .text) 	_bom.s.o 
+  00004adc 000000 00004adc lbl_805d4380 (entry of .text) 	_bom.s.o 
+  00004c94 000000 00004c94 lbl_805d4538 (entry of .text) 	_bom.s.o 
+  00004e2c 000000 00004e2c lbl_805d46d0 (entry of .text) 	_bom.s.o 
+  00004e84 000000 00004e84 lbl_805d4728 (entry of .text) 	_bom.s.o 
+  00004ec0 000000 00004ec0 lbl_805d4764 (entry of .text) 	_bom.s.o 
+  00004ee0 000000 00004ee0 lbl_805d4784 (entry of .text) 	_bom.s.o 
+  00004f00 000000 00004f00 lbl_805d47a4 (entry of .text) 	_bom.s.o 
+  00004f44 000000 00004f44 lbl_805d47e8 (entry of .text) 	_bom.s.o 
+  00004f64 000000 00004f64 lbl_805d4808 (entry of .text) 	_bom.s.o 
+  00004f68 000000 00004f68 lbl_805d480c (entry of .text) 	_bom.s.o 
+  00004f78 000000 00004f78 lbl_805d481c (entry of .text) 	_bom.s.o 
+  00004fbc 000000 00004fbc lbl_805d4860 (entry of .text) 	_bom.s.o 
+  00004fdc 000000 00004fdc lbl_805d4880 (entry of .text) 	_bom.s.o 
+  00004fe0 000000 00004fe0 lbl_805d4884 (entry of .text) 	_bom.s.o 
+  00005028 000000 00005028 lbl_805d48cc (entry of .text) 	_bom.s.o 
+  00005068 000000 00005068 lbl_805d490c (entry of .text) 	_bom.s.o 
+  00005080 000000 00005080 lbl_805d4924 (entry of .text) 	_bom.s.o 
+  0000509c 000000 0000509c lbl_805d4940 (entry of .text) 	_bom.s.o 
+  000050b8 000000 000050b8 lbl_805d495c (entry of .text) 	_bom.s.o 
+  000050c4 000000 000050c4 lbl_805d4968 (entry of .text) 	_bom.s.o 
+  000050f0 000000 000050f0 lbl_805d4994 (entry of .text) 	_bom.s.o 
+  0000511c 000000 0000511c lbl_805d49c0 (entry of .text) 	_bom.s.o 
+  0000517c 000000 0000517c lbl_805d4a20 (entry of .text) 	_bom.s.o 
+  000051d8 000000 000051d8 lbl_805d4a7c (entry of .text) 	_bom.s.o 
+  0000527c 000000 0000527c lbl_805d4b20 (entry of .text) 	_bom.s.o 
+  00005424 000000 00005424 lbl_805d4cc8 (entry of .text) 	_bom.s.o 
+  00005578 000224 00005578  4 func_805d4e1c 	_bom.s.o 
+  00005648 000000 00005648 lbl_805d4eec (entry of .text) 	_bom.s.o 
+  00005750 000000 00005750 lbl_805d4ff4 (entry of .text) 	_bom.s.o 
+  0000579c 00030c 0000579c  4 func_805d5040 	_bom.s.o 
+  00005904 000000 00005904 lbl_805d51a8 (entry of .text) 	_bom.s.o 
+  00005aa8 000060 00005aa8  4 func_805d534c 	_bom.s.o 
+  00005b08 000070 00005b08  4 func_805d53ac 	_bom.s.o 
+  00005b54 000000 00005b54 lbl_805d53f8 (entry of .text) 	_bom.s.o 
+  00005b64 000000 00005b64 lbl_805d5408 (entry of .text) 	_bom.s.o 
+  00005b78 0000c4 00005b78  4 func_805d541c 	_bom.s.o 
+  00005c3c 000034 00005c3c  4 func_805d54e0 	_bom.s.o 
+  00005c5c 000000 00005c5c lbl_805d5500 (entry of .text) 	_bom.s.o 
+  00005c70 000118 00005c70  4 func_805d5514 	_bom.s.o 
+  00005d28 000000 00005d28 lbl_805d55cc (entry of .text) 	_bom.s.o 
+  00005d54 000000 00005d54 lbl_805d55f8 (entry of .text) 	_bom.s.o 
+  00005d88 000074 00005d88  4 func_805d562c 	_bom.s.o 
+  00005de4 000000 00005de4 lbl_805d5688 (entry of .text) 	_bom.s.o 
+  00005dfc 000104 00005dfc  4 func_805d56a0 	_bom.s.o 
+  00005e90 000000 00005e90 lbl_805d5734 (entry of .text) 	_bom.s.o 
+  00005f00 0000dc 00005f00  4 func_805d57a4 	_bom.s.o 
+  00005f64 000000 00005f64 lbl_805d5808 (entry of .text) 	_bom.s.o 
+  00005fbc 000000 00005fbc lbl_805d5860 (entry of .text) 	_bom.s.o 
+  00005fc8 000000 00005fc8 lbl_805d586c (entry of .text) 	_bom.s.o 
+  00005fdc 0000e0 00005fdc  4 func_805d5880 	_bom.s.o 
+  00006040 000000 00006040 lbl_805d58e4 (entry of .text) 	_bom.s.o 
+  0000609c 000000 0000609c lbl_805d5940 (entry of .text) 	_bom.s.o 
+  000060a8 000000 000060a8 lbl_805d594c (entry of .text) 	_bom.s.o 
+  000060bc 000078 000060bc  4 func_805d5960 	_bom.s.o 
+  00006134 00005c 00006134  4 func_805d59d8 	_bom.s.o 
+  00006170 000000 00006170 lbl_805d5a14 (entry of .text) 	_bom.s.o 
+  0000617c 000000 0000617c lbl_805d5a20 (entry of .text) 	_bom.s.o 
+
+
+.ctors section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 000000 00000000  1 .ctors 	_bom.s.o 
+  00000000 000000 00000000 lbl_805d5a34 (entry of .ctors) 	_bom.s.o 
+
+
+.dtors section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 000000 00000000  1 .dtors 	_bom.s.o 
+  00000000 000000 00000000 lbl_805d5a38 (entry of .dtors) 	_bom.s.o 
+
+
+.rodata section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 0023c0 00000000  1 .rodata 	_bom.s.o 
+  00000000 000008 00000000  8 lbl_805d5a40 	_bom.s.o 
+  00000008 000008 00000008  8 lbl_805d5a48 	_bom.s.o 
+  00000010 000008 00000010  8 lbl_805d5a50 	_bom.s.o 
+  00000018 000008 00000018  8 lbl_805d5a58 	_bom.s.o 
+  00000020 000008 00000020  8 lbl_805d5a60 	_bom.s.o 
+  00000028 000004 00000028  4 lbl_805d5a68 	_bom.s.o 
+  0000002c 000004 0000002c  4 lbl_805d5a6c 	_bom.s.o 
+  00000030 000004 00000030  4 lbl_805d5a70 	_bom.s.o 
+  00000034 000004 00000034  4 lbl_805d5a74 	_bom.s.o 
+  00000038 000010 00000038  8 lbl_805d5a78 	_bom.s.o 
+  00000048 000008 00000048  8 lbl_805d5a88 	_bom.s.o 
+  00000050 000008 00000050  8 lbl_805d5a90 	_bom.s.o 
+  00000058 000008 00000058  8 lbl_805d5a98 	_bom.s.o 
+  00000060 000008 00000060  8 lbl_805d5aa0 	_bom.s.o 
+  00000068 000008 00000068  8 lbl_805d5aa8 	_bom.s.o 
+  00000070 000008 00000070  8 lbl_805d5ab0 	_bom.s.o 
+  00000078 000008 00000078  8 lbl_805d5ab8 	_bom.s.o 
+  00000080 000008 00000080  8 lbl_805d5ac0 	_bom.s.o 
+  00000088 000008 00000088  8 lbl_805d5ac8 	_bom.s.o 
+  00000090 000008 00000090  8 lbl_805d5ad0 	_bom.s.o 
+  00000098 000008 00000098  8 lbl_805d5ad8 	_bom.s.o 
+  000000a0 00000c 000000a0  4 lbl_805d5ae0 	_bom.s.o 
+  000000ac 000008 000000ac  4 lbl_805d5aec 	_bom.s.o 
+  000000b4 000008 000000b4  4 lbl_805d5af4 	_bom.s.o 
+  000000bc 000008 000000bc  4 lbl_805d5afc 	_bom.s.o 
+  000000c4 00000c 000000c4  4 lbl_805d5b04 	_bom.s.o 
+  000000d0 000010 000000d0  8 lbl_805d5b10 	_bom.s.o 
+  000000e0 000010 000000e0  8 lbl_805d5b20 	_bom.s.o 
+  000000f0 000010 000000f0  8 lbl_805d5b30 	_bom.s.o 
+  00000100 000010 00000100  8 lbl_805d5b40 	_bom.s.o 
+  00000110 00000c 00000110  8 lbl_805d5b50 	_bom.s.o 
+  0000011c 00000c 0000011c  4 lbl_805d5b5c 	_bom.s.o 
+  00000128 000004 00000128  4 lbl_805d5b68 	_bom.s.o 
+  0000012c 00000c 0000012c  4 lbl_805d5b6c 	_bom.s.o 
+  00000138 00000c 00000138  8 lbl_805d5b78 	_bom.s.o 
+  00000144 000004 00000144  4 lbl_805d5b84 	_bom.s.o 
+  00000148 000004 00000148  4 lbl_805d5b88 	_bom.s.o 
+  0000014c 00000c 0000014c  4 lbl_805d5b8c 	_bom.s.o 
+  00000158 00000c 00000158  8 lbl_805d5b98 	_bom.s.o 
+  00000164 00000c 00000164  4 lbl_805d5ba4 	_bom.s.o 
+  00000170 00000c 00000170  8 lbl_805d5bb0 	_bom.s.o 
+  0000017c 00000c 0000017c  4 lbl_805d5bbc 	_bom.s.o 
+  00000188 00000c 00000188  8 lbl_805d5bc8 	_bom.s.o 
+  00000194 00000c 00000194  4 lbl_805d5bd4 	_bom.s.o 
+  000001a0 00000c 000001a0  4 lbl_805d5be0 	_bom.s.o 
+  000001ac 00000c 000001ac  4 lbl_805d5bec 	_bom.s.o 
+  000001b8 000010 000001b8  8 lbl_805d5bf8 	_bom.s.o 
+  000001c8 00000c 000001c8  8 lbl_805d5c08 	_bom.s.o 
+  000001d4 00000c 000001d4  4 lbl_805d5c14 	_bom.s.o 
+  000001e0 00000c 000001e0  4 lbl_805d5c20 	_bom.s.o 
+  000001ec 00000c 000001ec  4 lbl_805d5c2c 	_bom.s.o 
+  000001f8 000008 000001f8  8 lbl_805d5c38 	_bom.s.o 
+  00000200 000008 00000200  8 lbl_805d5c40 	_bom.s.o 
+  00000208 000008 00000208  8 lbl_805d5c48 	_bom.s.o 
+  00000210 000008 00000210  8 lbl_805d5c50 	_bom.s.o 
+  00000218 000008 00000218  8 lbl_805d5c58 	_bom.s.o 
+  00000220 000014 00000220  4 lbl_805d5c60 	_bom.s.o 
+  00000234 000010 00000234  4 lbl_805d5c74 	_bom.s.o 
+  00000244 000018 00000244  4 lbl_805d5c84 	_bom.s.o 
+  0000025c 000008 0000025c  4 lbl_805d5c9c 	_bom.s.o 
+  00000264 00000c 00000264  4 lbl_805d5ca4 	_bom.s.o 
+  00000270 00000c 00000270  8 lbl_805d5cb0 	_bom.s.o 
+  0000027c 00000c 0000027c  4 lbl_805d5cbc 	_bom.s.o 
+  00000288 00000c 00000288  8 lbl_805d5cc8 	_bom.s.o 
+  00000294 00000c 00000294  4 lbl_805d5cd4 	_bom.s.o 
+  000002a0 00000c 000002a0  4 lbl_805d5ce0 	_bom.s.o 
+  000002ac 000008 000002ac  4 lbl_805d5cec 	_bom.s.o 
+  000002b4 00000c 000002b4  4 lbl_805d5cf4 	_bom.s.o 
+  000002c0 00001c 000002c0  4 lbl_805d5d00 	_bom.s.o 
+  000002dc 000008 000002dc  4 lbl_805d5d1c 	_bom.s.o 
+  000002e4 000008 000002e4  4 lbl_805d5d24 	_bom.s.o 
+  000002ec 00000c 000002ec  4 lbl_805d5d2c 	_bom.s.o 
+  000002f8 000008 000002f8  8 lbl_805d5d38 	_bom.s.o 
+  00000300 00000c 00000300  4 lbl_805d5d40 	_bom.s.o 
+  0000030c 00000c 0000030c  4 lbl_805d5d4c 	_bom.s.o 
+  00000318 000004 00000318  4 lbl_805d5d58 	_bom.s.o 
+  0000031c 000008 0000031c  4 lbl_805d5d5c 	_bom.s.o 
+  00000324 000008 00000324  4 lbl_805d5d64 	_bom.s.o 
+  0000032c 000004 0000032c  4 lbl_805d5d6c 	_bom.s.o 
+  00000330 000008 00000330  8 lbl_805d5d70 	_bom.s.o 
+  00000338 000008 00000338  8 lbl_805d5d78 	_bom.s.o 
+  00000340 000008 00000340  8 lbl_805d5d80 	_bom.s.o 
+  00000348 000008 00000348  8 lbl_805d5d88 	_bom.s.o 
+  00000350 000018 00000350  8 lbl_805d5d90 	_bom.s.o 
+  00000368 000008 00000368  8 lbl_805d5da8 	_bom.s.o 
+  00000370 000010 00000370  8 lbl_805d5db0 	_bom.s.o 
+  00000380 000010 00000380  8 lbl_805d5dc0 	_bom.s.o 
+  00000390 000010 00000390  8 lbl_805d5dd0 	_bom.s.o 
+  000003a0 00000c 000003a0  4 lbl_805d5de0 	_bom.s.o 
+  000003ac 000010 000003ac  4 lbl_805d5dec 	_bom.s.o 
+  000003bc 00000c 000003bc  4 lbl_805d5dfc 	_bom.s.o 
+  000003c8 000004 000003c8  4 lbl_805d5e08 	_bom.s.o 
+  000003cc 00000c 000003cc  4 lbl_805d5e0c 	_bom.s.o 
+  000003d8 00000c 000003d8  8 lbl_805d5e18 	_bom.s.o 
+  000003e4 000008 000003e4  4 lbl_805d5e24 	_bom.s.o 
+  000003ec 000008 000003ec  4 lbl_805d5e2c 	_bom.s.o 
+  000003f4 00001c 000003f4  4 lbl_805d5e34 	_bom.s.o 
+  00000410 000008 00000410  8 lbl_805d5e50 	_bom.s.o 
+  00000418 000018 00000418  8 lbl_805d5e58 	_bom.s.o 
+  00000430 000010 00000430  8 lbl_805d5e70 	_bom.s.o 
+  00000440 000010 00000440  8 lbl_805d5e80 	_bom.s.o 
+  00000450 000018 00000450  8 lbl_805d5e90 	_bom.s.o 
+  00000468 000014 00000468  8 lbl_805d5ea8 	_bom.s.o 
+  0000047c 000008 0000047c  4 lbl_805d5ebc 	_bom.s.o 
+  00000484 00000c 00000484  4 lbl_805d5ec4 	_bom.s.o 
+  00000490 000010 00000490  8 lbl_805d5ed0 	_bom.s.o 
+  000004a0 00000c 000004a0  4 lbl_805d5ee0 	_bom.s.o 
+  000004ac 00000c 000004ac  4 lbl_805d5eec 	_bom.s.o 
+  000004b8 00000c 000004b8  8 lbl_805d5ef8 	_bom.s.o 
+  000004c4 00000c 000004c4  4 lbl_805d5f04 	_bom.s.o 
+  000004d0 00001c 000004d0  8 lbl_805d5f10 	_bom.s.o 
+  000004ec 00001c 000004ec  4 lbl_805d5f2c 	_bom.s.o 
+  00000508 000008 00000508  8 lbl_805d5f48 	_bom.s.o 
+  00000510 00000c 00000510  8 lbl_805d5f50 	_bom.s.o 
+  0000051c 00000c 0000051c  4 lbl_805d5f5c 	_bom.s.o 
+  00000528 00000c 00000528  8 lbl_805d5f68 	_bom.s.o 
+  00000534 000018 00000534  4 lbl_805d5f74 	_bom.s.o 
+  0000054c 00000c 0000054c  4 lbl_805d5f8c 	_bom.s.o 
+  00000558 00000c 00000558  8 lbl_805d5f98 	_bom.s.o 
+  00000564 000018 00000564  4 lbl_805d5fa4 	_bom.s.o 
+  0000057c 000018 0000057c  4 lbl_805d5fbc 	_bom.s.o 
+  00000594 000018 00000594  4 lbl_805d5fd4 	_bom.s.o 
+  000005ac 000008 000005ac  4 lbl_805d5fec 	_bom.s.o 
+  000005b4 00000c 000005b4  4 lbl_805d5ff4 	_bom.s.o 
+  000005c0 000018 000005c0  4 lbl_805d6000 	_bom.s.o 
+  000005d8 000010 000005d8  8 lbl_805d6018 	_bom.s.o 
+  000005e8 000010 000005e8  8 lbl_805d6028 	_bom.s.o 
+  000005f8 000018 000005f8  8 lbl_805d6038 	_bom.s.o 
+  00000610 00000c 00000610  8 lbl_805d6050 	_bom.s.o 
+  0000061c 000010 0000061c  4 lbl_805d605c 	_bom.s.o 
+  0000062c 000010 0000062c  4 lbl_805d606c 	_bom.s.o 
+  0000063c 000010 0000063c  4 lbl_805d607c 	_bom.s.o 
+  0000064c 000010 0000064c  4 lbl_805d608c 	_bom.s.o 
+  0000065c 000010 0000065c  4 lbl_805d609c 	_bom.s.o 
+  0000066c 000010 0000066c  4 lbl_805d60ac 	_bom.s.o 
+  0000067c 000010 0000067c  4 lbl_805d60bc 	_bom.s.o 
+  0000068c 000010 0000068c  4 lbl_805d60cc 	_bom.s.o 
+  0000069c 00000c 0000069c  4 lbl_805d60dc 	_bom.s.o 
+  000006a8 000014 000006a8  8 lbl_805d60e8 	_bom.s.o 
+  000006bc 00000c 000006bc  4 lbl_805d60fc 	_bom.s.o 
+  000006c8 000018 000006c8  8 lbl_805d6108 	_bom.s.o 
+  000006e0 00000c 000006e0  4 lbl_805d6120 	_bom.s.o 
+  000006ec 000018 000006ec  4 lbl_805d612c 	_bom.s.o 
+  00000704 000018 00000704  4 lbl_805d6144 	_bom.s.o 
+  0000071c 00000c 0000071c  4 lbl_805d615c 	_bom.s.o 
+  00000728 000008 00000728  8 lbl_805d6168 	_bom.s.o 
+  00000730 00000c 00000730  8 lbl_805d6170 	_bom.s.o 
+  0000073c 00000c 0000073c  4 lbl_805d617c 	_bom.s.o 
+  00000748 000018 00000748  8 lbl_805d6188 	_bom.s.o 
+  00000760 000008 00000760  8 lbl_805d61a0 	_bom.s.o 
+  00000768 00000c 00000768  8 lbl_805d61a8 	_bom.s.o 
+  00000774 000008 00000774  4 lbl_805d61b4 	_bom.s.o 
+  0000077c 000018 0000077c  4 lbl_805d61bc 	_bom.s.o 
+  00000794 00000c 00000794  4 lbl_805d61d4 	_bom.s.o 
+  000007a0 00001c 000007a0  4 lbl_805d61e0 	_bom.s.o 
+  000007bc 000010 000007bc  4 lbl_805d61fc 	_bom.s.o 
+  000007cc 000010 000007cc  4 lbl_805d620c 	_bom.s.o 
+  000007dc 000010 000007dc  4 lbl_805d621c 	_bom.s.o 
+  000007ec 000018 000007ec  4 lbl_805d622c 	_bom.s.o 
+  00000804 000010 00000804  4 lbl_805d6244 	_bom.s.o 
+  00000814 000010 00000814  4 lbl_805d6254 	_bom.s.o 
+  00000824 000010 00000824  4 lbl_805d6264 	_bom.s.o 
+  00000834 00000c 00000834  4 lbl_805d6274 	_bom.s.o 
+  00000840 00000c 00000840  4 lbl_805d6280 	_bom.s.o 
+  0000084c 000008 0000084c  4 lbl_805d628c 	_bom.s.o 
+  00000854 00001c 00000854  4 lbl_805d6294 	_bom.s.o 
+  00000870 000018 00000870  8 lbl_805d62b0 	_bom.s.o 
+  00000888 000014 00000888  8 lbl_805d62c8 	_bom.s.o 
+  0000089c 000018 0000089c  4 lbl_805d62dc 	_bom.s.o 
+  000008b4 000010 000008b4  4 lbl_805d62f4 	_bom.s.o 
+  000008c4 00000c 000008c4  4 lbl_805d6304 	_bom.s.o 
+  000008d0 00000c 000008d0  8 lbl_805d6310 	_bom.s.o 
+  000008dc 00000c 000008dc  4 lbl_805d631c 	_bom.s.o 
+  000008e8 00000c 000008e8  8 lbl_805d6328 	_bom.s.o 
+  000008f4 000008 000008f4  4 lbl_805d6334 	_bom.s.o 
+  000008fc 000014 000008fc  4 lbl_805d633c 	_bom.s.o 
+  00000910 000014 00000910  8 lbl_805d6350 	_bom.s.o 
+  00000924 000010 00000924  4 lbl_805d6364 	_bom.s.o 
+  00000934 00000c 00000934  4 lbl_805d6374 	_bom.s.o 
+  00000940 000010 00000940  8 lbl_805d6380 	_bom.s.o 
+  00000950 00000c 00000950  8 lbl_805d6390 	_bom.s.o 
+  0000095c 000010 0000095c  4 lbl_805d639c 	_bom.s.o 
+  0000096c 000010 0000096c  4 lbl_805d63ac 	_bom.s.o 
+  0000097c 00000c 0000097c  4 lbl_805d63bc 	_bom.s.o 
+  00000988 000010 00000988  8 lbl_805d63c8 	_bom.s.o 
+  00000998 00000c 00000998  8 lbl_805d63d8 	_bom.s.o 
+  000009a4 000010 000009a4  4 lbl_805d63e4 	_bom.s.o 
+  000009b4 000010 000009b4  4 lbl_805d63f4 	_bom.s.o 
+  000009c4 00000c 000009c4  4 lbl_805d6404 	_bom.s.o 
+  000009d0 000010 000009d0  8 lbl_805d6410 	_bom.s.o 
+  000009e0 00000c 000009e0  4 lbl_805d6420 	_bom.s.o 
+  000009ec 000010 000009ec  4 lbl_805d642c 	_bom.s.o 
+  000009fc 000010 000009fc  4 lbl_805d643c 	_bom.s.o 
+  00000a0c 00000c 00000a0c  4 lbl_805d644c 	_bom.s.o 
+  00000a18 000010 00000a18  8 lbl_805d6458 	_bom.s.o 
+  00000a28 00000c 00000a28  8 lbl_805d6468 	_bom.s.o 
+  00000a34 000010 00000a34  4 lbl_805d6474 	_bom.s.o 
+  00000a44 000010 00000a44  4 lbl_805d6484 	_bom.s.o 
+  00000a54 00000c 00000a54  4 lbl_805d6494 	_bom.s.o 
+  00000a60 00000c 00000a60  4 lbl_805d64a0 	_bom.s.o 
+  00000a6c 000010 00000a6c  4 lbl_805d64ac 	_bom.s.o 
+  00000a7c 00000c 00000a7c  4 lbl_805d64bc 	_bom.s.o 
+  00000a88 00000c 00000a88  8 lbl_805d64c8 	_bom.s.o 
+  00000a94 000010 00000a94  4 lbl_805d64d4 	_bom.s.o 
+  00000aa4 00000c 00000aa4  4 lbl_805d64e4 	_bom.s.o 
+  00000ab0 00000c 00000ab0  8 lbl_805d64f0 	_bom.s.o 
+  00000abc 000010 00000abc  4 lbl_805d64fc 	_bom.s.o 
+  00000acc 00000c 00000acc  4 lbl_805d650c 	_bom.s.o 
+  00000ad8 00000c 00000ad8  8 lbl_805d6518 	_bom.s.o 
+  00000ae4 000010 00000ae4  4 lbl_805d6524 	_bom.s.o 
+  00000af4 00000c 00000af4  4 lbl_805d6534 	_bom.s.o 
+  00000b00 00000c 00000b00  4 lbl_805d6540 	_bom.s.o 
+  00000b0c 000010 00000b0c  4 lbl_805d654c 	_bom.s.o 
+  00000b1c 000010 00000b1c  4 lbl_805d655c 	_bom.s.o 
+  00000b2c 000010 00000b2c  4 lbl_805d656c 	_bom.s.o 
+  00000b3c 000010 00000b3c  4 lbl_805d657c 	_bom.s.o 
+  00000b4c 000014 00000b4c  4 lbl_805d658c 	_bom.s.o 
+  00000b60 00000c 00000b60  4 lbl_805d65a0 	_bom.s.o 
+  00000b6c 000014 00000b6c  4 lbl_805d65ac 	_bom.s.o 
+  00000b80 00000c 00000b80  4 lbl_805d65c0 	_bom.s.o 
+  00000b8c 000014 00000b8c  4 lbl_805d65cc 	_bom.s.o 
+  00000ba0 00000c 00000ba0  4 lbl_805d65e0 	_bom.s.o 
+  00000bac 000014 00000bac  4 lbl_805d65ec 	_bom.s.o 
+  00000bc0 000014 00000bc0  4 lbl_805d6600 	_bom.s.o 
+  00000bd4 000014 00000bd4  4 lbl_805d6614 	_bom.s.o 
+  00000be8 000014 00000be8  8 lbl_805d6628 	_bom.s.o 
+  00000bfc 000014 00000bfc  4 lbl_805d663c 	_bom.s.o 
+  00000c10 000014 00000c10  8 lbl_805d6650 	_bom.s.o 
+  00000c24 00000c 00000c24  4 lbl_805d6664 	_bom.s.o 
+  00000c30 000008 00000c30  8 lbl_805d6670 	_bom.s.o 
+  00000c38 00000c 00000c38  8 lbl_805d6678 	_bom.s.o 
+  00000c44 000010 00000c44  4 lbl_805d6684 	_bom.s.o 
+  00000c54 00000c 00000c54  4 lbl_805d6694 	_bom.s.o 
+  00000c60 00000c 00000c60  4 lbl_805d66a0 	_bom.s.o 
+  00000c6c 00000c 00000c6c  4 lbl_805d66ac 	_bom.s.o 
+  00000c78 00000c 00000c78  8 lbl_805d66b8 	_bom.s.o 
+  00000c84 00000c 00000c84  4 lbl_805d66c4 	_bom.s.o 
+  00000c90 00000c 00000c90  8 lbl_805d66d0 	_bom.s.o 
+  00000c9c 00000c 00000c9c  4 lbl_805d66dc 	_bom.s.o 
+  00000ca8 000008 00000ca8  8 lbl_805d66e8 	_bom.s.o 
+  00000cb0 00000c 00000cb0  8 lbl_805d66f0 	_bom.s.o 
+  00000cbc 000010 00000cbc  4 lbl_805d66fc 	_bom.s.o 
+  00000ccc 000010 00000ccc  4 lbl_805d670c 	_bom.s.o 
+  00000cdc 000010 00000cdc  4 lbl_805d671c 	_bom.s.o 
+  00000cec 000010 00000cec  4 lbl_805d672c 	_bom.s.o 
+  00000cfc 000010 00000cfc  4 lbl_805d673c 	_bom.s.o 
+  00000d0c 000010 00000d0c  4 lbl_805d674c 	_bom.s.o 
+  00000d1c 000010 00000d1c  4 lbl_805d675c 	_bom.s.o 
+  00000d2c 000008 00000d2c  4 lbl_805d676c 	_bom.s.o 
+  00000d34 00000c 00000d34  4 lbl_805d6774 	_bom.s.o 
+  00000d40 000010 00000d40  8 lbl_805d6780 	_bom.s.o 
+  00000d50 000014 00000d50  8 lbl_805d6790 	_bom.s.o 
+  00000d64 000010 00000d64  4 lbl_805d67a4 	_bom.s.o 
+  00000d74 000010 00000d74  4 lbl_805d67b4 	_bom.s.o 
+  00000d84 000008 00000d84  4 lbl_805d67c4 	_bom.s.o 
+  00000d8c 000008 00000d8c  4 lbl_805d67cc 	_bom.s.o 
+  00000d94 000008 00000d94  4 lbl_805d67d4 	_bom.s.o 
+  00000d9c 000008 00000d9c  4 lbl_805d67dc 	_bom.s.o 
+  00000da4 000008 00000da4  4 lbl_805d67e4 	_bom.s.o 
+  00000dac 000008 00000dac  4 lbl_805d67ec 	_bom.s.o 
+  00000db4 000008 00000db4  4 lbl_805d67f4 	_bom.s.o 
+  00000dbc 000008 00000dbc  4 lbl_805d67fc 	_bom.s.o 
+  00000dc4 000004 00000dc4  4 lbl_805d6804 	_bom.s.o 
+  00000dc8 000004 00000dc8  4 lbl_805d6808 	_bom.s.o 
+  00000dcc 000004 00000dcc  4 lbl_805d680c 	_bom.s.o 
+  00000dd0 000004 00000dd0  4 lbl_805d6810 	_bom.s.o 
+  00000dd4 000004 00000dd4  4 lbl_805d6814 	_bom.s.o 
+  00000dd8 000004 00000dd8  4 lbl_805d6818 	_bom.s.o 
+  00000ddc 00001c 00000ddc  4 lbl_805d681c 	_bom.s.o 
+  00000df8 000008 00000df8  8 lbl_805d6838 	_bom.s.o 
+  00000e00 000004 00000e00  4 lbl_805d6840 	_bom.s.o 
+  00000e04 000004 00000e04  4 lbl_805d6844 	_bom.s.o 
+  00000e08 000004 00000e08  4 lbl_805d6848 	_bom.s.o 
+  00000e0c 000004 00000e0c  4 lbl_805d684c 	_bom.s.o 
+  00000e10 000004 00000e10  4 lbl_805d6850 	_bom.s.o 
+  00000e14 000004 00000e14  4 lbl_805d6854 	_bom.s.o 
+  00000e18 00000c 00000e18  8 lbl_805d6858 	_bom.s.o 
+  00000e24 000004 00000e24  4 lbl_805d6864 	_bom.s.o 
+  00000e28 000004 00000e28  4 lbl_805d6868 	_bom.s.o 
+  00000e2c 000004 00000e2c  4 lbl_805d686c 	_bom.s.o 
+  00000e30 000004 00000e30  4 lbl_805d6870 	_bom.s.o 
+  00000e34 000004 00000e34  4 lbl_805d6874 	_bom.s.o 
+  00000e38 000004 00000e38  4 lbl_805d6878 	_bom.s.o 
+  00000e3c 000004 00000e3c  4 lbl_805d687c 	_bom.s.o 
+  00000e40 000004 00000e40  4 lbl_805d6880 	_bom.s.o 
+  00000e44 000004 00000e44  4 lbl_805d6884 	_bom.s.o 
+  00000e48 000008 00000e48  8 lbl_805d6888 	_bom.s.o 
+  00000e50 000008 00000e50  8 lbl_805d6890 	_bom.s.o 
+  00000e58 000014 00000e58  8 lbl_805d6898 	_bom.s.o 
+  00000e6c 000004 00000e6c  4 lbl_805d68ac 	_bom.s.o 
+  00000e70 000004 00000e70  4 lbl_805d68b0 	_bom.s.o 
+  00000e74 000004 00000e74  4 lbl_805d68b4 	_bom.s.o 
+  00000e78 000004 00000e78  4 lbl_805d68b8 	_bom.s.o 
+  00000e7c 000004 00000e7c  4 lbl_805d68bc 	_bom.s.o 
+  00000e80 000004 00000e80  4 lbl_805d68c0 	_bom.s.o 
+  00000e84 000004 00000e84  4 lbl_805d68c4 	_bom.s.o 
+  00000e88 000004 00000e88  4 lbl_805d68c8 	_bom.s.o 
+  00000e8c 000004 00000e8c  4 lbl_805d68cc 	_bom.s.o 
+  00000e90 000004 00000e90  4 lbl_805d68d0 	_bom.s.o 
+  00000e94 000004 00000e94  4 lbl_805d68d4 	_bom.s.o 
+  00000e98 000004 00000e98  4 lbl_805d68d8 	_bom.s.o 
+  00000e9c 000004 00000e9c  4 lbl_805d68dc 	_bom.s.o 
+  00000ea0 000004 00000ea0  4 lbl_805d68e0 	_bom.s.o 
+  00000ea4 000004 00000ea4  4 lbl_805d68e4 	_bom.s.o 
+  00000ea8 000008 00000ea8  8 lbl_805d68e8 	_bom.s.o 
+  00000eb0 000004 00000eb0  4 lbl_805d68f0 	_bom.s.o 
+  00000eb4 000004 00000eb4  4 lbl_805d68f4 	_bom.s.o 
+  00000eb8 000004 00000eb8  4 lbl_805d68f8 	_bom.s.o 
+  00000ebc 000004 00000ebc  4 lbl_805d68fc 	_bom.s.o 
+  00000ec0 000004 00000ec0  4 lbl_805d6900 	_bom.s.o 
+  00000ec4 000004 00000ec4  4 lbl_805d6904 	_bom.s.o 
+  00000ec8 000004 00000ec8  4 lbl_805d6908 	_bom.s.o 
+  00000ecc 000004 00000ecc  4 lbl_805d690c 	_bom.s.o 
+  00000ed0 000008 00000ed0  8 lbl_805d6910 	_bom.s.o 
+  00000ed8 00000c 00000ed8  8 lbl_805d6918 	_bom.s.o 
+  00000ee4 000004 00000ee4  4 lbl_805d6924 	_bom.s.o 
+  00000ee8 000004 00000ee8  4 lbl_805d6928 	_bom.s.o 
+  00000eec 000004 00000eec  4 lbl_805d692c 	_bom.s.o 
+  00000ef0 000004 00000ef0  4 lbl_805d6930 	_bom.s.o 
+  00000ef4 000004 00000ef4  4 lbl_805d6934 	_bom.s.o 
+  00000ef8 000004 00000ef8  4 lbl_805d6938 	_bom.s.o 
+  00000efc 000004 00000efc  4 lbl_805d693c 	_bom.s.o 
+  00000f00 000004 00000f00  4 lbl_805d6940 	_bom.s.o 
+  00000f04 000004 00000f04  4 lbl_805d6944 	_bom.s.o 
+  00000f08 000004 00000f08  4 lbl_805d6948 	_bom.s.o 
+  00000f0c 000004 00000f0c  4 lbl_805d694c 	_bom.s.o 
+  00000f10 000004 00000f10  4 lbl_805d6950 	_bom.s.o 
+  00000f14 000004 00000f14  4 lbl_805d6954 	_bom.s.o 
+  00000f18 000004 00000f18  4 lbl_805d6958 	_bom.s.o 
+  00000f1c 000004 00000f1c  4 lbl_805d695c 	_bom.s.o 
+  00000f20 000004 00000f20  4 lbl_805d6960 	_bom.s.o 
+  00000f24 000004 00000f24  4 lbl_805d6964 	_bom.s.o 
+  00000f28 000004 00000f28  4 lbl_805d6968 	_bom.s.o 
+  00000f2c 000004 00000f2c  4 lbl_805d696c 	_bom.s.o 
+  00000f30 000004 00000f30  4 lbl_805d6970 	_bom.s.o 
+  00000f34 000004 00000f34  4 lbl_805d6974 	_bom.s.o 
+  00000f38 00000c 00000f38  8 lbl_805d6978 	_bom.s.o 
+  00000f44 00000c 00000f44  4 lbl_805d6984 	_bom.s.o 
+  00000f50 000008 00000f50  8 lbl_805d6990 	_bom.s.o 
+  00000f58 00000c 00000f58  8 lbl_805d6998 	_bom.s.o 
+  00000f64 000010 00000f64  4 lbl_805d69a4 	_bom.s.o 
+  00000f74 00000c 00000f74  4 lbl_805d69b4 	_bom.s.o 
+  00000f80 00000c 00000f80  4 lbl_805d69c0 	_bom.s.o 
+  00000f8c 00000c 00000f8c  4 lbl_805d69cc 	_bom.s.o 
+  00000f98 00000c 00000f98  8 lbl_805d69d8 	_bom.s.o 
+  00000fa4 000008 00000fa4  4 lbl_805d69e4 	_bom.s.o 
+  00000fac 000010 00000fac  4 lbl_805d69ec 	_bom.s.o 
+  00000fbc 000010 00000fbc  4 lbl_805d69fc 	_bom.s.o 
+  00000fcc 00000c 00000fcc  4 lbl_805d6a0c 	_bom.s.o 
+  00000fd8 00000c 00000fd8  8 lbl_805d6a18 	_bom.s.o 
+  00000fe4 00000c 00000fe4  4 lbl_805d6a24 	_bom.s.o 
+  00000ff0 00000c 00000ff0  8 lbl_805d6a30 	_bom.s.o 
+  00000ffc 00000c 00000ffc  4 lbl_805d6a3c 	_bom.s.o 
+  00001008 00000c 00001008  8 lbl_805d6a48 	_bom.s.o 
+  00001014 000008 00001014  4 lbl_805d6a54 	_bom.s.o 
+  0000101c 000010 0000101c  4 lbl_805d6a5c 	_bom.s.o 
+  0000102c 00000c 0000102c  4 lbl_805d6a6c 	_bom.s.o 
+  00001038 00000c 00001038  8 lbl_805d6a78 	_bom.s.o 
+  00001044 00000c 00001044  4 lbl_805d6a84 	_bom.s.o 
+  00001050 000008 00001050  8 lbl_805d6a90 	_bom.s.o 
+  00001058 000008 00001058  8 lbl_805d6a98 	_bom.s.o 
+  00001060 000008 00001060  8 lbl_805d6aa0 	_bom.s.o 
+  00001068 000008 00001068  8 lbl_805d6aa8 	_bom.s.o 
+  00001070 000008 00001070  8 lbl_805d6ab0 	_bom.s.o 
+  00001078 000004 00001078  4 lbl_805d6ab8 	_bom.s.o 
+  0000107c 000008 0000107c  4 lbl_805d6abc 	_bom.s.o 
+  00001084 000008 00001084  4 lbl_805d6ac4 	_bom.s.o 
+  0000108c 000008 0000108c  4 lbl_805d6acc 	_bom.s.o 
+  00001094 000008 00001094  4 lbl_805d6ad4 	_bom.s.o 
+  0000109c 000004 0000109c  4 lbl_805d6adc 	_bom.s.o 
+  000010a0 000008 000010a0  8 lbl_805d6ae0 	_bom.s.o 
+  000010a8 00000c 000010a8  8 lbl_805d6ae8 	_bom.s.o 
+  000010b4 00001c 000010b4  4 lbl_805d6af4 	_bom.s.o 
+  000010d0 000008 000010d0  8 lbl_805d6b10 	_bom.s.o 
+  000010d8 000008 000010d8  8 lbl_805d6b18 	_bom.s.o 
+  000010e0 000010 000010e0  8 lbl_805d6b20 	_bom.s.o 
+  000010f0 00000c 000010f0  8 lbl_805d6b30 	_bom.s.o 
+  000010fc 00000c 000010fc  4 lbl_805d6b3c 	_bom.s.o 
+  00001108 000010 00001108  8 lbl_805d6b48 	_bom.s.o 
+  00001118 00000c 00001118  8 lbl_805d6b58 	_bom.s.o 
+  00001124 00000c 00001124  4 lbl_805d6b64 	_bom.s.o 
+  00001130 000004 00001130  4 lbl_805d6b70 	_bom.s.o 
+  00001134 000008 00001134  4 lbl_805d6b74 	_bom.s.o 
+  0000113c 00000c 0000113c  4 lbl_805d6b7c 	_bom.s.o 
+  00001148 000010 00001148  8 lbl_805d6b88 	_bom.s.o 
+  00001158 000010 00001158  8 lbl_805d6b98 	_bom.s.o 
+  00001168 00000c 00001168  8 lbl_805d6ba8 	_bom.s.o 
+  00001174 00000c 00001174  4 lbl_805d6bb4 	_bom.s.o 
+  00001180 000010 00001180  8 lbl_805d6bc0 	_bom.s.o 
+  00001190 00000c 00001190  8 lbl_805d6bd0 	_bom.s.o 
+  0000119c 00000c 0000119c  4 lbl_805d6bdc 	_bom.s.o 
+  000011a8 00000c 000011a8  8 lbl_805d6be8 	_bom.s.o 
+  000011b4 000008 000011b4  4 lbl_805d6bf4 	_bom.s.o 
+  000011bc 00000c 000011bc  4 lbl_805d6bfc 	_bom.s.o 
+  000011c8 00000c 000011c8  8 lbl_805d6c08 	_bom.s.o 
+  000011d4 00000c 000011d4  4 lbl_805d6c14 	_bom.s.o 
+  000011e0 00000c 000011e0  4 lbl_805d6c20 	_bom.s.o 
+  000011ec 00000c 000011ec  4 lbl_805d6c2c 	_bom.s.o 
+  000011f8 00000c 000011f8  8 lbl_805d6c38 	_bom.s.o 
+  00001204 00000c 00001204  4 lbl_805d6c44 	_bom.s.o 
+  00001210 00000c 00001210  8 lbl_805d6c50 	_bom.s.o 
+  0000121c 000010 0000121c  4 lbl_805d6c5c 	_bom.s.o 
+  0000122c 000018 0000122c  4 lbl_805d6c6c 	_bom.s.o 
+  00001244 00000c 00001244  4 lbl_805d6c84 	_bom.s.o 
+  00001250 00000c 00001250  8 lbl_805d6c90 	_bom.s.o 
+  0000125c 000010 0000125c  4 lbl_805d6c9c 	_bom.s.o 
+  0000126c 00000c 0000126c  4 lbl_805d6cac 	_bom.s.o 
+  00001278 00000c 00001278  8 lbl_805d6cb8 	_bom.s.o 
+  00001284 000010 00001284  4 lbl_805d6cc4 	_bom.s.o 
+  00001294 000010 00001294  4 lbl_805d6cd4 	_bom.s.o 
+  000012a4 00000c 000012a4  4 lbl_805d6ce4 	_bom.s.o 
+  000012b0 00000c 000012b0  8 lbl_805d6cf0 	_bom.s.o 
+  000012bc 00000c 000012bc  4 lbl_805d6cfc 	_bom.s.o 
+  000012c8 00000c 000012c8  8 lbl_805d6d08 	_bom.s.o 
+  000012d4 000010 000012d4  4 lbl_805d6d14 	_bom.s.o 
+  000012e4 000004 000012e4  4 lbl_805d6d24 	_bom.s.o 
+  000012e8 000010 000012e8  8 lbl_805d6d28 	_bom.s.o 
+  000012f8 000008 000012f8  8 lbl_805d6d38 	_bom.s.o 
+  00001300 00000c 00001300  4 lbl_805d6d40 	_bom.s.o 
+  0000130c 000014 0000130c  4 lbl_805d6d4c 	_bom.s.o 
+  00001320 000010 00001320  8 lbl_805d6d60 	_bom.s.o 
+  00001330 00000c 00001330  8 lbl_805d6d70 	_bom.s.o 
+  0000133c 000010 0000133c  4 lbl_805d6d7c 	_bom.s.o 
+  0000134c 00000c 0000134c  4 lbl_805d6d8c 	_bom.s.o 
+  00001358 000010 00001358  8 lbl_805d6d98 	_bom.s.o 
+  00001368 000010 00001368  8 lbl_805d6da8 	_bom.s.o 
+  00001378 00000c 00001378  8 lbl_805d6db8 	_bom.s.o 
+  00001384 000010 00001384  4 lbl_805d6dc4 	_bom.s.o 
+  00001394 00000c 00001394  4 lbl_805d6dd4 	_bom.s.o 
+  000013a0 000010 000013a0  8 lbl_805d6de0 	_bom.s.o 
+  000013b0 00000c 000013b0  8 lbl_805d6df0 	_bom.s.o 
+  000013bc 00000c 000013bc  4 lbl_805d6dfc 	_bom.s.o 
+  000013c8 000010 000013c8  8 lbl_805d6e08 	_bom.s.o 
+  000013d8 00000c 000013d8  8 lbl_805d6e18 	_bom.s.o 
+  000013e4 000010 000013e4  4 lbl_805d6e24 	_bom.s.o 
+  000013f4 00000c 000013f4  4 lbl_805d6e34 	_bom.s.o 
+  00001400 000010 00001400  8 lbl_805d6e40 	_bom.s.o 
+  00001410 00000c 00001410  8 lbl_805d6e50 	_bom.s.o 
+  0000141c 000010 0000141c  4 lbl_805d6e5c 	_bom.s.o 
+  0000142c 00000c 0000142c  4 lbl_805d6e6c 	_bom.s.o 
+  00001438 000010 00001438  8 lbl_805d6e78 	_bom.s.o 
+  00001448 00000c 00001448  8 lbl_805d6e88 	_bom.s.o 
+  00001454 000010 00001454  4 lbl_805d6e94 	_bom.s.o 
+  00001464 00000c 00001464  4 lbl_805d6ea4 	_bom.s.o 
+  00001470 00000c 00001470  8 lbl_805d6eb0 	_bom.s.o 
+  0000147c 00000c 0000147c  4 lbl_805d6ebc 	_bom.s.o 
+  00001488 000010 00001488  8 lbl_805d6ec8 	_bom.s.o 
+  00001498 00000c 00001498  8 lbl_805d6ed8 	_bom.s.o 
+  000014a4 000010 000014a4  4 lbl_805d6ee4 	_bom.s.o 
+  000014b4 00000c 000014b4  4 lbl_805d6ef4 	_bom.s.o 
+  000014c0 000010 000014c0  8 lbl_805d6f00 	_bom.s.o 
+  000014d0 000010 000014d0  8 lbl_805d6f10 	_bom.s.o 
+  000014e0 00000c 000014e0  4 lbl_805d6f20 	_bom.s.o 
+  000014ec 000010 000014ec  4 lbl_805d6f2c 	_bom.s.o 
+  000014fc 00000c 000014fc  4 lbl_805d6f3c 	_bom.s.o 
+  00001508 000010 00001508  8 lbl_805d6f48 	_bom.s.o 
+  00001518 00001c 00001518  8 lbl_805d6f58 	_bom.s.o 
+  00001534 000008 00001534  4 lbl_805d6f74 	_bom.s.o 
+  0000153c 00000c 0000153c  4 lbl_805d6f7c 	_bom.s.o 
+  00001548 000018 00001548  8 lbl_805d6f88 	_bom.s.o 
+  00001560 000018 00001560  4 lbl_805d6fa0 	_bom.s.o 
+  00001578 00001c 00001578  8 lbl_805d6fb8 	_bom.s.o 
+  00001594 000018 00001594  4 lbl_805d6fd4 	_bom.s.o 
+  000015ac 00001c 000015ac  4 lbl_805d6fec 	_bom.s.o 
+  000015c8 00000c 000015c8  8 lbl_805d7008 	_bom.s.o 
+  000015d4 00000c 000015d4  4 lbl_805d7014 	_bom.s.o 
+  000015e0 00000c 000015e0  4 lbl_805d7020 	_bom.s.o 
+  000015ec 000010 000015ec  4 lbl_805d702c 	_bom.s.o 
+  000015fc 00000c 000015fc  4 lbl_805d703c 	_bom.s.o 
+  00001608 00000c 00001608  8 lbl_805d7048 	_bom.s.o 
+  00001614 00000c 00001614  4 lbl_805d7054 	_bom.s.o 
+  00001620 00000c 00001620  4 lbl_805d7060 	_bom.s.o 
+  0000162c 00000c 0000162c  4 lbl_805d706c 	_bom.s.o 
+  00001638 00000c 00001638  8 lbl_805d7078 	_bom.s.o 
+  00001644 00000c 00001644  4 lbl_805d7084 	_bom.s.o 
+  00001650 00000c 00001650  8 lbl_805d7090 	_bom.s.o 
+  0000165c 00000c 0000165c  4 lbl_805d709c 	_bom.s.o 
+  00001668 00000c 00001668  8 lbl_805d70a8 	_bom.s.o 
+  00001674 00000c 00001674  4 lbl_805d70b4 	_bom.s.o 
+  00001680 00000c 00001680  4 lbl_805d70c0 	_bom.s.o 
+  0000168c 000004 0000168c  4 lbl_805d70cc 	_bom.s.o 
+  00001690 000018 00001690  8 lbl_805d70d0 	_bom.s.o 
+  000016a8 000004 000016a8  4 lbl_805d70e8 	_bom.s.o 
+  000016ac 000004 000016ac  4 lbl_805d70ec 	_bom.s.o 
+  000016b0 00000c 000016b0  8 lbl_805d70f0 	_bom.s.o 
+  000016bc 00000c 000016bc  4 lbl_805d70fc 	_bom.s.o 
+  000016c8 00000c 000016c8  8 lbl_805d7108 	_bom.s.o 
+  000016d4 00000c 000016d4  4 lbl_805d7114 	_bom.s.o 
+  000016e0 000010 000016e0  8 lbl_805d7120 	_bom.s.o 
+  000016f0 00000c 000016f0  8 lbl_805d7130 	_bom.s.o 
+  000016fc 000010 000016fc  4 lbl_805d713c 	_bom.s.o 
+  0000170c 00000c 0000170c  4 lbl_805d714c 	_bom.s.o 
+  00001718 000010 00001718  8 lbl_805d7158 	_bom.s.o 
+  00001728 00000c 00001728  8 lbl_805d7168 	_bom.s.o 
+  00001734 000010 00001734  4 lbl_805d7174 	_bom.s.o 
+  00001744 00000c 00001744  4 lbl_805d7184 	_bom.s.o 
+  00001750 000010 00001750  8 lbl_805d7190 	_bom.s.o 
+  00001760 00000c 00001760  4 lbl_805d71a0 	_bom.s.o 
+  0000176c 000010 0000176c  4 lbl_805d71ac 	_bom.s.o 
+  0000177c 00000c 0000177c  4 lbl_805d71bc 	_bom.s.o 
+  00001788 000010 00001788  8 lbl_805d71c8 	_bom.s.o 
+  00001798 00000c 00001798  8 lbl_805d71d8 	_bom.s.o 
+  000017a4 000010 000017a4  4 lbl_805d71e4 	_bom.s.o 
+  000017b4 00000c 000017b4  4 lbl_805d71f4 	_bom.s.o 
+  000017c0 000010 000017c0  8 lbl_805d7200 	_bom.s.o 
+  000017d0 00000c 000017d0  8 lbl_805d7210 	_bom.s.o 
+  000017dc 000010 000017dc  4 lbl_805d721c 	_bom.s.o 
+  000017ec 00000c 000017ec  4 lbl_805d722c 	_bom.s.o 
+  000017f8 000010 000017f8  8 lbl_805d7238 	_bom.s.o 
+  00001808 00000c 00001808  8 lbl_805d7248 	_bom.s.o 
+  00001814 00000c 00001814  4 lbl_805d7254 	_bom.s.o 
+  00001820 00000c 00001820  4 lbl_805d7260 	_bom.s.o 
+  0000182c 00001c 0000182c  4 lbl_805d726c 	_bom.s.o 
+  00001848 00000c 00001848  8 lbl_805d7288 	_bom.s.o 
+  00001854 000008 00001854  4 lbl_805d7294 	_bom.s.o 
+  0000185c 00000c 0000185c  4 lbl_805d729c 	_bom.s.o 
+  00001868 00000c 00001868  8 lbl_805d72a8 	_bom.s.o 
+  00001874 000010 00001874  4 lbl_805d72b4 	_bom.s.o 
+  00001884 000010 00001884  4 lbl_805d72c4 	_bom.s.o 
+  00001894 000010 00001894  4 lbl_805d72d4 	_bom.s.o 
+  000018a4 00000c 000018a4  4 lbl_805d72e4 	_bom.s.o 
+  000018b0 000008 000018b0  8 lbl_805d72f0 	_bom.s.o 
+  000018b8 000008 000018b8  8 lbl_805d72f8 	_bom.s.o 
+  000018c0 00000c 000018c0  4 lbl_805d7300 	_bom.s.o 
+  000018cc 00000c 000018cc  4 lbl_805d730c 	_bom.s.o 
+  000018d8 00000c 000018d8  8 lbl_805d7318 	_bom.s.o 
+  000018e4 00000c 000018e4  4 lbl_805d7324 	_bom.s.o 
+  000018f0 00000c 000018f0  8 lbl_805d7330 	_bom.s.o 
+  000018fc 00000c 000018fc  4 lbl_805d733c 	_bom.s.o 
+  00001908 00000c 00001908  8 lbl_805d7348 	_bom.s.o 
+  00001914 00000c 00001914  4 lbl_805d7354 	_bom.s.o 
+  00001920 00000c 00001920  4 lbl_805d7360 	_bom.s.o 
+  0000192c 00000c 0000192c  4 lbl_805d736c 	_bom.s.o 
+  00001938 00000c 00001938  8 lbl_805d7378 	_bom.s.o 
+  00001944 00000c 00001944  4 lbl_805d7384 	_bom.s.o 
+  00001950 00000c 00001950  8 lbl_805d7390 	_bom.s.o 
+  0000195c 00000c 0000195c  4 lbl_805d739c 	_bom.s.o 
+  00001968 00000c 00001968  8 lbl_805d73a8 	_bom.s.o 
+  00001974 00000c 00001974  4 lbl_805d73b4 	_bom.s.o 
+  00001980 000008 00001980  8 lbl_805d73c0 	_bom.s.o 
+  00001988 000008 00001988  8 lbl_805d73c8 	_bom.s.o 
+  00001990 000008 00001990  8 lbl_805d73d0 	_bom.s.o 
+  00001998 000008 00001998  8 lbl_805d73d8 	_bom.s.o 
+  000019a0 000008 000019a0  8 lbl_805d73e0 	_bom.s.o 
+  000019a8 000008 000019a8  8 lbl_805d73e8 	_bom.s.o 
+  000019b0 000008 000019b0  8 lbl_805d73f0 	_bom.s.o 
+  000019b8 000008 000019b8  8 lbl_805d73f8 	_bom.s.o 
+  000019c0 000008 000019c0  8 lbl_805d7400 	_bom.s.o 
+  000019c8 000008 000019c8  8 lbl_805d7408 	_bom.s.o 
+  000019d0 000008 000019d0  8 lbl_805d7410 	_bom.s.o 
+  000019d8 000008 000019d8  8 lbl_805d7418 	_bom.s.o 
+  000019e0 000008 000019e0  8 lbl_805d7420 	_bom.s.o 
+  000019e8 000008 000019e8  8 lbl_805d7428 	_bom.s.o 
+  000019f0 000008 000019f0  8 lbl_805d7430 	_bom.s.o 
+  000019f8 000008 000019f8  8 lbl_805d7438 	_bom.s.o 
+  00001a00 000008 00001a00  8 lbl_805d7440 	_bom.s.o 
+  00001a08 000008 00001a08  8 lbl_805d7448 	_bom.s.o 
+  00001a10 000008 00001a10  8 lbl_805d7450 	_bom.s.o 
+  00001a18 000008 00001a18  8 lbl_805d7458 	_bom.s.o 
+  00001a20 000008 00001a20  8 lbl_805d7460 	_bom.s.o 
+  00001a28 000008 00001a28  8 lbl_805d7468 	_bom.s.o 
+  00001a30 000008 00001a30  8 lbl_805d7470 	_bom.s.o 
+  00001a38 000008 00001a38  8 lbl_805d7478 	_bom.s.o 
+  00001a40 000008 00001a40  8 lbl_805d7480 	_bom.s.o 
+  00001a48 000008 00001a48  8 lbl_805d7488 	_bom.s.o 
+  00001a50 000008 00001a50  8 lbl_805d7490 	_bom.s.o 
+  00001a58 000008 00001a58  8 lbl_805d7498 	_bom.s.o 
+  00001a60 000008 00001a60  8 lbl_805d74a0 	_bom.s.o 
+  00001a68 000008 00001a68  8 lbl_805d74a8 	_bom.s.o 
+  00001a70 000008 00001a70  8 lbl_805d74b0 	_bom.s.o 
+  00001a78 000008 00001a78  8 lbl_805d74b8 	_bom.s.o 
+  00001a80 000008 00001a80  8 lbl_805d74c0 	_bom.s.o 
+  00001a88 000008 00001a88  8 lbl_805d74c8 	_bom.s.o 
+  00001a90 000008 00001a90  8 lbl_805d74d0 	_bom.s.o 
+  00001a98 00000c 00001a98  8 lbl_805d74d8 	_bom.s.o 
+  00001aa4 00000c 00001aa4  4 lbl_805d74e4 	_bom.s.o 
+  00001ab0 00000c 00001ab0  8 lbl_805d74f0 	_bom.s.o 
+  00001abc 000008 00001abc  4 lbl_805d74fc 	_bom.s.o 
+  00001ac4 000010 00001ac4  4 lbl_805d7504 	_bom.s.o 
+  00001ad4 000010 00001ad4  4 lbl_805d7514 	_bom.s.o 
+  00001ae4 000008 00001ae4  4 lbl_805d7524 	_bom.s.o 
+  00001aec 00000c 00001aec  4 lbl_805d752c 	_bom.s.o 
+  00001af8 00000c 00001af8  8 lbl_805d7538 	_bom.s.o 
+  00001b04 000010 00001b04  4 lbl_805d7544 	_bom.s.o 
+  00001b14 000010 00001b14  4 lbl_805d7554 	_bom.s.o 
+  00001b24 00000c 00001b24  4 lbl_805d7564 	_bom.s.o 
+  00001b30 000008 00001b30  8 lbl_805d7570 	_bom.s.o 
+  00001b38 000008 00001b38  8 lbl_805d7578 	_bom.s.o 
+  00001b40 000008 00001b40  8 lbl_805d7580 	_bom.s.o 
+  00001b48 000008 00001b48  8 lbl_805d7588 	_bom.s.o 
+  00001b50 000008 00001b50  8 lbl_805d7590 	_bom.s.o 
+  00001b58 000008 00001b58  8 lbl_805d7598 	_bom.s.o 
+  00001b60 000008 00001b60  8 lbl_805d75a0 	_bom.s.o 
+  00001b68 000008 00001b68  8 lbl_805d75a8 	_bom.s.o 
+  00001b70 000008 00001b70  8 lbl_805d75b0 	_bom.s.o 
+  00001b78 000008 00001b78  8 lbl_805d75b8 	_bom.s.o 
+  00001b80 000008 00001b80  8 lbl_805d75c0 	_bom.s.o 
+  00001b88 000008 00001b88  8 lbl_805d75c8 	_bom.s.o 
+  00001b90 000008 00001b90  8 lbl_805d75d0 	_bom.s.o 
+  00001b98 000008 00001b98  8 lbl_805d75d8 	_bom.s.o 
+  00001ba0 000014 00001ba0  4 lbl_805d75e0 	_bom.s.o 
+  00001bb4 000010 00001bb4  4 lbl_805d75f4 	_bom.s.o 
+  00001bc4 000010 00001bc4  4 lbl_805d7604 	_bom.s.o 
+  00001bd4 000010 00001bd4  4 lbl_805d7614 	_bom.s.o 
+  00001be4 000010 00001be4  4 lbl_805d7624 	_bom.s.o 
+  00001bf4 000010 00001bf4  4 lbl_805d7634 	_bom.s.o 
+  00001c04 000008 00001c04  4 lbl_805d7644 	_bom.s.o 
+  00001c0c 00000c 00001c0c  4 lbl_805d764c 	_bom.s.o 
+  00001c18 00000c 00001c18  8 lbl_805d7658 	_bom.s.o 
+  00001c24 000008 00001c24  4 lbl_805d7664 	_bom.s.o 
+  00001c2c 000008 00001c2c  4 lbl_805d766c 	_bom.s.o 
+  00001c34 000008 00001c34  4 lbl_805d7674 	_bom.s.o 
+  00001c3c 000004 00001c3c  4 lbl_805d767c 	_bom.s.o 
+  00001c40 000004 00001c40  4 lbl_805d7680 	_bom.s.o 
+  00001c44 000004 00001c44  4 lbl_805d7684 	_bom.s.o 
+  00001c48 000004 00001c48  4 lbl_805d7688 	_bom.s.o 
+  00001c4c 000004 00001c4c  4 lbl_805d768c 	_bom.s.o 
+  00001c50 000004 00001c50  4 lbl_805d7690 	_bom.s.o 
+  00001c54 000004 00001c54  4 lbl_805d7694 	_bom.s.o 
+  00001c58 000008 00001c58  8 lbl_805d7698 	_bom.s.o 
+  00001c60 000008 00001c60  8 lbl_805d76a0 	_bom.s.o 
+  00001c68 000008 00001c68  8 lbl_805d76a8 	_bom.s.o 
+  00001c70 000008 00001c70  8 lbl_805d76b0 	_bom.s.o 
+  00001c78 000008 00001c78  8 lbl_805d76b8 	_bom.s.o 
+  00001c80 000008 00001c80  8 lbl_805d76c0 	_bom.s.o 
+  00001c88 000008 00001c88  8 lbl_805d76c8 	_bom.s.o 
+  00001c90 000008 00001c90  8 lbl_805d76d0 	_bom.s.o 
+  00001c98 000008 00001c98  8 lbl_805d76d8 	_bom.s.o 
+  00001ca0 000008 00001ca0  8 lbl_805d76e0 	_bom.s.o 
+  00001ca8 000008 00001ca8  8 lbl_805d76e8 	_bom.s.o 
+  00001cb0 000008 00001cb0  8 lbl_805d76f0 	_bom.s.o 
+  00001cb8 000008 00001cb8  8 lbl_805d76f8 	_bom.s.o 
+  00001cc0 000008 00001cc0  8 lbl_805d7700 	_bom.s.o 
+  00001cc8 000008 00001cc8  8 lbl_805d7708 	_bom.s.o 
+  00001cd0 000010 00001cd0  8 lbl_805d7710 	_bom.s.o 
+  00001ce0 000010 00001ce0  8 lbl_805d7720 	_bom.s.o 
+  00001cf0 000008 00001cf0  8 lbl_805d7730 	_bom.s.o 
+  00001cf8 000010 00001cf8  8 lbl_805d7738 	_bom.s.o 
+  00001d08 000010 00001d08  8 lbl_805d7748 	_bom.s.o 
+  00001d18 000008 00001d18  8 lbl_805d7758 	_bom.s.o 
+  00001d20 000008 00001d20  8 lbl_805d7760 	_bom.s.o 
+  00001d28 000008 00001d28  8 lbl_805d7768 	_bom.s.o 
+  00001d30 000008 00001d30  8 lbl_805d7770 	_bom.s.o 
+  00001d38 000008 00001d38  8 lbl_805d7778 	_bom.s.o 
+  00001d40 000008 00001d40  8 lbl_805d7780 	_bom.s.o 
+  00001d48 000008 00001d48  8 lbl_805d7788 	_bom.s.o 
+  00001d50 000008 00001d50  8 lbl_805d7790 	_bom.s.o 
+  00001d58 000008 00001d58  8 lbl_805d7798 	_bom.s.o 
+  00001d60 000008 00001d60  8 lbl_805d77a0 	_bom.s.o 
+  00001d68 000008 00001d68  8 lbl_805d77a8 	_bom.s.o 
+  00001d70 000008 00001d70  8 lbl_805d77b0 	_bom.s.o 
+  00001d78 000008 00001d78  8 lbl_805d77b8 	_bom.s.o 
+  00001d80 000008 00001d80  8 lbl_805d77c0 	_bom.s.o 
+  00001d88 000010 00001d88  8 lbl_805d77c8 	_bom.s.o 
+  00001d98 000010 00001d98  8 lbl_805d77d8 	_bom.s.o 
+  00001da8 000008 00001da8  8 lbl_805d77e8 	_bom.s.o 
+  00001db0 000008 00001db0  8 lbl_805d77f0 	_bom.s.o 
+  00001db8 00000c 00001db8  8 lbl_805d77f8 	_bom.s.o 
+  00001dc4 00000c 00001dc4  4 lbl_805d7804 	_bom.s.o 
+  00001dd0 000008 00001dd0  8 lbl_805d7810 	_bom.s.o 
+  00001dd8 000008 00001dd8  8 lbl_805d7818 	_bom.s.o 
+  00001de0 000008 00001de0  8 lbl_805d7820 	_bom.s.o 
+  00001de8 000008 00001de8  8 lbl_805d7828 	_bom.s.o 
+  00001df0 000008 00001df0  8 lbl_805d7830 	_bom.s.o 
+  00001df8 000008 00001df8  8 lbl_805d7838 	_bom.s.o 
+  00001e00 000008 00001e00  8 lbl_805d7840 	_bom.s.o 
+  00001e08 000004 00001e08  4 lbl_805d7848 	_bom.s.o 
+  00001e0c 000004 00001e0c  4 lbl_805d784c 	_bom.s.o 
+  00001e10 000008 00001e10  8 lbl_805d7850 	_bom.s.o 
+  00001e18 00000c 00001e18  8 lbl_805d7858 	_bom.s.o 
+  00001e24 000010 00001e24  4 lbl_805d7864 	_bom.s.o 
+  00001e34 000014 00001e34  4 lbl_805d7874 	_bom.s.o 
+  00001e48 000010 00001e48  8 lbl_805d7888 	_bom.s.o 
+  00001e58 000014 00001e58  8 lbl_805d7898 	_bom.s.o 
+  00001e6c 000014 00001e6c  4 lbl_805d78ac 	_bom.s.o 
+  00001e80 000010 00001e80  8 lbl_805d78c0 	_bom.s.o 
+  00001e90 000010 00001e90  8 lbl_805d78d0 	_bom.s.o 
+  00001ea0 000010 00001ea0  8 lbl_805d78e0 	_bom.s.o 
+  00001eb0 000010 00001eb0  8 lbl_805d78f0 	_bom.s.o 
+  00001ec0 000010 00001ec0  8 lbl_805d7900 	_bom.s.o 
+  00001ed0 000010 00001ed0  8 lbl_805d7910 	_bom.s.o 
+  00001ee0 000010 00001ee0  8 lbl_805d7920 	_bom.s.o 
+  00001ef0 000010 00001ef0  8 lbl_805d7930 	_bom.s.o 
+  00001f00 000010 00001f00  8 lbl_805d7940 	_bom.s.o 
+  00001f10 000018 00001f10  8 lbl_805d7950 	_bom.s.o 
+  00001f28 000018 00001f28  8 lbl_805d7968 	_bom.s.o 
+  00001f40 000014 00001f40  4 lbl_805d7980 	_bom.s.o 
+  00001f54 00001c 00001f54  4 lbl_805d7994 	_bom.s.o 
+  00001f70 000008 00001f70  8 lbl_805d79b0 	_bom.s.o 
+  00001f78 000008 00001f78  8 lbl_805d79b8 	_bom.s.o 
+  00001f80 000008 00001f80  8 lbl_805d79c0 	_bom.s.o 
+  00001f88 000008 00001f88  8 lbl_805d79c8 	_bom.s.o 
+  00001f90 000008 00001f90  8 lbl_805d79d0 	_bom.s.o 
+  00001f98 000008 00001f98  8 lbl_805d79d8 	_bom.s.o 
+  00001fa0 000008 00001fa0  8 lbl_805d79e0 	_bom.s.o 
+  00001fa8 000008 00001fa8  8 lbl_805d79e8 	_bom.s.o 
+  00001fb0 000008 00001fb0  8 lbl_805d79f0 	_bom.s.o 
+  00001fb8 000008 00001fb8  8 lbl_805d79f8 	_bom.s.o 
+  00001fc0 000008 00001fc0  8 lbl_805d7a00 	_bom.s.o 
+  00001fc8 000008 00001fc8  8 lbl_805d7a08 	_bom.s.o 
+  00001fd0 000008 00001fd0  8 lbl_805d7a10 	_bom.s.o 
+  00001fd8 00000c 00001fd8  8 lbl_805d7a18 	_bom.s.o 
+  00001fe4 000014 00001fe4  4 lbl_805d7a24 	_bom.s.o 
+  00001ff8 000014 00001ff8  8 lbl_805d7a38 	_bom.s.o 
+  0000200c 000014 0000200c  4 lbl_805d7a4c 	_bom.s.o 
+  00002020 000018 00002020  4 lbl_805d7a60 	_bom.s.o 
+  00002038 000018 00002038  8 lbl_805d7a78 	_bom.s.o 
+  00002050 000008 00002050  8 lbl_805d7a90 	_bom.s.o 
+  00002058 000010 00002058  8 lbl_805d7a98 	_bom.s.o 
+  00002068 000018 00002068  8 lbl_805d7aa8 	_bom.s.o 
+  00002080 000018 00002080  4 lbl_805d7ac0 	_bom.s.o 
+  00002098 000014 00002098  8 lbl_805d7ad8 	_bom.s.o 
+  000020ac 00001c 000020ac  4 lbl_805d7aec 	_bom.s.o 
+  000020c8 00000c 000020c8  8 lbl_805d7b08 	_bom.s.o 
+  000020d4 000004 000020d4  4 lbl_805d7b14 	_bom.s.o 
+  000020d8 000014 000020d8  8 lbl_805d7b18 	_bom.s.o 
+  000020ec 00001c 000020ec  4 lbl_805d7b2c 	_bom.s.o 
+  00002108 000008 00002108  8 lbl_805d7b48 	_bom.s.o 
+  00002110 000024 00002110  8 lbl_805d7b50 	_bom.s.o 
+  00002134 000004 00002134  4 lbl_805d7b74 	_bom.s.o 
+  00002138 000010 00002138  8 lbl_805d7b78 	_bom.s.o 
+  00002148 000008 00002148  8 lbl_805d7b88 	_bom.s.o 
+  00002150 000008 00002150  8 lbl_805d7b90 	_bom.s.o 
+  00002158 000004 00002158  4 lbl_805d7b98 	_bom.s.o 
+  0000215c 000004 0000215c  4 lbl_805d7b9c 	_bom.s.o 
+  00002160 000004 00002160  4 lbl_805d7ba0 	_bom.s.o 
+  00002164 000004 00002164  4 lbl_805d7ba4 	_bom.s.o 
+  00002168 000004 00002168  4 lbl_805d7ba8 	_bom.s.o 
+  0000216c 000004 0000216c  4 lbl_805d7bac 	_bom.s.o 
+  00002170 000004 00002170  4 lbl_805d7bb0 	_bom.s.o 
+  00002174 000004 00002174  4 lbl_805d7bb4 	_bom.s.o 
+  00002178 000004 00002178  4 lbl_805d7bb8 	_bom.s.o 
+  0000217c 000004 0000217c  4 lbl_805d7bbc 	_bom.s.o 
+  00002180 000014 00002180  4 lbl_805d7bc0 	_bom.s.o 
+  00002194 000014 00002194  4 lbl_805d7bd4 	_bom.s.o 
+  000021a8 000014 000021a8  8 lbl_805d7be8 	_bom.s.o 
+  000021bc 000018 000021bc  4 lbl_805d7bfc 	_bom.s.o 
+  000021d4 000008 000021d4  4 lbl_805d7c14 	_bom.s.o 
+  000021dc 000014 000021dc  4 lbl_805d7c1c 	_bom.s.o 
+  000021f0 000008 000021f0  8 lbl_805d7c30 	_bom.s.o 
+  000021f8 000004 000021f8  4 lbl_805d7c38 	_bom.s.o 
+  000021fc 000004 000021fc  4 lbl_805d7c3c 	_bom.s.o 
+  00002200 000004 00002200  4 lbl_805d7c40 	_bom.s.o 
+  00002204 000004 00002204  4 lbl_805d7c44 	_bom.s.o 
+  00002208 000014 00002208  8 lbl_805d7c48 	_bom.s.o 
+  0000221c 000018 0000221c  4 lbl_805d7c5c 	_bom.s.o 
+  00002234 000018 00002234  4 lbl_805d7c74 	_bom.s.o 
+  0000224c 000014 0000224c  4 lbl_805d7c8c 	_bom.s.o 
+  00002260 00001c 00002260  4 lbl_805d7ca0 	_bom.s.o 
+  0000227c 00000c 0000227c  4 lbl_805d7cbc 	_bom.s.o 
+  00002288 000008 00002288  8 lbl_805d7cc8 	_bom.s.o 
+  00002290 000008 00002290  8 lbl_805d7cd0 	_bom.s.o 
+  00002298 000008 00002298  8 lbl_805d7cd8 	_bom.s.o 
+  000022a0 000008 000022a0  8 lbl_805d7ce0 	_bom.s.o 
+  000022a8 000008 000022a8  8 lbl_805d7ce8 	_bom.s.o 
+  000022b0 000008 000022b0  8 lbl_805d7cf0 	_bom.s.o 
+  000022b8 000008 000022b8  8 lbl_805d7cf8 	_bom.s.o 
+  000022c0 000008 000022c0  8 lbl_805d7d00 	_bom.s.o 
+  000022c8 00000c 000022c8  8 lbl_805d7d08 	_bom.s.o 
+  000022d4 000008 000022d4  4 lbl_805d7d14 	_bom.s.o 
+  000022dc 000008 000022dc  4 lbl_805d7d1c 	_bom.s.o 
+  000022e4 000008 000022e4  4 lbl_805d7d24 	_bom.s.o 
+  000022ec 000008 000022ec  4 lbl_805d7d2c 	_bom.s.o 
+  000022f4 000008 000022f4  4 lbl_805d7d34 	_bom.s.o 
+  000022fc 000008 000022fc  4 lbl_805d7d3c 	_bom.s.o 
+  00002304 000008 00002304  4 lbl_805d7d44 	_bom.s.o 
+  0000230c 000008 0000230c  4 lbl_805d7d4c 	_bom.s.o 
+  00002314 000008 00002314  4 lbl_805d7d54 	_bom.s.o 
+  0000231c 000008 0000231c  4 lbl_805d7d5c 	_bom.s.o 
+  00002324 000004 00002324  4 lbl_805d7d64 	_bom.s.o 
+  00002328 00000c 00002328  8 lbl_805d7d68 	_bom.s.o 
+  00002334 000018 00002334  4 lbl_805d7d74 	_bom.s.o 
+  0000234c 000008 0000234c  4 lbl_805d7d8c 	_bom.s.o 
+  00002354 000018 00002354  4 lbl_805d7d94 	_bom.s.o 
+  0000236c 000008 0000236c  4 lbl_805d7dac 	_bom.s.o 
+  00002374 000008 00002374  4 lbl_805d7db4 	_bom.s.o 
+  0000237c 000008 0000237c  4 lbl_805d7dbc 	_bom.s.o 
+  00002384 00000c 00002384  4 lbl_805d7dc4 	_bom.s.o 
+  00002390 000018 00002390  8 lbl_805d7dd0 	_bom.s.o 
+  000023a8 00000c 000023a8  8 lbl_805d7de8 	_bom.s.o 
+  000023b4 000004 000023b4  4 lbl_805d7df4 	_bom.s.o 
+  000023b8 000008 000023b8  8 lbl_805d7df8 	_bom.s.o 
+
+
+.data section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 00dfcc 00000000  1 .data 	_bom.s.o 
+  00000000 000060 00000000  4 lbl_805d7e00 	_bom.s.o 
+  00000060 000020 00000060  4 lbl_805d7e60 	_bom.s.o 
+  00000080 000060 00000080  4 lbl_805d7e80 	_bom.s.o 
+  000000e0 000048 000000e0  4 lbl_805d7ee0 	_bom.s.o 
+  00000128 000060 00000128  8 lbl_805d7f28 	_bom.s.o 
+  00000188 00001c 00000188  8 lbl_805d7f88 	_bom.s.o 
+  000001a4 000090 000001a4  4 lbl_805d7fa4 	_bom.s.o 
+  00000234 0000b4 00000234  4 lbl_805d8034 	_bom.s.o 
+  000002e8 0001b0 000002e8  8 lbl_805d80e8 	_bom.s.o 
+  00000498 000194 00000498  8 lbl_805d8298 	_bom.s.o 
+  0000062c 00015c 0000062c  4 lbl_805d842c 	_bom.s.o 
+  00000788 000030 00000788  8 lbl_805d8588 	_bom.s.o 
+  000007b8 000030 000007b8  8 lbl_805d85b8 	_bom.s.o 
+  000007e8 000030 000007e8  8 lbl_805d85e8 	_bom.s.o 
+  00000818 000010 00000818  8 lbl_805d8618 	_bom.s.o 
+  00000828 000024 00000828  8 lbl_805d8628 	_bom.s.o 
+  0000084c 000028 0000084c  4 lbl_805d864c 	_bom.s.o 
+  00000874 000048 00000874  4 lbl_805d8674 	_bom.s.o 
+  000008bc 0000b4 000008bc  4 lbl_805d86bc 	_bom.s.o 
+  00000970 000250 00000970  8 lbl_805d8770 	_bom.s.o 
+  00000bc0 0001ec 00000bc0  4 lbl_805d89c0 	_bom.s.o 
+  00000dac 000174 00000dac  4 lbl_805d8bac 	_bom.s.o 
+  00000f20 00003c 00000f20  4 lbl_805d8d20 	_bom.s.o 
+  00000f5c 000020 00000f5c  4 lbl_805d8d5c 	_bom.s.o 
+  00000f7c 000068 00000f7c  4 lbl_805d8d7c 	_bom.s.o 
+  00000fe4 0000d8 00000fe4  4 lbl_805d8de4 	_bom.s.o 
+  000010bc 000280 000010bc  4 lbl_805d8ebc 	_bom.s.o 
+  0000133c 00002c 0000133c  4 lbl_805d913c 	_bom.s.o 
+  00001368 000074 00001368  8 lbl_805d9168 	_bom.s.o 
+  000013dc 000010 000013dc  4 lbl_805d91dc 	_bom.s.o 
+  000013ec 0000c0 000013ec  4 lbl_805d91ec 	_bom.s.o 
+  000014ac 0000d0 000014ac  4 lbl_805d92ac 	_bom.s.o 
+  0000157c 0000d0 0000157c  4 lbl_805d937c 	_bom.s.o 
+  0000164c 0000d0 0000164c  4 lbl_805d944c 	_bom.s.o 
+  0000171c 000150 0000171c  4 lbl_805d951c 	_bom.s.o 
+  0000186c 00014c 0000186c  4 lbl_805d966c 	_bom.s.o 
+  000019b8 000024 000019b8  8 lbl_805d97b8 	_bom.s.o 
+  000019dc 000020 000019dc  4 lbl_805d97dc 	_bom.s.o 
+  000019fc 002638 000019fc  4 lbl_805d97fc 	_bom.s.o 
+  00004034 000034 00004034  4 lbl_805dbe34 	_bom.s.o 
+  00004068 000060 00004068  8 lbl_805dbe68 	_bom.s.o 
+  000040c8 000020 000040c8  8 lbl_805dbec8 	_bom.s.o 
+  000040e8 0000b0 000040e8  8 lbl_805dbee8 	_bom.s.o 
+  00004198 000020 00004198  8 lbl_805dbf98 	_bom.s.o 
+  000041b8 0000b0 000041b8  8 lbl_805dbfb8 	_bom.s.o 
+  00004268 000020 00004268  8 lbl_805dc068 	_bom.s.o 
+  00004288 0000b0 00004288  8 lbl_805dc088 	_bom.s.o 
+  00004338 000020 00004338  8 lbl_805dc138 	_bom.s.o 
+  00004358 000380 00004358  8 lbl_805dc158 	_bom.s.o 
+  000046d8 000058 000046d8  8 lbl_805dc4d8 	_bom.s.o 
+  00004730 00009c 00004730  8 lbl_805dc530 	_bom.s.o 
+  000047cc 000100 000047cc  4 lbl_805dc5cc 	_bom.s.o 
+  000048cc 000068 000048cc  4 lbl_805dc6cc 	_bom.s.o 
+  00004934 000068 00004934  4 lbl_805dc734 	_bom.s.o 
+  0000499c 000068 0000499c  4 lbl_805dc79c 	_bom.s.o 
+  00004a04 000284 00004a04  4 lbl_805dc804 	_bom.s.o 
+  00004c88 000054 00004c88  8 lbl_805dca88 	_bom.s.o 
+  00004cdc 000748 00004cdc  4 lbl_805dcadc 	_bom.s.o 
+  00005424 000038 00005424  4 lbl_805dd224 	_bom.s.o 
+  0000545c 000344 0000545c  4 lbl_805dd25c 	_bom.s.o 
+  000057a0 000030 000057a0  4 lbl_805dd5a0 	_bom.s.o 
+  000057d0 000030 000057d0  8 lbl_805dd5d0 	_bom.s.o 
+  00005800 000008 00005800  8 lbl_805dd600 	_bom.s.o 
+  00005808 000030 00005808  8 lbl_805dd608 	_bom.s.o 
+  00005838 000038 00005838  8 lbl_805dd638 	_bom.s.o 
+  00005870 000048 00005870  8 lbl_805dd670 	_bom.s.o 
+  000058b8 000030 000058b8  8 lbl_805dd6b8 	_bom.s.o 
+  000058e8 000030 000058e8  8 lbl_805dd6e8 	_bom.s.o 
+  00005918 000008 00005918  8 lbl_805dd718 	_bom.s.o 
+  00005920 000030 00005920  4 lbl_805dd720 	_bom.s.o 
+  00005950 000038 00005950  8 lbl_805dd750 	_bom.s.o 
+  00005988 000048 00005988  8 lbl_805dd788 	_bom.s.o 
+  000059d0 000030 000059d0  8 lbl_805dd7d0 	_bom.s.o 
+  00005a00 000030 00005a00  4 lbl_805dd800 	_bom.s.o 
+  00005a30 000030 00005a30  8 lbl_805dd830 	_bom.s.o 
+  00005a60 00000c 00005a60  4 lbl_805dd860 	_bom.s.o 
+  00005a6c 000030 00005a6c  4 lbl_805dd86c 	_bom.s.o 
+  00005a9c 000038 00005a9c  4 lbl_805dd89c 	_bom.s.o 
+  00005ad4 000008 00005ad4  4 lbl_805dd8d4 	_bom.s.o 
+  00005adc 000048 00005adc  4 lbl_805dd8dc 	_bom.s.o 
+  00005b24 000078 00005b24  4 lbl_805dd924 	_bom.s.o 
+  00005b9c 0000d0 00005b9c  4 lbl_805dd99c 	_bom.s.o 
+  00005c6c 0002f8 00005c6c  4 lbl_805dda6c 	_bom.s.o 
+  00005f64 0002f8 00005f64  4 lbl_805ddd64 	_bom.s.o 
+  0000625c 000034 0000625c  4 lbl_805de05c 	_bom.s.o 
+  00006290 000694 00006290  8 lbl_805de090 	_bom.s.o 
+  00006924 000008 00006924  4 lbl_805de724 	_bom.s.o 
+  0000692c 000464 0000692c  4 lbl_805de72c 	_bom.s.o 
+  00006d90 000008 00006d90  8 lbl_805deb90 	_bom.s.o 
+  00006d98 0000b0 00006d98  8 lbl_805deb98 	_bom.s.o 
+  00006e48 000044 00006e48  8 lbl_805dec48 	_bom.s.o 
+  00006e8c 000144 00006e8c  4 lbl_805dec8c 	_bom.s.o 
+  00006fd0 000008 00006fd0  8 lbl_805dedd0 	_bom.s.o 
+  00006fd8 000008 00006fd8  8 lbl_805dedd8 	_bom.s.o 
+  00006fe0 00025c 00006fe0  4 lbl_805dede0 	_bom.s.o 
+  0000723c 000008 0000723c  4 lbl_805df03c 	_bom.s.o 
+  00007244 0000b0 00007244  4 lbl_805df044 	_bom.s.o 
+  000072f4 000020 000072f4  4 lbl_805df0f4 	_bom.s.o 
+  00007314 000008 00007314  4 lbl_805df114 	_bom.s.o 
+  0000731c 00014c 0000731c  4 lbl_805df11c 	_bom.s.o 
+  00007468 00032c 00007468  8 lbl_805df268 	_bom.s.o 
+  00007794 000008 00007794  4 lbl_805df594 	_bom.s.o 
+  0000779c 0001d4 0000779c  4 lbl_805df59c 	_bom.s.o 
+  00007970 0005ac 00007970  8 lbl_805df770 	_bom.s.o 
+  00007f1c 0007e4 00007f1c  4 lbl_805dfd1c 	_bom.s.o 
+  00008700 000070 00008700  4 lbl_805e0500 	_bom.s.o 
+  00008770 000078 00008770  8 lbl_805e0570 	_bom.s.o 
+  000087e8 00033c 000087e8  8 lbl_805e05e8 	_bom.s.o 
+  00008b24 000030 00008b24  4 lbl_805e0924 	_bom.s.o 
+  00008b54 000030 00008b54  4 lbl_805e0954 	_bom.s.o 
+  00008b84 000068 00008b84  4 lbl_805e0984 	_bom.s.o 
+  00008bec 000098 00008bec  4 lbl_805e09ec 	_bom.s.o 
+  00008c84 00072c 00008c84  4 lbl_805e0a84 	_bom.s.o 
+  000093b0 0002dc 000093b0  8 lbl_805e11b0 	_bom.s.o 
+  0000968c 000098 0000968c  4 lbl_805e148c 	_bom.s.o 
+  00009724 000534 00009724  4 lbl_805e1524 	_bom.s.o 
+  00009c58 000060 00009c58  8 lbl_805e1a58 	_bom.s.o 
+  00009cb8 00001c 00009cb8  8 lbl_805e1ab8 	_bom.s.o 
+  00009cd4 0000b4 00009cd4  4 lbl_805e1ad4 	_bom.s.o 
+  00009d88 000110 00009d88  8 lbl_805e1b88 	_bom.s.o 
+  00009e98 000060 00009e98  8 lbl_805e1c98 	_bom.s.o 
+  00009ef8 00001c 00009ef8  8 lbl_805e1cf8 	_bom.s.o 
+  00009f14 0000b4 00009f14  4 lbl_805e1d14 	_bom.s.o 
+  00009fc8 0000f0 00009fc8  8 lbl_805e1dc8 	_bom.s.o 
+  0000a0b8 000108 0000a0b8  8 lbl_805e1eb8 	_bom.s.o 
+  0000a1c0 0001b4 0000a1c0  4 lbl_805e1fc0 	_bom.s.o 
+  0000a374 000030 0000a374  4 lbl_805e2174 	_bom.s.o 
+  0000a3a4 000020 0000a3a4  4 lbl_805e21a4 	_bom.s.o 
+  0000a3c4 000060 0000a3c4  4 lbl_805e21c4 	_bom.s.o 
+  0000a424 000020 0000a424  4 lbl_805e2224 	_bom.s.o 
+  0000a444 000090 0000a444  4 lbl_805e2244 	_bom.s.o 
+  0000a4d4 000020 0000a4d4  4 lbl_805e22d4 	_bom.s.o 
+  0000a4f4 000060 0000a4f4  4 lbl_805e22f4 	_bom.s.o 
+  0000a554 000020 0000a554  4 lbl_805e2354 	_bom.s.o 
+  0000a574 000090 0000a574  4 lbl_805e2374 	_bom.s.o 
+  0000a604 000020 0000a604  4 lbl_805e2404 	_bom.s.o 
+  0000a624 000060 0000a624  4 lbl_805e2424 	_bom.s.o 
+  0000a684 000020 0000a684  4 lbl_805e2484 	_bom.s.o 
+  0000a6a4 000090 0000a6a4  4 lbl_805e24a4 	_bom.s.o 
+  0000a734 000020 0000a734  4 lbl_805e2534 	_bom.s.o 
+  0000a754 000060 0000a754  4 lbl_805e2554 	_bom.s.o 
+  0000a7b4 000020 0000a7b4  4 lbl_805e25b4 	_bom.s.o 
+  0000a7d4 000090 0000a7d4  4 lbl_805e25d4 	_bom.s.o 
+  0000a864 000020 0000a864  4 lbl_805e2664 	_bom.s.o 
+  0000a884 0000c0 0000a884  4 lbl_805e2684 	_bom.s.o 
+  0000a944 000020 0000a944  4 lbl_805e2744 	_bom.s.o 
+  0000a964 000018 0000a964  4 lbl_805e2764 	_bom.s.o 
+  0000a97c 000024 0000a97c  4 lbl_805e277c 	_bom.s.o 
+  0000a9a0 000024 0000a9a0  4 lbl_805e27a0 	_bom.s.o 
+  0000a9c4 000024 0000a9c4  4 lbl_805e27c4 	_bom.s.o 
+  0000a9e8 000024 0000a9e8  8 lbl_805e27e8 	_bom.s.o 
+  0000aa0c 000024 0000aa0c  4 lbl_805e280c 	_bom.s.o 
+  0000aa30 000018 0000aa30  8 lbl_805e2830 	_bom.s.o 
+  0000aa48 000220 0000aa48  8 lbl_805e2848 	_bom.s.o 
+  0000ac68 000040 0000ac68  8 lbl_805e2a68 	_bom.s.o 
+  0000aca8 000060 0000aca8  8 lbl_805e2aa8 	_bom.s.o 
+  0000ad08 0000c4 0000ad08  8 lbl_805e2b08 	_bom.s.o 
+  0000adcc 0000a0 0000adcc  4 lbl_805e2bcc 	_bom.s.o 
+  0000ae6c 000010 0000ae6c  4 lbl_805e2c6c 	_bom.s.o 
+  0000ae7c 000008 0000ae7c  4 lbl_805e2c7c 	_bom.s.o 
+  0000ae84 000008 0000ae84  4 lbl_805e2c84 	_bom.s.o 
+  0000ae8c 000018 0000ae8c  4 lbl_805e2c8c 	_bom.s.o 
+  0000aea4 00004c 0000aea4  4 lbl_805e2ca4 	_bom.s.o 
+  0000aef0 0000c0 0000aef0  8 lbl_805e2cf0 	_bom.s.o 
+  0000afb0 0000a8 0000afb0  8 lbl_805e2db0 	_bom.s.o 
+  0000b058 000030 0000b058  8 lbl_805e2e58 	_bom.s.o 
+  0000b088 0007b0 0000b088  8 lbl_805e2e88 	_bom.s.o 
+  0000b838 000068 0000b838  8 lbl_805e3638 	_bom.s.o 
+  0000b8a0 0000c4 0000b8a0  4 lbl_805e36a0 	_bom.s.o 
+  0000b964 000008 0000b964  4 lbl_805e3764 	_bom.s.o 
+  0000b96c 000008 0000b96c  4 lbl_805e376c 	_bom.s.o 
+  0000b974 000018 0000b974  4 lbl_805e3774 	_bom.s.o 
+  0000b98c 00004c 0000b98c  4 lbl_805e378c 	_bom.s.o 
+  0000b9d8 0000c0 0000b9d8  8 lbl_805e37d8 	_bom.s.o 
+  0000ba98 0000c0 0000ba98  8 lbl_805e3898 	_bom.s.o 
+  0000bb58 000114 0000bb58  8 lbl_805e3958 	_bom.s.o 
+  0000bc6c 0005a4 0000bc6c  4 lbl_805e3a6c 	_bom.s.o 
+  0000c210 000088 0000c210  8 lbl_805e4010 	_bom.s.o 
+  0000c298 000018 0000c298  8 lbl_805e4098 	_bom.s.o 
+  0000c2b0 000094 0000c2b0  8 lbl_805e40b0 	_bom.s.o 
+  0000c344 000094 0000c344  4 lbl_805e4144 	_bom.s.o 
+  0000c3d8 00004c 0000c3d8  8 lbl_805e41d8 	_bom.s.o 
+  0000c424 000090 0000c424  4 lbl_805e4224 	_bom.s.o 
+  0000c4b4 000008 0000c4b4  4 lbl_805e42b4 	_bom.s.o 
+  0000c4bc 000230 0000c4bc  4 lbl_805e42bc 	_bom.s.o 
+  0000c6ec 000608 0000c6ec  4 lbl_805e44ec 	_bom.s.o 
+  0000ccf4 0000e8 0000ccf4  4 lbl_805e4af4 	_bom.s.o 
+  0000cddc 000084 0000cddc  4 lbl_805e4bdc 	_bom.s.o 
+  0000ce60 0000c4 0000ce60  4 lbl_805e4c60 	_bom.s.o 
+  0000cf24 000008 0000cf24  4 lbl_805e4d24 	_bom.s.o 
+  0000cf2c 000008 0000cf2c  4 lbl_805e4d2c 	_bom.s.o 
+  0000cf34 000018 0000cf34  4 lbl_805e4d34 	_bom.s.o 
+  0000cf4c 00004c 0000cf4c  4 lbl_805e4d4c 	_bom.s.o 
+  0000cf98 0000c0 0000cf98  8 lbl_805e4d98 	_bom.s.o 
+  0000d058 0000a4 0000d058  8 lbl_805e4e58 	_bom.s.o 
+  0000d0fc 000090 0000d0fc  4 lbl_805e4efc 	_bom.s.o 
+  0000d18c 000090 0000d18c  4 lbl_805e4f8c 	_bom.s.o 
+  0000d21c 000078 0000d21c  4 lbl_805e501c 	_bom.s.o 
+  0000d294 00007c 0000d294  4 lbl_805e5094 	_bom.s.o 
+  0000d310 00011c 0000d310  8 lbl_805e5110 	_bom.s.o 
+  0000d42c 000028 0000d42c  4 lbl_805e522c 	_bom.s.o 
+  0000d454 000078 0000d454  4 lbl_805e5254 	_bom.s.o 
+  0000d4cc 00020c 0000d4cc  4 lbl_805e52cc 	_bom.s.o 
+  0000d6d8 000400 0000d6d8  8 lbl_805e54d8 	_bom.s.o 
+  0000dad8 0004dc 0000dad8  8 lbl_805e58d8 	_bom.s.o 
+  0000dfb4 000018 0000dfb4  4 lbl_805e5db4 	_bom.s.o 
+
+
+.bss section layout
+  Starting        Virtual
+  address  Size   address
+  -----------------------
+  00000000 000048 00000000  1 .bss 	_bom.s.o 
+  00000000 000004 00000000  4 lbl_80700070 	_bom.s.o 
+  00000004 000040 00000004  4 lbl_80700074 	_bom.s.o 
+  00000044 000004 00000044  4 lbl_807000b4 	_bom.s.o 
+
+
+Memory map:
+                   Starting Size     File
+                   address           Offset
+            .text  00000000 00006190 00000040
+           .ctors  00000000 00000004 000061d0
+           .dtors  00000000 00000004 000061d4
+          .rodata  00000000 000023c0 000061d8
+            .data  00000000 0000dfcc 00008598
+             .bss  00000000 00000048 00016568
+   .debug_srcinfo           000000 00000000
+   .debug_sfnames           000000 00000000
+           .debug           000000 00000000
+            .line           000000 00000000

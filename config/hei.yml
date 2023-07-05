@@ -1,4 +1,4 @@
 path: rels/bin/hei.rel
-bss_address: 0x80700C80
-address: 0x8091BEA0
+bss_address: 0x80700D00
+address: 0x8091BEE0
 dol: config/dol.yml

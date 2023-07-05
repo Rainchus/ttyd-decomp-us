@@ -27,6 +27,10 @@ output_dir = sys.argv[1]
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
+# Function to align an address to the specified alignment
+def align_address(address, alignment):
+    return (address + (alignment - 1)) & ~(alignment - 1)
+
 # Search for rel files in rels/bin directory
 for filename in os.listdir("rels/bin"):
     if filename.endswith(".rel"):
@@ -39,8 +43,7 @@ for filename in os.listdir("rels/bin"):
 
             # Calculate the BSS address based on the offset and the previous BSS address
             bss_address += bss_offset
-            #align to 8
-            bss_address += (0x10 - bss_address) % 0x10
+            bss_address = align_address(bss_address, 0x20)
 
             # Generate the output dictionary
             size = os.path.getsize(filepath)
@@ -57,7 +60,6 @@ for filename in os.listdir("rels/bin"):
             with open(output_filename, "w") as outfile:
                 yaml.dump(output_dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
 
-            # Update start address for next rel file
+            # Update start address for the next rel file
             START_ADDRESS += size
-            #align to 8
-            START_ADDRESS += (0x10 - START_ADDRESS) % 0x10
+            START_ADDRESS = align_address(START_ADDRESS, 0x20)

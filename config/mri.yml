@@ -1,4 +1,20 @@
 path: rels/bin/mri.rel
-bss_address: 0x80700DD0
-address: 0x8096A030
+bss_address: 0x80700E80
+address: 0x8096A080
 dol: config/dol.yml
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 32
+    - name: .data
+      balign: 32
+  bss:
+    - name: .bss
+      balign: 8

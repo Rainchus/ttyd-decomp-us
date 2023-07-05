@@ -1,4 +1,20 @@
 path: rels/bin/win.rel
-bss_address: 0x80701730
-address: 0x80C9CAA0
+bss_address: 0x80701860
+address: 0x80C9CB40
 dol: config/dol.yml
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 8
+    - name: .data
+      balign: 32
+  bss:
+    - name: .bss
+      balign: 8

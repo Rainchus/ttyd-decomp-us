@@ -1,4 +1,4 @@
 path: rels/bin/muj.rel
-bss_address: 0x807002F0
+bss_address: 0x80700320
 address: 0x806E0F60
 dol: config/dol.yml

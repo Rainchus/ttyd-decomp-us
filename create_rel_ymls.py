@@ -4,6 +4,83 @@ import sys
 import yaml
 from yaml.representer import SafeRepresenter
 
+mri_section_defs_text = """
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 32
+    - name: .data
+      balign: 32
+  bss:
+    - name: .bss
+      balign: 8
+"""
+
+pik_section_defs_text = """
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 8
+    - name: .data
+      balign: 8
+  bss:
+    - name: .bss
+      balign: 1
+      bss_start_align: 1
+"""
+
+tou2_section_defs_text = """
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 32
+    - name: .data
+      balign: 32
+  bss:
+    - name: .bss
+      balign: 8
+"""
+
+win_section_defs_text = """
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 8
+    - name: .data
+      balign: 32
+  bss:
+    - name: .bss
+      balign: 8
+"""
+
 class CustomRepresenter(SafeRepresenter):
     def represent_hex(self, data):
         return self.represent_scalar('tag:yaml.org,2002:int', '0x{:X}'.format(data))
@@ -59,6 +136,14 @@ for filename in os.listdir("rels/bin"):
             output_filename = os.path.join(output_dir, rel_name + ".yml")
             with open(output_filename, "w") as outfile:
                 yaml.dump(output_dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
+                if (filepath == "rels/bin/mri.rel"):
+                    outfile.write(mri_section_defs_text)
+                elif (filepath == "rels/bin/pik.rel"):
+                    outfile.write(pik_section_defs_text)
+                elif (filepath == "rels/bin/tou2.rel"):
+                    outfile.write(tou2_section_defs_text)
+                elif (filepath == "rels/bin/win.rel"):
+                    outfile.write(win_section_defs_text)
 
             # Update start address for the next rel file
             START_ADDRESS += size

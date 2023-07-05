@@ -2,6 +2,7 @@ path: rels/bin/pik.rel
 bss_address: 0x80700780
 address: 0x80822800
 dol: config/dol.yml
+
 section_defs:
   text:
     - name: .text

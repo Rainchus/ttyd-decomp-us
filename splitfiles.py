@@ -4,33 +4,21 @@ import subprocess
 import os
 import argparse
 
-# Color codes
-class Colors:
-    RESET = '\033[0m'
-    RED = '\033[91m'
-    GREEN = '\033[92m'
-    YELLOW = '\033[93m'
-    BLUE = '\033[94m'
-
 # Create directories if they don't exist
 directories = [
 "aaa", "aji", "bom", "dmo", "dou", "eki", "end", "gon", "gor",
 "gra", "hei", "hom", "jin", "jon", "kpa", "las", "moo", "mri",
-#"muj",
+"muj",
 "nok",
-#"pik",
+"pik",
 "rsh", "sys", "tik", "tou", "tou2", "usu", "win",
-#"yuu",
+"yuu",
 ]
 
 for directory in directories:
     path = os.path.join("asm", directory)
     if not os.path.exists(path):
         os.makedirs(path)
-
-parser = argparse.ArgumentParser()
-parser.add_argument("--rels", action="store_true", help="Disassemble rels")
-args = parser.parse_args()
 
 us_rels = [
     "config/aaa.yml", "config/aji.yml", "config/bom.yml", "config/dmo.yml",

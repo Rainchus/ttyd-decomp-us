@@ -20,9 +20,9 @@ rel_folder_paths = {
     "las": "asm/las",
     "moo": "asm/moo",
     "mri": "asm/mri",
-    #"muj": "asm/muj",
+    "muj": "asm/muj",
     "nok": "asm/nok",
-    #"pik": "asm/pik",
+    "pik": "asm/pik",
     "rsh": "asm/rsh",
     "sys": "asm/sys",
     "tik": "asm/tik",
@@ -30,7 +30,7 @@ rel_folder_paths = {
     "tou2": "asm/tou2",
     "usu": "asm/usu",
     "win": "asm/win",
-    #"yuu": "asm/yuu",
+    "yuu": "asm/yuu",
 }
 
 file_lists = {
@@ -51,9 +51,9 @@ file_lists = {
     "las": {"c": [], "s": [], "o": []},
     "moo": {"c": [], "s": [], "o": []},
     "mri": {"c": [], "s": [], "o": []},
-    #"muj": {"c": [], "s": [], "o": []},
+    "muj": {"c": [], "s": [], "o": []},
     "nok": {"c": [], "s": [], "o": []},
-    #"pik": {"c": [], "s": [], "o": []},
+    "pik": {"c": [], "s": [], "o": []},
     "rsh": {"c": [], "s": [], "o": []},
     "sys": {"c": [], "s": [], "o": []},
     "tik": {"c": [], "s": [], "o": []},
@@ -61,7 +61,7 @@ file_lists = {
     "tou2": {"c": [], "s": [], "o": []},
     "usu": {"c": [], "s": [], "o": []},
     "win": {"c": [], "s": [], "o": []},
-    #"yuu": {"c": [], "s": [], "o": []},
+    "yuu": {"c": [], "s": [], "o": []},
 }
 
 dir_path = 'src/'
@@ -211,7 +211,7 @@ ninja_file.rule('mri_elf_to_rel',
                 description = "Creating mri.rel...")
 
 ninja_file.rule('muj_elf_to_rel',
-                command="(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 19 -v 3 --name-offset 2FD --name-size 2D $in build/ttyd_us.elf) && (result=$$($SHA1SUM -c sha1/muj.rel.sha1); if [ \"$${result#* }\" = \"OK\" ]; then echo \"" + GREEN + "$${result}\"" + RESET + "; else echo \"" + RED + "$${result}\"" + RESET + "; fi)",
+                command="(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 19 -v 3 --name-offset 32A --name-size 2D $in build/ttyd_us.elf) && (result=$$($SHA1SUM -c sha1/muj.rel.sha1); if [ \"$${result#* }\" = \"OK\" ]; then echo \"" + GREEN + "$${result}\"" + RESET + "; else echo \"" + RED + "$${result}\"" + RESET + "; fi)",
                 description = "Creating muj.rel...")
 
 ninja_file.rule('nok_elf_to_rel',
@@ -251,7 +251,7 @@ ninja_file.rule('win_elf_to_rel',
                 description = "Creating win.rel...")
 
 ninja_file.rule('yuu_elf_to_rel',
-                command="(python3 ./tools/ppcdis/elf2rel.py -n 15 -m 28 -v 3 --name-offset 4C0 --name-size 2D $in build/ttyd_us.elf) && (result=$$($SHA1SUM -c sha1/yuu.rel.sha1); if [ \"$${result#* }\" = \"OK\" ]; then echo \"" + GREEN + "$${result}\"" + RESET + "; else echo \"" + RED + "$${result}\"" + RESET + "; fi)",
+                command="(python3 ./tools/ppcdis/elf2rel.py -n 16 -m 29 -v 3 --name-offset 4ED --name-size 2D $in build/ttyd_us.elf) && (result=$$($SHA1SUM -c sha1/yuu.rel.sha1); if [ \"$${result#* }\" = \"OK\" ]; then echo \"" + GREEN + "$${result}\"" + RESET + "; else echo \"" + RED + "$${result}\"" + RESET + "; fi)",
                 description = "Creating yuu.rel...")
 
 ninja_file.rule('make_elf',

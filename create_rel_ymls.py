@@ -80,6 +80,12 @@ section_defs:
     - name: .bss
       balign: 8
 """
+muj_section_defs_text = """
+path: rels/bin/muj.rel
+bss_address: 0x80A00320 #normal bss_address chosen by script collides with .data
+address: 0x806E0F60
+dol: config/dol.yml
+"""
 
 class CustomRepresenter(SafeRepresenter):
     def represent_hex(self, data):
@@ -144,6 +150,8 @@ for filename in os.listdir("rels/bin"):
                     outfile.write(tou2_section_defs_text)
                 elif (filepath == "rels/bin/win.rel"):
                     outfile.write(win_section_defs_text)
+                elif (filepath == "rels/bin/muj.rel"):
+                  outfile.write(muj_section_defs_text)
 
             # Update start address for the next rel file
             START_ADDRESS += size

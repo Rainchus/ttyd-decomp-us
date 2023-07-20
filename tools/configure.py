@@ -99,7 +99,7 @@ for file in os.listdir(asm_path):
 dol_o_files = []
 for file in dol_c_files + dol_s_files:
     dol_o_files.append("build/" + append_extension(file))
-
+print(dol_o_files)
 ninja_file = ninja_syntax.Writer(open('build.ninja', 'w'))
 
 ninja_file.variable('AS', '$$DEVKITPPC/bin/powerpc-eabi-as')
@@ -128,8 +128,7 @@ ninja_file.variable('CFLAGS', '-Cpp_exceptions off -proc gekko -fp hard $OPTFLAG
 ninja_file.rule('c_files',
                  command = "$CC $CFLAGS -c -o $in $out",
                  description = MAGENTA + "Compiling .c file" + RESET,
-                 depfile = "$out.d",
-                 deps = "gcc")
+                 depfile = "$out.d")
 
 ninja_file.rule('s_files',
                  command = "$AS $ASFLAGS -o $out $in",
@@ -262,6 +261,10 @@ ninja_file.rule('make_dol',
                 command="(python3 $ELF2DOL $in -o $out) && (result=$$($SHA1SUM -c sha1/ttyd.us.sha1); if [ \"$${result#* }\" = \"OK\" ]; then echo \"" + GREEN + "$${result}\"" + RESET + "; else echo \"" + RED + "$${result}\"" + RESET + "; fi)",
                 description= "Creating ttyd_us.dol...")
 
+for dol_c_file in dol_c_files:
+    ninja_file.build("build/" + append_extension(dol_c_file), "c_files", dol_c_file)
+for dol_s_file in dol_s_files:
+    ninja_file.build("build/" + append_extension(dol_s_file), "s_files", dol_s_file)
 
 ninja_file.build("build/ttyd_us.elf", "make_elf", dol_o_files)
 ninja_file.build("build/ttyd_us.dol", "make_dol", "build/ttyd_us.elf")

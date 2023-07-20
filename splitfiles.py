@@ -56,3 +56,6 @@ for directory in directories:
     reloc_input_file = f"asm/{directory}/relocs_{directory}_out.txt"
     output_file = f"asm/{directory}/_{directory}.s"
     subprocess.run(["python3", "./tools/ppcdis/disassembler.py", "-m", "config/symbols.yml", "-o", "config/disasm_overrides.yml", input_file, label_input_file, reloc_input_file, output_file])
+
+# Run disassembler.py on dol
+subprocess.run(["python3", "./tools/ppcdis/disassembler.py", "-m", "config/symbols.yml", "config/dol.yml", "asm/labels_out.txt", "asm/relocs_out.txt", "asm/disasm.s"])

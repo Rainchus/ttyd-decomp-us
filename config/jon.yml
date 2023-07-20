@@ -1,0 +1,4 @@
+path: rels/bin/jon.rel
+bss_address: 0x80701220
+address: 0x80A82100
+dol: config/dol.yml

@@ -6,9 +6,9 @@ SECTIONS
         .text :{}
         .ctors :{}
         .dtors :{}
-        .rodata :{}
-        .data :{}
-        .bss :{}
+        .rodata     ALIGN(0x08) : {}
+        .data       ALIGN(0x08) : {}
+        .bss        ALIGN(0x08) : {}
     }
 }
 

@@ -1,4 +1,4 @@
 path: rels/bin/aji.rel
-address: 0x805BA9A0
-bss_address: 0x803C8460
+bss_address: 0x80701660
+address: 0x80BB4B80
 dol: config/dol.yml

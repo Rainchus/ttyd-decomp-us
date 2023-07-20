@@ -1,0 +1,22 @@
+path: rels/bin/pik.rel
+bss_address: 0x80700780
+address: 0x80822800
+dol: config/dol.yml
+
+section_defs:
+  text:
+    - name: .text
+      balign: 4
+  data:
+    - name: .ctors
+      balign: 4
+    - name: .dtors
+      balign: 4
+    - name: .rodata
+      balign: 8
+    - name: .data
+      balign: 8
+  bss:
+    - name: .bss
+      balign: 1
+      bss_start_align: 1

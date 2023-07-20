@@ -1,0 +1,4 @@
+path: rels/bin/gor.rel
+bss_address: 0x80700A00
+address: 0x808789E0
+dol: config/dol.yml

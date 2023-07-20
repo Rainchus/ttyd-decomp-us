@@ -1,0 +1,4 @@
+path: rels/bin/hom.rel
+bss_address: 0x80700D20
+address: 0x80951BE0
+dol: config/dol.yml

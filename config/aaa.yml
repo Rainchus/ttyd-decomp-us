@@ -1,0 +1,4 @@
+path: rels/bin/aaa.rel
+bss_address: 0x807013A0
+address: 0x80B56C60
+dol: config/dol.yml

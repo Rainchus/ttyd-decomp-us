@@ -1,0 +1,4 @@
+path: rels/bin/tou.rel
+bss_address: 0x80700160
+address: 0x805EF2C0
+dol: config/dol.yml

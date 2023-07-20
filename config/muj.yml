@@ -1,0 +1,4 @@
+path: rels/bin/muj.rel
+bss_address: 0x80A00320 #normal bss_address chosen by script collides with .data
+address: 0x806E0F60
+dol: config/dol.yml

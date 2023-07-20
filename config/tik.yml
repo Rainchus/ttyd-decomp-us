@@ -1,0 +1,4 @@
+path: rels/bin/tik.rel
+bss_address: 0x807017A0
+address: 0x80C46960
+dol: config/dol.yml

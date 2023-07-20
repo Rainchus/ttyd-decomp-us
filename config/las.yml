@@ -1,0 +1,4 @@
+path: rels/bin/las.rel
+bss_address: 0x80700680
+address: 0x80751DC0
+dol: config/dol.yml
